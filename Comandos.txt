@@ -1,0 +1,29 @@
+Comandos Terraform:
+terraform init
+
+terraform validate
+
+terraform fmt
+
+terraform plan
+
+terraform apply
+
+SandBox Link:
+https://learn.microsoft.com/pt-br/training/modules/build-serverless-api-with-functions-api-management/5-exercise-import-additional-functions-existing-api-gateway
+
+Azure Link:
+https://portal.azure.com/
+
+Instalar Terraform:
+Set-ExecutionPolicy Bypass -Scope Process -Force
+[System.Net.ServicePointManager]::SecurityProtocol = [System.Net.SecurityProtocolType]::Tls12
+iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
+
+choco install terraform -y
+
+Instalar Azure Client:
+https://aka.ms/installazurecliwindows
+
+Comandos AZ:
+az group list -o table

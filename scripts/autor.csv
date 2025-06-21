@@ -1,0 +1,5001 @@
+id_autor,nome,nacionalidade
+1,Maria Júlia Araújo,Butão
+2,Davi Luiz Cardoso,Domínica
+3,Antony Azevedo,Zimbábue
+4,Sr. Théo Duarte,Paquistão
+5,Isabel Guerra,Wallis e Futuna
+6,Isaac Jesus,Senegal
+7,Sra. Ana Vitória Lima,Maurícia
+8,Dr. Emanuel Souza,Chipre
+9,Sra. Giovanna Moreira,Comores
+10,Vinicius Albuquerque,Seicheles
+11,Liz Aparecida,Burquina Faso
+12,Dr. Emanuel Vasconcelos,Finlândia
+13,Kamilly Marques,Vaticano
+14,Elisa Casa Grande,Tajiquistão
+15,Ravi Aragão,Cuba
+16,Maria Flor Leão,Suíça
+17,Maria Júlia Teixeira,Macedônia do Norte
+18,Daniela Silva,Barbados
+19,Diogo Carvalho,Zâmbia
+20,João Vitor Correia,Tokelau
+21,Sr. Vicente Garcia,Dhekelia
+22,Juliana Caldeira,Etiópia
+23,Bento Nunes,Tajiquistão
+24,Bento da Mata,Ilhas Marshall
+25,Evelyn da Cruz,Iran
+26,Sarah Silva,Jamaica
+27,Maria Luísa Nunes,São Tomé e Príncipe
+28,Dra. Maysa Monteiro,Akrotiri
+29,Lucas Montenegro,Noruega
+30,Isaque Jesus,Tunísia
+31,Dra. Larissa Correia,Macedônia do Norte
+32,Luísa Rezende,Sudão
+33,Cecilia Martins,Armênia
+34,Alexandre Silva,Guiana
+35,Igor Casa Grande,Ruanda
+36,Ester Araújo,Comores
+37,Dr. Vicente Duarte,Equador
+38,Eduardo Correia,Canadá
+39,Heloísa das Neves,Bulgária
+40,Clarice Moreira,Barein
+41,Dante da Luz,Costa do Marfim
+42,Dra. Hellena da Rocha,Pitcairn
+43,Maria Clara Monteiro,Territórios Austrais Franceses
+44,Srta. Gabriela Campos,Andorra
+45,Luigi Pinto,Eslováquia
+46,Raquel Peixoto,Jibuti
+47,Lorena Porto,Venezuela
+48,Milena Sampaio,Domínica
+49,Dra. Yasmin Mendes,Dinamarca
+50,Isaac Albuquerque,Bangladesh
+51,Maria Clara Souza,Bélgica
+52,Anthony da Mata,Quênia
+53,Gustavo Henrique Caldeira,Países Baixos
+54,Davi Miguel da Cruz,Bósnia e Herzegovina
+55,Maysa Guerra,Monserrate
+56,Enrico Costa,Cuba
+57,Cecilia Montenegro,Navassa Island
+58,Sr. Theodoro da Mota,Macedônia do Norte
+59,Sr. Rhavi da Paz,Guatemala
+60,Dr. Gustavo Moura,Niue
+61,Laís Mendonça,Coreia do Sul
+62,Heloísa Brito,Marianas do Norte
+63,Ana Julia Lopes,Malávi
+64,Benjamin Pacheco,África do Sul
+65,Emanuelly Brito,Japão
+66,Caio Mendonça,Nicarágua
+67,Ayla Porto,Bolívia
+68,Calebe Casa Grande,Guiné Equatorial
+69,Emanuel Vargas,Bulgária
+70,Rodrigo Aragão,Sri Lanka
+71,Théo Cassiano,Suazilândia
+72,Eduarda da Cunha,Montenegro
+73,Sr. Davi Luiz Moura,Guiné
+74,Manuella Rios,Cuba
+75,Clara Cunha,Dhekelia
+76,Danilo Pinto,Suíça
+77,Matteo Correia,Anguila
+78,Yan Vieira,Ruanda
+79,Antonella Silva,Armênia
+80,Emanuel Cavalcanti,Guam
+81,Clara das Neves,Camboja
+82,Cauê Vargas,Nepal
+83,José Silveira,Panamá
+84,Sarah Lima,Brunei
+85,Mariana das Neves,Porto Rico
+86,Lavínia Teixeira,Dhekelia
+87,Luísa Duarte,Estônia
+88,Eloá Sampaio,Índia
+89,Gabrielly Jesus,Nova Zelândia
+90,Dr. Thomas Garcia,Congo-Kinshasa
+91,Sr. Carlos Eduardo da Mata,Eslováquia
+92,Alexandre Borges,Taiwan
+93,Anthony Andrade,Catar
+94,Luiz Felipe Siqueira,Chipre
+95,Ana Julia Siqueira,Vietnam
+96,Mariah Gomes,Wallis e Futuna
+97,Dra. Julia Brito,Butão
+98,Ana Sophia Moura,Venezuela
+99,Daniela Sampaio,Uganda
+100,Pedro Lucas Rios,República Dominicana
+101,Oliver Jesus,São Tomé e Príncipe
+102,Bianca Vargas,Belize
+103,Juan Fonseca,Equador
+104,Asafe Farias,Svalbard e Jan Mayen
+105,Bruna Santos,Mali
+106,Gabrielly Silveira,Ilhas Salomão
+107,Isabella Freitas,Território Britânico do Oceano Índico
+108,Davi Lucas Rodrigues,Iran
+109,Erick da Luz,Bielorrússia
+110,Bárbara da Cruz,Vietnam
+111,Gustavo Henrique Pires,França
+112,Bianca Cavalcanti,Guiana
+113,Rael Lopes,Ilha Bouvet
+114,Lucca Câmara,Gâmbia
+115,Bella Farias,Malta
+116,Sofia Silveira,Japão
+117,Fernando Machado,República Centro-Africana
+118,Pedro Lucas Barros,Samoa Americana
+119,Marina Vieira,Sérvia
+120,Emanuel Andrade,Jan Mayen
+121,Nicole Mendes,Ilha Bouvet
+122,Brayan Costela,Congo-Kinshasa
+123,Paulo Pacheco,Reino Unido
+124,Yago Cardoso,Somália
+125,Olivia Farias,Panamá
+126,Jade Montenegro,China
+127,João Gabriel da Rocha,Salvador
+128,Diogo Pacheco,Ilhas Cook
+129,André Viana,Quirguizistão
+130,Vitor Gabriel Viana,Austrália
+131,Sr. Gabriel Costa,China
+132,Marcela Vieira,Congo-Brazzaville
+133,Mariane Azevedo,Territórios Austrais Franceses
+134,Valentim Viana,Maurícia
+135,Emanuel Cirino,Países Baixos
+136,Luiz Miguel Camargo,Salvador
+137,Ana Clara Duarte,Costa do Marfim
+138,Daniel Garcia,Ilhas Marshall
+139,Catarina Ribeiro,Mayotte
+140,Vicente Fonseca,Jordânia
+141,Sra. Eduarda Rios,Ilhas Cook
+142,Alana Albuquerque,Clipperton Island
+143,Ana Clara Vasconcelos,Marianas do Norte
+144,Olívia Vasconcelos,Dinamarca
+145,Henry Gabriel Leão,Brasil
+146,Samuel Barbosa,Cazaquistão
+147,Luiz Fernando Borges,Espanha
+148,Rael Cassiano,Dhekelia
+149,Ana Luiza Carvalho,Hong Kong
+150,Davi Martins,Chipre
+151,João Miguel Nogueira,Tailândia
+152,Lucas Barros,Malta
+153,Maria Helena Novaes,Sri Lanka
+154,Eduardo da Costa,Indonésia
+155,Renan Souza,Dinamarca
+156,Dom Cavalcanti,Serra Leoa
+157,Augusto Correia,Ilha Wake
+158,Henry Silva,Nova Caledónia
+159,Allana Novais,Vaticano
+160,Daniela Aparecida,Mongólia
+161,Maitê Novais,Suíça
+162,Sr. Pietro Pires,República Dominicana
+163,Srta. Olívia Costela,Áustria
+164,Eduardo das Neves,Albânia
+165,Diego Sousa,Islândia
+166,Theo Cunha,Afeganistão
+167,Sarah Castro,Hong Kong
+168,Isabella da Luz,Países Baixos
+169,Luna Andrade,Grécia
+170,Caroline Duarte,Japão
+171,Ana Lívia Gonçalves,Bielorrússia
+172,Noah Oliveira,Quiribáti
+173,Beatriz Abreu,Somália
+174,Júlia Sá,Noruega
+175,Pedro Lucas Nunes,Jibuti
+176,Maria Luiza Gonçalves,Uruguai
+177,Kaique Silveira,Costa do Marfim
+178,André da Rocha,Quirguizistão
+179,Alícia da Cunha,Mônaco
+180,Sr. Pedro Henrique Nunes,Itália
+181,Amanda Barros,Reino Unido
+182,Samuel Campos,Arábia Saudita
+183,Sra. Laura Teixeira,Granada
+184,Sra. Sabrina Gonçalves,Emirados Árabes Unidos
+185,Dom Cavalcanti,Benim
+186,Apollo Nascimento,Botsuana
+187,Daniel Peixoto,Islândia
+188,Cecilia Monteiro,Groenlândia
+189,Sr. Caio Barros,Luxemburgo
+190,Milena Machado,Burquina Faso
+191,Yasmin Peixoto,Mayotte
+192,Laura Cardoso,Israel
+193,Nathan Brito,Uganda
+194,Maria Laura Rocha,Birmânia
+195,Anthony Pires,Tokelau
+196,Sophia Barros,Ilhas Heard e McDonald
+197,Luan Santos,Síria
+198,Benício Lopes,Granada
+199,Ana Sophia Cavalcante,Ilha Norfolk
+200,Caroline Porto,Faroé
+201,Arthur Miguel da Cunha,União Europeia
+202,Heloísa da Mota,Ilha Bouvet
+203,Eduarda Cardoso,Suriname
+204,Benicio Garcia,Macedônia do Norte
+205,Marina Rezende,Malta
+206,Juan Andrade,Madagascar
+207,Alexandre Pinto,Hong Kong
+208,Melina Viana,Vaticano
+209,Júlia da Costa,Liechtenstein
+210,Dr. Renan Pinto,Alemanha
+211,Levi Mendonça,Serra Leoa
+212,Ana Andrade,Egito
+213,Caroline Sá,Gibraltar
+214,Bryan da Luz,Ilha Wake
+215,Evelyn da Cunha,Armênia
+216,Sr. Thiago Melo,Navassa Island
+217,Nicolas Andrade,Lituânia
+218,Dra. Maria Luísa Novaes,Ilhas Virgens Britânicas
+219,Dante Sá,Navassa Island
+220,Sabrina Freitas,Líbano
+221,Igor Pastor,Lesoto
+222,Dr. Pedro Henrique Câmara,República Dominicana
+223,Gabriel Ramos,Comores
+224,Ana Sophia Fernandes,Maldivas
+225,Isabel Cirino,Congo-Kinshasa
+226,Raul Siqueira,Bielorrússia
+227,Luiz Felipe Lopes,Tailândia
+228,Olívia Teixeira,Domínica
+229,Zoe Silva,Cabo Verde
+230,Kamilly Mendonça,França
+231,Eloá Mendes,Somália
+232,Lucas Fernandes,Togo
+233,Marina Casa Grande,Trindade e Tobago
+234,Renan Ferreira,Dhekelia
+235,Srta. Olívia Silva,Estônia
+236,Sr. Luiz Henrique Dias,Gana
+237,Luan Aparecida,Ruanda
+238,Srta. Sabrina das Neves,Cuba
+239,Alexia Cassiano,Luxemburgo
+240,Pietro Nascimento,Congo-Kinshasa
+241,Maria Clara Porto,Papua-Nova Guiné
+242,Raul Garcia,Geórgia do Sul e Sandwich do Sul
+243,Alícia da Paz,Jordânia
+244,Noah Mendonça,Svalbard e Jan Mayen
+245,Anthony Monteiro,Wallis e Futuna
+246,Ayla Martins,Arábia Saudita
+247,Bento Siqueira,Mônaco
+248,Dra. Maria Eduarda Cavalcanti,Maldivas
+249,Brenda Sampaio,Ilhas Turcas e Caicos
+250,Diego Barros,Angola
+251,Ana Cecília da Cruz,Bolívia
+252,Caleb Martins,Granada
+253,Ísis Leão,Burquina Faso
+254,Levi Barros,Gâmbia
+255,Marina Guerra,Irlanda
+256,Kaique Rezende,Ilhas dos Cocos
+257,Sra. Alice Melo,Egito
+258,Ayla Barbosa,Bielorrússia
+259,Isabella Ribeiro,Monserrate
+260,Camila Marques,Camarões
+261,Benicio Fonseca,Bolívia
+262,Gustavo Henrique Moura,Ucrânia
+263,Rafaela Melo,Nauru
+264,Kevin Jesus,Mauritânia
+265,Eloá Jesus,Barein
+266,Kaique Moura,Peru
+267,Asafe Moreira,Tuvalu
+268,Letícia Monteiro,Maurícia
+269,Dr. Rodrigo Vieira,Fiji
+270,Maria Cecília Ferreira,Groenlândia
+271,Mateus Azevedo,Clipperton Island
+272,Augusto Jesus,Maurícia
+273,Calebe Pastor,Eslováquia
+274,Thiago Moreira,Ilhas dos Cocos
+275,Stella Freitas,Polinésia Francesa
+276,Guilherme Lopes,Svalbard e Jan Mayen
+277,Murilo Martins,Bélgica
+278,Vinícius Almeida,Birmânia
+279,Natália Novaes,Faroé
+280,Samuel Leão,Chile
+281,Maria Liz Pacheco,Kuwait
+282,Lunna Fernandes,Congo-Kinshasa
+283,Pedro Henrique Jesus,Ilhas Heard e McDonald
+284,Lunna Novaes,Somália
+285,Ian Nogueira,Moçambique
+286,Lara Pinto,Estônia
+287,Dr. Ravi Albuquerque,Timor Leste
+288,Dra. Zoe Barbosa,Ilha do Natal
+289,Sra. Liz Gonçalves,Papua-Nova Guiné
+290,Lunna Pires,Ilha Wake
+291,Ana Lívia Machado,Nova Zelândia
+292,Ester Lopes,Egito
+293,Ana Sophia Campos,União Europeia
+294,Gabriel Ribeiro,Ilhas Virgens Britânicas
+295,Dra. Ísis Barbosa,Mayotte
+296,Sr. Felipe Nunes,Tanzânia
+297,Catarina Macedo,Índia
+298,João Guilherme Novais,Guam
+299,João Barros,Guiana
+300,Rodrigo Porto,Iran
+301,Camila da Mata,Nova Caledónia
+302,Ana Cassiano,Palau
+303,Srta. Beatriz Cirino,Vanuatu
+304,Manuella Vasconcelos,Jamaica
+305,Ana Cecília Fogaça,Samoa Americana
+306,Lucas Gabriel Freitas,Samoa Americana
+307,Benjamin Moraes,Ruanda
+308,Sra. Anna Liz Sales,Butão
+309,Guilherme Borges,Liechtenstein
+310,Agatha Rodrigues,Barein
+311,Maria Alice Rodrigues,Costa Rica
+312,Sr. Isaque Garcia,Eritreia
+313,Dra. Stephany Farias,Fiji
+314,Sra. Maya Marques,Ilhas Virgens Britânicas
+315,Vinícius Rocha,Bahamas
+316,Clara Casa Grande,Sara Ocidental
+317,Ravi Lucca Pastor,Cazaquistão
+318,Aurora Oliveira,Cazaquistão
+319,Sr. José Miguel Costa,Argentina
+320,Eloá Pacheco,Eritreia
+321,Igor Sá,Botsuana
+322,Caleb Fonseca,Togo
+323,Rafaela Cunha,Laos
+324,Sra. Melissa Barbosa,Samoa Americana
+325,Esther Camargo,Estados Unidos
+326,Maria Helena Mendonça,Libéria
+327,Aurora Almeida,Antártica
+328,Srta. Sarah Lopes,Birmânia
+329,Eduardo Camargo,Iran
+330,José Freitas,Luxemburgo
+331,Júlia Rezende,Coral Sea Islands
+332,Gustavo Oliveira,Namíbia
+333,Milena Pimenta,Nova Caledónia
+334,Ana Clara Peixoto,Santa Helena
+335,Henrique Costela,Filipinas
+336,Aurora Pinto,Guiné
+337,Rafael Borges,Coreia do Sul
+338,Antônio Montenegro,Senegal
+339,Gustavo Henrique Carvalho,Nepal
+340,Enzo Gabriel Porto,Congo-Kinshasa
+341,Liam Aragão,Coral Sea Islands
+342,Rebeca Casa Grande,Ilhas Virgens Britânicas
+343,Yasmin Aparecida,República Centro-Africana
+344,Maya Souza,Tajiquistão
+345,Rhavi Machado,Dinamarca
+346,Henrique Alves,Território Britânico do Oceano Índico
+347,Sofia Gomes,Marrocos
+348,Cecília Lima,Egito
+349,Manuella Garcia,Áustria
+350,Melina Rezende,Costa do Marfim
+351,Valentina da Cruz,Gabão
+352,Maria Luiza Fernandes,Quênia
+353,Emanuel Martins,Guernsey
+354,Isabelly Sá,Áustria
+355,Thales Peixoto,Tailândia
+356,José Miguel Cassiano,Costa Rica
+357,Vitória Camargo,Iraque
+358,Ravi Lucca Correia,Ilhas Turcas e Caicos
+359,Davi Casa Grande,Serra Leoa
+360,Sr. Yuri Pereira,Filipinas
+361,Carolina da Rocha,Hong Kong
+362,Amanda Pinto,Ilhas Salomão
+363,Mariane Azevedo,República Checa
+364,Laura Abreu,Chipre
+365,Leonardo Almeida,Papua-Nova Guiné
+366,Ester Araújo,Zâmbia
+367,Ana Lívia Sousa,Andorra
+368,Catarina Pires,Granada
+369,Ísis da Mota,Santa Helena
+370,Heloisa Azevedo,Estados Unidos
+371,Sra. Antonella Carvalho,Clipperton Island
+372,Augusto Lopes,Samoa Americana
+373,Sra. Julia Vargas,Burundi
+374,Maria Vitória Azevedo,Albânia
+375,Catarina Casa Grande,Senegal
+376,Thiago Novais,Somália
+377,Sophie Lima,Bangladesh
+378,Luiz Felipe Sampaio,Costa Rica
+379,Dra. Ana Cecília Pinto,Navassa Island
+380,Yuri da Mata,Navassa Island
+381,Otávio Novaes,Colômbia
+382,Brayan Ribeiro,Costa Rica
+383,Enzo Gabriel Siqueira,Niue
+384,Ana Sophia Fonseca,Irlanda
+385,Allana Albuquerque,Kuwait
+386,Maria Luiza Pereira,Níger
+387,Lara Freitas,Ucrânia
+388,Rhavi Fernandes,São Pedro e Miquelon
+389,Diogo Gomes,Montenegro
+390,Lavínia Farias,Libéria
+391,Vitória Martins,Panamá
+392,Heitor da Rocha,Togo
+393,Srta. Ana Júlia Almeida,Vanuatu
+394,Maria Cecília da Mota,Egito
+395,Bianca Fogaça,Argentina
+396,Bruna da Mata,Congo-Kinshasa
+397,Maria Luiza Siqueira,Navassa Island
+398,Marina Pinto,Níger
+399,Mariana Farias,Quiribáti
+400,Mirella Siqueira,Somália
+401,Lorena Rios,Coreia do Sul
+402,Fernando Mendes,Turquemenistão
+403,Davi Luiz Moreira,Portugal
+404,Davi Miguel Fernandes,Turquia
+405,Marina da Luz,Tunísia
+406,Sr. Nathan Aragão,Guiné Equatorial
+407,Ravy Novais,Mongólia
+408,Dr. Pedro da Cruz,Egito
+409,Maria Júlia da Paz,Islândia
+410,Otto Borges,Togo
+411,Benicio Barros,Paquistão
+412,Nina Silveira,Áustria
+413,Marina Cardoso,Catar
+414,Otto Ferreira,Santa Helena
+415,Larissa Novaes,Antártica
+416,Luna Fonseca,Níger
+417,Luiz Otávio Sousa,Eslovênia
+418,Alícia Borges,Zâmbia
+419,Pedro Lucas Pinto,Azerbaijão
+420,João Vitor Marques,Honduras
+421,João Miguel Sá,Croácia
+422,Vitor Hugo Brito,Etiópia
+423,Ian Cavalcanti,Sudão
+424,Danilo da Luz,Namíbia
+425,Eduardo Andrade,Israel
+426,Ágatha da Rosa,Monserrate
+427,Maria Luiza Novaes,Camboja
+428,Apollo Castro,Islândia
+429,Ravi Lucca Siqueira,Eslováquia
+430,Srta. Maria Clara da Rosa,Samoa
+431,Fernando Rodrigues,Paracel Islands
+432,Dr. Arthur Oliveira,Países Baixos
+433,Ísis da Cunha,Akrotiri
+434,Eduardo Fernandes,Sara Ocidental
+435,Beatriz Costela,Suazilândia
+436,Ana Júlia da Paz,Ilhas Salomão
+437,Yasmin Mendonça,Jamaica
+438,Luan Teixeira,Território Britânico do Oceano Índico
+439,Sr. Diogo Rodrigues,Chipre
+440,Carlos Eduardo Santos,Kuwait
+441,José Pinto,Paraguai
+442,Daniel Martins,Albânia
+443,Vicente Martins,Canadá
+444,João Felipe Sá,Bulgária
+445,Enzo da Mata,Ilhas Falkland
+446,Sr. Luigi Siqueira,Egito
+447,Dr. Vicente Rios,Costa Rica
+448,Maitê Ferreira,Uruguai
+449,Dr. Rafael Teixeira,Guiné-Bissau
+450,Maria Laura Siqueira,Andorra
+451,Ayla Nunes,Timor Leste
+452,Levi Nascimento,Quiribáti
+453,Joana Fogaça,Etiópia
+454,Augusto Câmara,Síria
+455,Davi Miguel Abreu,Bahamas
+456,Dr. Erick Sousa,Malásia
+457,André Garcia,Croácia
+458,Jade da Conceição,Faroé
+459,Isabella Pinto,Tailândia
+460,Luiz Miguel Fernandes,Costa Rica
+461,Diego Garcia,Gana
+462,Dr. Yago Campos,Ashmore and Cartier Islands
+463,Pedro Cavalcanti,Rússia
+464,Dr. Luiz Fernando Oliveira,Croácia
+465,Eloá da Cruz,Dhekelia
+466,Cauê Montenegro,Moçambique
+467,Otávio Rios,Ilha de Man
+468,Rebeca da Rocha,Peru
+469,Gustavo Azevedo,Dhekelia
+470,Lavínia Pinto,Trindade e Tobago
+471,Ravy Farias,Congo-Brazzaville
+472,Maria Liz Aragão,Chipre
+473,Ana Ferreira,Uruguai
+474,Vitor Gabriel da Costa,Costa do Marfim
+475,Oliver Andrade,Moldávia
+476,Luan Martins,Tanzânia
+477,Catarina Ramos,Nova Zelândia
+478,Raul Carvalho,Bahamas
+479,Diogo Fonseca,Tonga
+480,Diogo Castro,Vanuatu
+481,Benjamim Barros,Azerbaijão
+482,Isis Dias,Guernsey
+483,Mariane Barbosa,Indonésia
+484,Davi Guerra,Bolívia
+485,Gael Machado,Coreia do Sul
+486,Samuel Cassiano,Mônaco
+487,Melissa Câmara,Aruba
+488,Dante Pereira,Espanha
+489,Alana Leão,Haiti
+490,Otto Sá,Libéria
+491,Sr. Anthony Costa,São Tomé e Príncipe
+492,Sra. Laís Martins,São Pedro e Miquelon
+493,Ravy Sá,Níger
+494,Davi Lucas Sá,Zimbábue
+495,Rafael Barbosa,Svalbard e Jan Mayen
+496,Samuel Cavalcante,Brunei
+497,Dr. Vinicius Gomes,Venezuela
+498,Giovanna Albuquerque,Somália
+499,Helena Farias,Eritreia
+500,Sra. Ana Lívia Lima,Domínica
+501,Dr. João Miguel Pacheco,Kuwait
+502,Sra. Ísis Aparecida,Eslováquia
+503,Camila Sá,Áustria
+504,Felipe Farias,Bahamas
+505,Juliana Porto,São Cristóvão e Neves
+506,Sr. Leandro Ramos,Domínica
+507,Alexandre Moura,Maldivas
+508,Carlos Eduardo Souza,Marianas do Norte
+509,Miguel da Cruz,Uruguai
+510,Anthony Gabriel Costa,Argentina
+511,Srta. Ana Luiza Ribeiro,Nauru
+512,Dra. Ana Cecília Casa Grande,Equador
+513,Pedro Vieira,Bolívia
+514,Antony Pacheco,Ruanda
+515,Joana Farias,China
+516,Clara Casa Grande,Trindade e Tobago
+517,Miguel Cunha,Zimbábue
+518,Luigi Cardoso,Libéria
+519,Maria Liz Teixeira,Bielorrússia
+520,Helena Gonçalves,Guernsey
+521,Dra. Elisa Alves,Suriname
+522,Paulo da Costa,Cuba
+523,Srta. Alícia Silveira,São Pedro e Miquelon
+524,Otto da Paz,Omã
+525,Srta. Isis Machado,São Marinho
+526,Sra. Raquel Sá,Eslováquia
+527,Kamilly Viana,Eslováquia
+528,Mathias Alves,Jersey
+529,Enrico Moreira,Senegal
+530,Maria Júlia Gomes,Guiné
+531,Beatriz Camargo,Moldávia
+532,Calebe Sales,Iêmen
+533,Renan Cirino,Arábia Saudita
+534,Maria Julia Vasconcelos,Mongólia
+535,Valentim Rios,Quênia
+536,Natália da Rosa,Bélgica
+537,Emilly Vasconcelos,Zâmbia
+538,Srta. Bruna das Neves,África do Sul
+539,Clara Lima,Armênia
+540,Luiz Henrique Cassiano,Monserrate
+541,Alexia Rocha,Suriname
+542,Bento da Rocha,Timor Leste
+543,Sr. Diogo Silva,Nova Caledónia
+544,Maria Vitória Montenegro,Senegal
+545,Zoe Pacheco,Quirguizistão
+546,Lucas Gabriel Pires,Nova Caledónia
+547,Ana Clara Marques,Níger
+548,Alexandre Moreira,Kuwait
+549,Pietro da Cruz,Níger
+550,Davi Lucas Campos,Jibuti
+551,Thiago da Mota,Polônia
+552,Sara Carvalho,Macau
+553,Sr. Ryan Gonçalves,Cazaquistão
+554,Otto Caldeira,Polinésia Francesa
+555,Luiz Felipe Pimenta,Guiné-Bissau
+556,Maria Flor Oliveira,Akrotiri
+557,André Correia,Eslovênia
+558,Thales Araújo,Bolívia
+559,Pedro Henrique Porto,Marianas do Norte
+560,Benjamim Jesus,Letônia
+561,Anna Liz Vasconcelos,Brunei
+562,Srta. Stella Camargo,Samoa Americana
+563,Sophia Nascimento,Uruguai
+564,Vicente Freitas,Espanha
+565,André da Luz,Jan Mayen
+566,Sr. Matheus Barbosa,Comores
+567,Bella Campos,Vanuatu
+568,Henry Abreu,Tunísia
+569,Benjamin da Luz,Finlândia
+570,Sr. Isaque Caldeira,Andorra
+571,Dr. João Lucas Rodrigues,Svalbard e Jan Mayen
+572,Vitória Rezende,Navassa Island
+573,Juliana Ferreira,Uganda
+574,Sra. Stella Macedo,Cuba
+575,Luiz Miguel Sampaio,Suíça
+576,Ana Liz Aparecida,São Tomé e Príncipe
+577,José Pedro Castro,Suazilândia
+578,Srta. Sophia Gonçalves,Angola
+579,Sabrina Novais,República Dominicana
+580,Thomas Rocha,Jan Mayen
+581,Francisco Silveira,Samoa Americana
+582,Diego Pereira,México
+583,José Pedro Costela,Benim
+584,Sr. Miguel Garcia,Estônia
+585,Juan Viana,Tokelau
+586,Pedro Lucas Castro,Noruega
+587,Vinícius da Luz,Ilhas Heard e McDonald
+588,João Gabriel Moraes,Argélia
+589,Srta. Larissa Vargas,Mali
+590,Luísa Teixeira,Mali
+591,Dr. Luan Novais,Togo
+592,Davi Lucas Guerra,Sara Ocidental
+593,João Lucas Moura,Belize
+594,Yan Aragão,Palau
+595,Dr. Arthur Gabriel Vieira,Espanha
+596,Sr. Ravi Lucca Silva,Faroé
+597,Pietra Aragão,Guam
+598,Francisco Guerra,Eritreia
+599,Matheus Fogaça,Dinamarca
+600,Maria Sophia Pastor,Tailândia
+601,Maria Helena Almeida,São Marinho
+602,Srta. Isis Nogueira,Hungria
+603,Dr. Davi Lucca Alves,Tonga
+604,Maria Júlia Azevedo,Ilhas Salomão
+605,Ana Beatriz Siqueira,Brunei
+606,Beatriz Rocha,Finlândia
+607,Erick Lopes,Trindade e Tobago
+608,Maya da Cruz,Síria
+609,Isadora Moura,Anguila
+610,Renan Rios,Suriname
+611,Emanuella Aragão,Usbequistão
+612,Lunna Freitas,Geórgia
+613,Clara Silva,Kuwait
+614,Luísa da Luz,Índia
+615,Kaique Novais,Chade
+616,Hellena Alves,Bulgária
+617,Ian Novaes,Venezuela
+618,Luiz Henrique Nogueira,Chade
+619,Benício Marques,Papua-Nova Guiné
+620,Dr. Luiz Henrique Moura,Iêmen
+621,Rael da Mota,Mayotte
+622,Dra. Marcela Cunha,Ilhas Virgens Britânicas
+623,Bella Rios,Israel
+624,Maria Sophia Siqueira,União Europeia
+625,Ana Carolina Pimenta,Belize
+626,Eduardo da Conceição,Geórgia
+627,Dr. Théo da Conceição,Porto Rico
+628,Theodoro Pacheco,Dinamarca
+629,Cauã Nogueira,Dhekelia
+630,Thomas Pereira,Faroé
+631,Carlos Eduardo Fogaça,Nova Zelândia
+632,Luna Marques,México
+633,Stella Fernandes,Barbados
+634,Liam Albuquerque,Trindade e Tobago
+635,Sra. Emanuelly Novaes,Eritreia
+636,Stella Cardoso,Butão
+637,Felipe da Mata,Egito
+638,Heitor Albuquerque,Filipinas
+639,Maria Cecília Cirino,Jan Mayen
+640,Emanuel Borges,Singapura
+641,Srta. Joana Vargas,Serra Leoa
+642,Dr. Ravi Lucca Araújo,Angola
+643,Alice Sales,Costa Rica
+644,Bruno Garcia,Vanuatu
+645,Mathias Aparecida,Afeganistão
+646,Kaique Cassiano,Tonga
+647,Alana Teixeira,Argélia
+648,Davi Lucas Cunha,Antártica
+649,Srta. Alana Correia,Tonga
+650,Julia Campos,Granada
+651,Arthur Miguel Silva,Taiwan
+652,Bárbara Rios,Barbados
+653,Henry Farias,Svalbard e Jan Mayen
+654,Sr. Luiz Miguel Andrade,Israel
+655,Isaque Cavalcanti,Ilhas Salomão
+656,Antônio Machado,Vaticano
+657,João Felipe Porto,Palau
+658,Diego Monteiro,Santa Lúcia
+659,Davi Miguel da Paz,Monserrate
+660,Dra. Luna Ramos,Comores
+661,Brayan Pinto,Bolívia
+662,Bryan Andrade,Quirguizistão
+663,André Albuquerque,Coreia do Sul
+664,Dra. Milena Farias,Egito
+665,Catarina Sá,Ilhas dos Cocos
+666,Anthony Sá,Maurícia
+667,Daniela Nunes,Suriname
+668,Sra. Maria Júlia Caldeira,Turquemenistão
+669,Bruna Moreira,Letônia
+670,Gabriela Gonçalves,Groenlândia
+671,André Jesus,Síria
+672,Henry Moura,Salvador
+673,Gael Henrique da Mata,Groenlândia
+674,Mariah Novais,Argentina
+675,Vitor Abreu,Sara Ocidental
+676,Gabriela Vasconcelos,Ilhas Marshall
+677,Apollo Brito,Albânia
+678,Ester Carvalho,Lesoto
+679,Davi Lucas Novaes,Ilhas Marshall
+680,Thiago da Paz,Reino Unido
+681,Dr. Vinícius Pereira,Colômbia
+682,Aylla Cassiano,Barein
+683,João Felipe Pires,Indonésia
+684,Luiz Otávio Albuquerque,Antígua e Barbuda
+685,Eloah Viana,Mauritânia
+686,Allana Campos,China
+687,Davi Lucca da Conceição,Eritreia
+688,Pedro das Neves,Argélia
+689,Cecília da Cunha,Niue
+690,Cecília Rezende,Moldávia
+691,Lucas Gabriel Correia,França
+692,Valentim Camargo,Domínica
+693,Alice Rios,Afeganistão
+694,Dra. Julia Ramos,Kuwait
+695,Juliana Vargas,Indonésia
+696,Anthony Cardoso,Bósnia e Herzegovina
+697,Marina Ferreira,Líbano
+698,Maysa Leão,Israel
+699,Antony Peixoto,Ilhas Falkland
+700,Ravi Lucca Castro,Guernsey
+701,Ana Beatriz da Cunha,Nepal
+702,João Pedro da Cruz,Ilhas Heard e McDonald
+703,Beatriz Câmara,Dinamarca
+704,Dra. Isabella Moraes,Omã
+705,Pedro Sampaio,Faroé
+706,Rael Guerra,Tajiquistão
+707,Otto Nascimento,Uganda
+708,Breno Rodrigues,Suíça
+709,Dr. João Castro,Costa Rica
+710,Ryan da Conceição,Tanzânia
+711,Alexia Camargo,Burundi
+712,Apollo Lopes,Laos
+713,Ana Beatriz Farias,Kuwait
+714,Pedro Miguel da Luz,Senegal
+715,Srta. Brenda Pacheco,Aruba
+716,Luna Pacheco,Serra Leoa
+717,Dr. Vinícius Martins,Niue
+718,Pedro Monteiro,Maurícia
+719,João Vitor Cardoso,Usbequistão
+720,Daniel da Rosa,Guiné-Bissau
+721,Marcela da Paz,Belize
+722,Sr. Ravi Brito,Cuba
+723,Dra. Maria Alice Vargas,Mauritânia
+724,João Vitor Vieira,Reino Unido
+725,Dra. Bárbara Moraes,Antártica
+726,Mateus Fernandes,Luxemburgo
+727,Asafe Cirino,Uruguai
+728,Anna Liz Albuquerque,Paquistão
+729,Antony Costela,Guam
+730,Kaique da Cunha,Senegal
+731,Ana Luiza Cunha,Porto Rico
+732,Yasmin Rezende,Costa Rica
+733,Luiz Gustavo da Luz,Líbano
+734,Evelyn Casa Grande,Rússia
+735,João Vitor Andrade,Israel
+736,Ana Carolina Guerra,Coral Sea Islands
+737,Sarah Cavalcante,Panamá
+738,Srta. Maria Júlia Nogueira,Paquistão
+739,Bryan Nogueira,Guam
+740,Apollo Porto,Domínica
+741,Bruno Caldeira,República Centro-Africana
+742,Eloah Peixoto,Ilha do Natal
+743,Milena Ribeiro,Macau
+744,Juan Albuquerque,Maurícia
+745,José Miguel Machado,Ilhas Salomão
+746,Marcela Gonçalves,Burundi
+747,Emilly Silveira,Ilhas Heard e McDonald
+748,Maria Liz Lima,Filipinas
+749,João Gabriel Costa,Turquemenistão
+750,Luara Aragão,Equador
+751,Catarina Leão,Bahamas
+752,Sara Garcia,Costa do Marfim
+753,Nathan Pires,Honduras
+754,Clarice Souza,Egito
+755,Davi Luiz Pinto,Groenlândia
+756,Sr. Dante Siqueira,Domínica
+757,Srta. Manuella Monteiro,Tonga
+758,Dra. Zoe Correia,Uganda
+759,Dra. Kamilly da Mota,Gabão
+760,Josué da Paz,Turquia
+761,Sofia Costela,Peru
+762,João Felipe Câmara,Croácia
+763,Enzo Gabriel Andrade,Senegal
+764,Natália Borges,Brasil
+765,Caroline Nunes,Polinésia Francesa
+766,Dr. Davi Lucca Machado,Estados Unidos
+767,Dr. Breno Cunha,Jan Mayen
+768,Sophie da Mota,Svalbard e Jan Mayen
+769,Alana Gonçalves,Taiwan
+770,Emilly Fonseca,Hungria
+771,Calebe Guerra,Estônia
+772,Lunna Ramos,Líbia
+773,Heloisa Aparecida,Nauru
+774,Ana Beatriz Aragão,Sudão
+775,Bryan Jesus,Akrotiri
+776,Ana Julia Moura,Barein
+777,Josué Rodrigues,Domínica
+778,Srta. Ana Júlia Gonçalves,Chipre
+779,Maria Laura Ramos,Haiti
+780,Eloah Gonçalves,Anguila
+781,Ryan Novais,Porto Rico
+782,Davi Luiz Rezende,Iêmen
+783,Marina Porto,Polônia
+784,Arthur Gabriel Campos,Jamaica
+785,Calebe Sousa,Aruba
+786,Maria Fernanda Cirino,Cazaquistão
+787,Cauã Câmara,Territórios Austrais Franceses
+788,Luiz Fernando Farias,Eslováquia
+789,Srta. Daniela Duarte,Ilhas Falkland
+790,Antony Cavalcanti,Burquina Faso
+791,Joaquim Siqueira,Bolívia
+792,Davi da Costa,Granada
+793,Valentim Pimenta,São Pedro e Miquelon
+794,Ana Beatriz Pires,Guiné
+795,Manuella Albuquerque,Burundi
+796,Asafe Nunes,Sudão
+797,Srta. Eloah Lopes,Dhekelia
+798,Ana Cecília Abreu,Síria
+799,Luan Marques,Moçambique
+800,Erick Castro,São Vicente e Granadinas
+801,Enzo Gabriel Abreu,Porto Rico
+802,Isabel Teixeira,Israel
+803,Henrique Fogaça,Suriname
+804,Samuel Azevedo,Alemanha
+805,Dr. João Miguel Santos,Suécia
+806,Nathan Machado,Camboja
+807,Theo Guerra,Guiné Equatorial
+808,Isis Moura,Eritreia
+809,Ana Clara Silva,União Europeia
+810,Davi Miguel Rocha,Bermudas
+811,Lucca da Cruz,Guatemala
+812,Nathan Souza,Suíça
+813,Rael Sousa,Svalbard e Jan Mayen
+814,João Pedro Silva,Itália
+815,Lara Monteiro,Maurícia
+816,José Pedro Silveira,Nauru
+817,Evelyn Pereira,Geórgia do Sul e Sandwich do Sul
+818,Anthony Pires,Índia
+819,Maria Isis Pimenta,Costa do Marfim
+820,Srta. Ana Júlia Nascimento,Brasil
+821,Antonella Correia,Clipperton Island
+822,Davi Lucca Sá,Nauru
+823,Bianca Farias,Rússia
+824,Matheus Rios,República Centro-Africana
+825,Rodrigo Rodrigues,Suíça
+826,Srta. Sara das Neves,Marianas do Norte
+827,Théo Rocha,Tailândia
+828,Luan Farias,Chile
+829,Cecilia da Mota,Ilhas Turcas e Caicos
+830,Rebeca Ferreira,Cazaquistão
+831,Ayla Mendes,Zâmbia
+832,Mirella Sampaio,Honduras
+833,Josué Barbosa,Akrotiri
+834,Gael Guerra,Papua-Nova Guiné
+835,Eduarda Cardoso,Níger
+836,Ísis Pires,Macedônia do Norte
+837,Luiz Felipe Cavalcanti,Camarões
+838,Sr. Bento Brito,Equador
+839,Benício Gomes,Coral Sea Islands
+840,Ester Caldeira,Países Baixos
+841,Bárbara Souza,Liechtenstein
+842,Sra. Jade Fernandes,Suazilândia
+843,José Miguel Alves,Cuba
+844,Davi Lucas Barros,Costa do Marfim
+845,Letícia Correia,Mali
+846,Sabrina Barbosa,Grécia
+847,Leandro Cavalcanti,Suriname
+848,Sr. José Miguel Caldeira,Dhekelia
+849,Sr. Arthur Guerra,Líbia
+850,Dra. Laura Nascimento,São Tomé e Príncipe
+851,Giovanna Porto,Santa Helena
+852,Srta. Emanuelly da Cunha,Ucrânia
+853,Otávio Lima,Ilhas Caiman
+854,Maria Correia,São Tomé e Príncipe
+855,Mariana Aparecida,Micronésia
+856,Lucas Gabriel Pimenta,Palau
+857,Luna Pimenta,Venezuela
+858,Noah Castro,Guiana
+859,Catarina Araújo,Coreia do Sul
+860,Srta. Luísa Pimenta,Mali
+861,Dr. Rael Guerra,Nova Caledónia
+862,Rebeca Barbosa,Liechtenstein
+863,Ana Luiza Pimenta,Ilhas dos Cocos
+864,Caio Freitas,Camarões
+865,Isabelly Costa,Honduras
+866,Alana Cirino,Serra Leoa
+867,Dra. Isabelly Gomes,Birmânia
+868,Guilherme Silveira,Micronésia
+869,Melina Costela,Cuba
+870,Isadora Nascimento,Libéria
+871,Lucas Gabriel Silveira,Guiné
+872,Anthony da Rocha,Taiwan
+873,Agatha Cavalcante,Coreia do Norte
+874,Theo da Paz,Finlândia
+875,Henrique Vargas,Arábia Saudita
+876,Sra. Sabrina Albuquerque,São Pedro e Miquelon
+877,Apollo Farias,Ilhas Virgens Americanas
+878,Dr. Igor Sampaio,Argélia
+879,Isaac Fernandes,Paraguai
+880,Ana Beatriz Cavalcanti,Faroé
+881,Bernardo Cardoso,Vaticano
+882,Srta. Maria Sampaio,Bermudas
+883,Maya Andrade,Suécia
+884,Mariana Andrade,Tonga
+885,Liz Moura,Líbia
+886,Sophia Jesus,Estônia
+887,Ayla Sá,Líbia
+888,Igor Vasconcelos,Ruanda
+889,Bella Gomes,Nepal
+890,Vicente Cavalcante,Sérvia
+891,Noah Machado,França
+892,Alexandre Barros,Iran
+893,Stella Porto,Marrocos
+894,Dom Machado,Dhekelia
+895,Sr. Thomas Albuquerque,Costa Rica
+896,Léo Duarte,Burundi
+897,Enzo Freitas,Ruanda
+898,Dr. Bruno Moraes,Lesoto
+899,Ana Cecília Jesus,Arábia Saudita
+900,Catarina Martins,Estados Unidos
+901,Clarice Ferreira,Jersey
+902,Igor Gomes,Tanzânia
+903,Vitor Gabriel Pinto,Ilha de Man
+904,Luiz Fernando Castro,França
+905,Theo Mendonça,Moçambique
+906,Heitor das Neves,Costa do Marfim
+907,João Felipe Moreira,Croácia
+908,Lunna da Rocha,Hungria
+909,Sr. Enzo Alves,Brasil
+910,Sra. Ana Lívia Nascimento,Seicheles
+911,Zoe Sá,Somália
+912,Sr. Oliver Campos,Moçambique
+913,Maysa Vargas,Seicheles
+914,Raul Casa Grande,Finlândia
+915,Bernardo Melo,Portugal
+916,Benjamin da Cunha,Bielorrússia
+917,Arthur Gabriel Barbosa,Nigéria
+918,Melissa Cirino,Arábia Saudita
+919,Brenda Melo,Vaticano
+920,Camila Peixoto,União Europeia
+921,Maria Cecília Fonseca,Ilhas Cook
+922,Valentim Mendes,Svalbard e Jan Mayen
+923,Joana Sousa,Seicheles
+924,Paulo Silveira,Dhekelia
+925,Alexandre Novais,Coral Sea Islands
+926,Ana Sophia Gomes,Aruba
+927,Rafael Marques,Polinésia Francesa
+928,Dante Silva,Mônaco
+929,Sr. Danilo Fonseca,Sara Ocidental
+930,Luna Fernandes,Venezuela
+931,Ravi Garcia,Macedônia do Norte
+932,Diego Rezende,Moçambique
+933,Sr. Levi Pastor,Emirados Árabes Unidos
+934,Kaique Carvalho,Burquina Faso
+935,Emanuelly Porto,Kuwait
+936,Lucas Sales,Ilha de Man
+937,Olívia Azevedo,Panamá
+938,Thomas Mendonça,Iêmen
+939,Brayan Aparecida,Coreia do Sul
+940,Srta. Eloá Siqueira,Gabão
+941,Caleb Campos,Líbia
+942,Cecilia Moraes,Territórios Austrais Franceses
+943,Davi Luiz Câmara,Domínica
+944,Julia Andrade,Polinésia Francesa
+945,Mariana Farias,Ilha Norfolk
+946,Dr. Carlos Eduardo Pereira,Ilhas Marshall
+947,Carolina Cassiano,Territórios Austrais Franceses
+948,Mariana Alves,Maurícia
+949,Carolina da Rocha,Colômbia
+950,Pedro Henrique das Neves,Luxemburgo
+951,Thiago Campos,Equador
+952,Caroline Nascimento,Ilha Norfolk
+953,Anna Liz Campos,Costa do Marfim
+954,Rael da Rocha,Rússia
+955,João Pereira,Canadá
+956,Davi Luiz da Rocha,Sri Lanka
+957,Sr. Ravi Lucca da Costa,Guiné Equatorial
+958,Cecília Pacheco,Islândia
+959,Yasmin Rios,Bulgária
+960,Maria Helena Castro,Usbequistão
+961,Maria Flor Machado,Ilhas Virgens Britânicas
+962,Isabelly Santos,Brasil
+963,Nina Camargo,Cabo Verde
+964,Milena Monteiro,Armênia
+965,Felipe Gomes,Bolívia
+966,Luiza Porto,Papua-Nova Guiné
+967,Dra. Ana Vitória Rodrigues,Honduras
+968,Pietro Sá,Bielorrússia
+969,Alexandre Dias,Guiné
+970,Rodrigo Freitas,Santa Helena
+971,Luiz Gustavo Farias,Argentina
+972,Maria Júlia Garcia,Pitcairn
+973,Dr. Pedro Miguel Cavalcante,Etiópia
+974,Renan Camargo,África do Sul
+975,Natália Pereira,Angola
+976,Bernardo Pinto,Malásia
+977,Letícia Melo,Lesoto
+978,Luigi Azevedo,Panamá
+979,Eloá Machado,Faroé
+980,Ana Liz Gomes,Iraque
+981,Luiz Otávio Nogueira,Groenlândia
+982,Dom Monteiro,Antilhas Holandesas
+983,Sra. Anna Liz Lima,Anguila
+984,João Felipe Marques,Wallis e Futuna
+985,Eloá Cunha,Macau
+986,Emanuella Câmara,Bahamas
+987,Dra. Maria Helena Nascimento,Afeganistão
+988,Daniela Melo,Angola
+989,Dra. Kamilly Caldeira,Somália
+990,Ísis Carvalho,Santa Helena
+991,Lunna Brito,Congo-Brazzaville
+992,Manuella Mendonça,Groenlândia
+993,Sr. Ian Cavalcanti,Lituânia
+994,Sarah da Cunha,Território Britânico do Oceano Índico
+995,Marina Siqueira,Albânia
+996,Benjamin da Costa,Dinamarca
+997,Josué Viana,Macedônia do Norte
+998,Dr. Vitor Costela,Argentina
+999,Maria Vitória Lopes,Brunei
+1000,Carolina Santos,Ilhas Turcas e Caicos
+1001,Dra. Lavínia Montenegro,Letônia
+1002,Julia Rios,Salvador
+1003,Maria Fernanda Albuquerque,Guiné
+1004,João Gabriel Vasconcelos,Dhekelia
+1005,Dr. Otávio Camargo,Sudão
+1006,Guilherme Porto,Iran
+1007,Pietro Sá,Usbequistão
+1008,Yan Gomes,Ilha do Natal
+1009,Lorena da Cruz,Gâmbia
+1010,Maria Vitória Moreira,Tonga
+1011,Kamilly Fogaça,Monserrate
+1012,Kaique Garcia,Gabão
+1013,Dr. Calebe da Conceição,Reino Unido
+1014,Asafe Silva,Seicheles
+1015,Dr. Dom Nascimento,Gâmbia
+1016,Enzo Vasconcelos,Comores
+1017,Enrico Pinto,Paquistão
+1018,Vinícius da Paz,São Marinho
+1019,Ana Julia Freitas,Líbano
+1020,Igor Viana,Barein
+1021,João Pedro Cunha,Trindade e Tobago
+1022,Eloá Gomes,Navassa Island
+1023,Fernando Martins,Sudão
+1024,Melissa Pereira,Etiópia
+1025,Henry Gabriel Farias,África do Sul
+1026,Sra. Ana Clara Vasconcelos,Bósnia e Herzegovina
+1027,Luiz Gustavo Cardoso,Argélia
+1028,Juan Pimenta,França
+1029,Cecília Fonseca,Tajiquistão
+1030,Rodrigo Borges,Costa do Marfim
+1031,Ana Rocha,Tunísia
+1032,Dr. Leandro Carvalho,Nova Zelândia
+1033,José Pedro Martins,Iraque
+1034,Maria Moreira,Chipre
+1035,Pedro Miguel Lima,Sara Ocidental
+1036,Daniela da Cruz,Estônia
+1037,Ana Julia Cavalcante,Paracel Islands
+1038,Evelyn Oliveira,Guam
+1039,Brenda Moraes,Palau
+1040,Pietro da Paz,Croácia
+1041,Helena Oliveira,Hungria
+1042,Otávio da Cruz,Papua-Nova Guiné
+1043,Dr. Marcelo Costela,Suécia
+1044,Diogo Mendes,Ucrânia
+1045,Theodoro Camargo,Birmânia
+1046,Dr. Vitor Hugo Pires,Maldivas
+1047,Emanuel Carvalho,Etiópia
+1048,Murilo Câmara,Croácia
+1049,Anna Liz Pimenta,Andorra
+1050,Ayla Pires,Jan Mayen
+1051,Daniel Macedo,Navassa Island
+1052,Josué Cunha,Ilha Bouvet
+1053,Dra. Rafaela Almeida,Camboja
+1054,Maysa da Luz,Coreia do Sul
+1055,Sofia Rocha,Estônia
+1056,Maria Sophia Camargo,Clipperton Island
+1057,Emilly Fogaça,Geórgia do Sul e Sandwich do Sul
+1058,Dom Vieira,Polinésia Francesa
+1059,Caleb Montenegro,Paracel Islands
+1060,Thales Jesus,Senegal
+1061,Maria Vitória Machado,Chade
+1062,Alice Cunha,Moçambique
+1063,Dra. Elisa Rezende,Antártica
+1064,Yuri Santos,Lituânia
+1065,Gael da Mata,Libéria
+1066,Srta. Ana Júlia Cirino,Vanuatu
+1067,Renan Viana,Clipperton Island
+1068,Benicio Ferreira,Somália
+1069,Gael Henrique Viana,Egito
+1070,Luiz Miguel Cirino,Ashmore and Cartier Islands
+1071,Jade Cavalcanti,São Vicente e Granadinas
+1072,Vinícius Carvalho,República Checa
+1073,Bella Cirino,Noruega
+1074,Sra. Ana Clara Castro,Lituânia
+1075,Alana da Mota,Ilhas Virgens Americanas
+1076,Sr. Nathan Peixoto,Croácia
+1077,Dr. Enzo Gabriel Oliveira,Uganda
+1078,Hellena Borges,Comores
+1079,Maysa Silveira,Egito
+1080,Léo Moraes,Guam
+1081,Isadora Sales,Vietnam
+1082,Kevin Cunha,Japão
+1083,Bernardo Silva,Ilhas Virgens Britânicas
+1084,Gabrielly Correia,Faroé
+1085,Pedro Miguel Moreira,Bangladesh
+1086,Dr. Vitor Sales,Turquia
+1087,Dra. Larissa Cassiano,Polinésia Francesa
+1088,Isabel Albuquerque,Ucrânia
+1089,Melissa da Mota,Costa Rica
+1090,Camila Leão,Eslovênia
+1091,Maria Liz Albuquerque,Niue
+1092,Maysa Duarte,Haiti
+1093,Marcos Vinicius Silveira,Nepal
+1094,Yago Martins,Coral Sea Islands
+1095,Lavínia Duarte,Nova Caledónia
+1096,Clarice Porto,Mayotte
+1097,Mirella Sampaio,Jan Mayen
+1098,Maria Eduarda da Conceição,Egito
+1099,Dra. Elisa Costela,Eslováquia
+1100,Dra. Maya Sales,Monserrate
+1101,Isaac Novais,Madagascar
+1102,Liam da Conceição,Samoa Americana
+1103,Yan da Conceição,Congo-Kinshasa
+1104,Yasmin Pastor,Camarões
+1105,Dr. Valentim Peixoto,Nicarágua
+1106,Léo Monteiro,Cazaquistão
+1107,Yasmin Sampaio,Dinamarca
+1108,Luiza da Cunha,Benim
+1109,Heloisa Novais,Aruba
+1110,Alícia Cavalcante,Nova Zelândia
+1111,Camila Machado,Angola
+1112,Helena Araújo,Santa Helena
+1113,Valentim Fonseca,Guiné
+1114,Maria Julia Cunha,São Tomé e Príncipe
+1115,Carolina Pereira,Butão
+1116,Ravy Vargas,Estados Unidos
+1117,Maria Fernanda Leão,Ilhas dos Cocos
+1118,Fernanda da Costa,Estados Unidos
+1119,Benício da Mata,Macau
+1120,Isis Martins,Zimbábue
+1121,Theo Castro,Montenegro
+1122,Maya Vargas,Madagascar
+1123,Davi Miguel Siqueira,Pitcairn
+1124,Samuel da Mota,Monserrate
+1125,Dra. Aurora Novais,Timor Leste
+1126,Davi Pastor,Reino Unido
+1127,Valentim Cavalcanti,Costa do Marfim
+1128,Ravy Borges,China
+1129,Marcelo Silveira,Laos
+1130,Sr. Leandro Vieira,Chade
+1131,Sr. João Pedro Sousa,Pitcairn
+1132,João Felipe Ramos,Paracel Islands
+1133,Laís Carvalho,Japão
+1134,Ana Carolina Lopes,Chipre
+1135,Luiz Fernando Gonçalves,Jamaica
+1136,Amanda Silveira,São Tomé e Príncipe
+1137,Thiago Sousa,Ilhas Turcas e Caicos
+1138,Dra. Allana Fogaça,Togo
+1139,Benjamin Nunes,Ilha Norfolk
+1140,Yuri Sales,Liechtenstein
+1141,Yan da Mota,Mônaco
+1142,Bianca Gonçalves,Senegal
+1143,Isabella Fogaça,Grécia
+1144,Sra. Liz Oliveira,Vaticano
+1145,Clara Fogaça,Nauru
+1146,Raquel da Rosa,Hong Kong
+1147,Cauê Castro,Navassa Island
+1148,Manuela Porto,Ilhas Heard e McDonald
+1149,Ayla Correia,Belize
+1150,Paulo Vargas,Sara Ocidental
+1151,Paulo Martins,Samoa
+1152,Oliver Brito,Filipinas
+1153,Heitor Dias,Turquia
+1154,Ana Cecília Mendonça,Nova Caledónia
+1155,Dr. Benício da Paz,Sri Lanka
+1156,Dr. Dom Leão,Aruba
+1157,Elisa Oliveira,Canadá
+1158,Bento Sousa,Dhekelia
+1159,Mariane Moura,Gibraltar
+1160,Maria Rodrigues,Bermudas
+1161,Eduardo Macedo,Seicheles
+1162,Felipe Ferreira,Barein
+1163,Aurora Pimenta,Sri Lanka
+1164,Felipe Siqueira,Malásia
+1165,Ana Luiza Sá,Porto Rico
+1166,Brayan Novaes,Dinamarca
+1167,João Guilherme Barbosa,Madagascar
+1168,Sr. Davi Lucas Aparecida,Bulgária
+1169,Maitê Vargas,Iraque
+1170,Yuri Cunha,Zimbábue
+1171,Lucas Gabriel da Conceição,Chipre
+1172,Samuel Fernandes,Trindade e Tobago
+1173,Murilo Monteiro,Mayotte
+1174,Sr. Arthur Gabriel Duarte,Polônia
+1175,Lucas Andrade,Indonésia
+1176,Lucca da Cruz,Jamaica
+1177,Maitê Costa,Ilhas Falkland
+1178,Manuela Pimenta,Malta
+1179,Julia Pires,Peru
+1180,Daniela Borges,Nepal
+1181,Pietra Albuquerque,Costa Rica
+1182,Ana Liz Silveira,Território Britânico do Oceano Índico
+1183,Ana Liz Rodrigues,Jersey
+1184,Srta. Maria Isis Pimenta,Camarões
+1185,Maria Luísa Sousa,Líbano
+1186,Sr. Pedro Lucas da Mata,Tunísia
+1187,Letícia Camargo,Egito
+1188,Samuel da Cruz,Laos
+1189,Joana Vasconcelos,Uganda
+1190,Hellena da Paz,Coral Sea Islands
+1191,Ana Sophia Pimenta,Dinamarca
+1192,Breno Lima,Kuwait
+1193,Maria Fernanda Fonseca,Granada
+1194,Ana Liz Brito,Bermudas
+1195,Lívia Rocha,Moçambique
+1196,Sra. Ana Clara Fonseca,Zâmbia
+1197,Anthony Monteiro,Letônia
+1198,Ana Carolina Gomes,Fiji
+1199,Anthony Garcia,México
+1200,Luiz Fernando Fonseca,Congo-Brazzaville
+1201,Ravi Peixoto,Sri Lanka
+1202,Sra. Eloah Cardoso,Togo
+1203,Dr. Benicio Novais,Bangladesh
+1204,Marcos Vinicius Cavalcante,Canadá
+1205,Nathan Sampaio,Chade
+1206,Brayan Cavalcanti,Bahamas
+1207,Lucas Gabriel Machado,Bélgica
+1208,Alice Leão,Costa do Marfim
+1209,Dr. Enzo Ferreira,Afeganistão
+1210,Lavínia Costela,Tonga
+1211,Sr. Rodrigo Monteiro,Indonésia
+1212,João Lucas Cardoso,Haiti
+1213,Laura Camargo,Polinésia Francesa
+1214,Sr. Brayan Brito,Finlândia
+1215,Lavínia Barbosa,Islândia
+1216,Matheus Cassiano,São Marinho
+1217,Rafael Mendes,São Cristóvão e Neves
+1218,Cauã da Paz,Aruba
+1219,Srta. Mariana da Cruz,Dinamarca
+1220,Ana Carolina Costa,Bahamas
+1221,Amanda Sales,Mauritânia
+1222,Valentim Pastor,Guam
+1223,Gustavo da Cruz,Uganda
+1224,Rafaela Mendes,Jan Mayen
+1225,Diego Guerra,Chile
+1226,Renan Leão,Índia
+1227,Maitê Carvalho,Guiné
+1228,Giovanna da Mota,Iran
+1229,Maria Helena da Rocha,Clipperton Island
+1230,Luara Pereira,Países Baixos
+1231,Valentim Souza,Mali
+1232,Ana Cunha,Síria
+1233,Vinicius Aparecida,Barbados
+1234,Ian Macedo,Coral Sea Islands
+1235,Dra. Gabriela Andrade,Panamá
+1236,Asafe Cavalcanti,Mayotte
+1237,Sra. Evelyn Câmara,Geórgia do Sul e Sandwich do Sul
+1238,Maria Júlia Rios,Marianas do Norte
+1239,Dr. Isaque da Mota,Bahamas
+1240,Dr. Bryan Dias,Fiji
+1241,Bryan da Luz,Chile
+1242,Ayla Melo,Montenegro
+1243,Paulo da Cruz,Filipinas
+1244,Benício Cunha,Tajiquistão
+1245,Letícia Guerra,Moldávia
+1246,Yago da Mota,Barbados
+1247,Luiz Henrique da Cunha,Iêmen
+1248,Otto Abreu,Haiti
+1249,Sr. Luiz Fernando Guerra,Luxemburgo
+1250,João Caldeira,Kuwait
+1251,Guilherme Souza,Benim
+1252,Olivia Rocha,Eritreia
+1253,Melissa da Costa,Islândia
+1254,Pedro Miguel da Mata,Canadá
+1255,João Miguel Pastor,Ilhas Marshall
+1256,Sara Pereira,Malásia
+1257,Melissa da Rocha,Ilhas Salomão
+1258,Ísis Moraes,Marianas do Norte
+1259,Elisa Carvalho,Afeganistão
+1260,Sra. Maria Cecília Garcia,Albânia
+1261,Luiz Otávio Montenegro,Coreia do Sul
+1262,Dr. Anthony Gabriel Cassiano,Macedônia do Norte
+1263,Sr. Daniel Ferreira,Kuwait
+1264,Gustavo Henrique Machado,Samoa
+1265,Laís Novais,Síria
+1266,Dom Brito,Guiana
+1267,Maria Alice das Neves,Mayotte
+1268,Davi Miguel Leão,Singapura
+1269,Aurora Campos,Coreia do Sul
+1270,Sr. Calebe da Paz,Bósnia e Herzegovina
+1271,Srta. Alexia Nunes,Turquia
+1272,Kaique Moraes,Gibraltar
+1273,Dr. Pedro Alves,Tajiquistão
+1274,Valentina Porto,República Dominicana
+1275,Sophia Camargo,Filipinas
+1276,Dra. Ayla Cavalcanti,Costa do Marfim
+1277,Dra. Maria Fernanda Alves,Groenlândia
+1278,Alexandre da Rocha,Groenlândia
+1279,Isabela Moraes,Costa Rica
+1280,Alícia Nogueira,Croácia
+1281,Carlos Eduardo Ribeiro,Barein
+1282,Giovanna Sales,Etiópia
+1283,Bianca Fonseca,Bangladesh
+1284,Dr. Luiz Otávio Leão,Santa Helena
+1285,Vinícius Garcia,Benim
+1286,Ana Liz da Rosa,Macedônia do Norte
+1287,Dr. Vitor Hugo Guerra,Indonésia
+1288,Daniela Pacheco,Ucrânia
+1289,Rhavi Monteiro,Hungria
+1290,Danilo Costa,Vietnam
+1291,Nicolas Farias,Comores
+1292,Giovanna da Paz,Palau
+1293,Rafael Oliveira,Samoa
+1294,Sr. Thomas Monteiro,Vietnam
+1295,Sr. Dom Azevedo,Egito
+1296,Ana Júlia Costela,Maurícia
+1297,Lunna Brito,Libéria
+1298,Vitor Hugo Rodrigues,Clipperton Island
+1299,Giovanna da Cunha,Akrotiri
+1300,Maysa Cassiano,Granada
+1301,Zoe Montenegro,Austrália
+1302,Eloá Azevedo,Sri Lanka
+1303,Ana Clara Rodrigues,Zimbábue
+1304,Daniela Rios,Barein
+1305,Srta. Catarina Garcia,Catar
+1306,José Miguel Cunha,Dhekelia
+1307,Davi Luiz Cavalcante,Moldávia
+1308,Sra. Larissa Albuquerque,Congo-Brazzaville
+1309,Esther Costela,Alemanha
+1310,Nina Leão,Níger
+1311,Nicole Camargo,Ucrânia
+1312,Anthony Gabriel Montenegro,Zâmbia
+1313,Dr. Oliver Araújo,Brunei
+1314,Maria Luiza Melo,Brasil
+1315,Luiz Otávio Fogaça,Sri Lanka
+1316,Valentina Cassiano,Bielorrússia
+1317,Luna Caldeira,México
+1318,Sabrina Ribeiro,Trindade e Tobago
+1319,Danilo Sousa,Pitcairn
+1320,Isadora Casa Grande,Malásia
+1321,Henry Gabriel Rezende,Clipperton Island
+1322,Isabella Novais,Colômbia
+1323,Murilo Camargo,Maurícia
+1324,Eduarda Souza,Chile
+1325,Larissa Guerra,Bangladesh
+1326,Igor Sales,Malásia
+1327,Ester Pires,Gabão
+1328,Hadassa Ribeiro,Jordânia
+1329,Maria Liz Melo,Território Britânico do Oceano Índico
+1330,Thiago Albuquerque,Costa Rica
+1331,João Miguel Silveira,África do Sul
+1332,Sr. Arthur Miguel das Neves,Porto Rico
+1333,Dra. Ana Carolina Gonçalves,Egito
+1334,Luiza Cavalcante,Cuba
+1335,Calebe Araújo,Jamaica
+1336,Sr. Davi Luiz das Neves,Chade
+1337,Sra. Maria Alice Rezende,Coreia do Sul
+1338,Eloah Sampaio,Tajiquistão
+1339,Davi Luiz Ribeiro,Paracel Islands
+1340,Maria Liz Campos,Granada
+1341,Maria Luiza Teixeira,São Cristóvão e Neves
+1342,Natália Moreira,Congo-Brazzaville
+1343,Dra. Emilly Abreu,Guiné
+1344,Dom da Conceição,Alemanha
+1345,Bento Aparecida,Finlândia
+1346,Hellena Jesus,Jamaica
+1347,Maria Cecília Pinto,Ilha do Natal
+1348,Igor Gonçalves,Jordânia
+1349,Elisa da Cruz,Nova Caledónia
+1350,Bryan Fonseca,Ilhas Virgens Britânicas
+1351,Mariane da Rosa,Ilha de Man
+1352,Igor Aparecida,Pitcairn
+1353,Vitor Monteiro,Polônia
+1354,Kaique Borges,Mauritânia
+1355,Srta. Fernanda Rios,Letônia
+1356,Luiza Cavalcante,Porto Rico
+1357,Sra. Caroline Guerra,Alemanha
+1358,Sr. Mathias Vargas,Honduras
+1359,Srta. Isis Silva,Mongólia
+1360,Dom Nascimento,Maldivas
+1361,Sr. Davi Lucas Moura,Bélgica
+1362,Bruna Martins,Nicarágua
+1363,Luiz Miguel Lopes,Bélgica
+1364,Luiz Gustavo Casa Grande,Nicarágua
+1365,Sra. Ana Vitória Leão,Uruguai
+1366,João Vitor Freitas,Usbequistão
+1367,Lorena Nunes,Território Britânico do Oceano Índico
+1368,Davi da Rosa,Nova Caledónia
+1369,Pietra Borges,Akrotiri
+1370,Marcelo Abreu,República Checa
+1371,Sr. Mathias Peixoto,Nigéria
+1372,Stella Nogueira,Santa Helena
+1373,Sra. Ísis Sousa,Gibraltar
+1374,Maria Cecília Albuquerque,Jibuti
+1375,Yuri Carvalho,França
+1376,Heloísa Santos,Sara Ocidental
+1377,Gael Lima,Hong Kong
+1378,Stella da Luz,Laos
+1379,Zoe Rios,Suazilândia
+1380,Ryan Mendes,Nauru
+1381,Isaque Fernandes,Croácia
+1382,Srta. Maria Flor Moraes,Monserrate
+1383,Daniela Aparecida,Suécia
+1384,Ana Vitória Sampaio,Suriname
+1385,Joana Azevedo,China
+1386,João Guilherme Siqueira,Cuba
+1387,Laura Cavalcante,Tajiquistão
+1388,Renan Cardoso,Tunísia
+1389,Lucas Gabriel Sales,Barein
+1390,Noah Guerra,Sara Ocidental
+1391,Maria Júlia Moura,Porto Rico
+1392,Valentim Costa,Iran
+1393,Manuela Rocha,Eslovênia
+1394,Dra. Aylla Moreira,Gibraltar
+1395,Rebeca Silveira,Japão
+1396,Emanuella Leão,Laos
+1397,Jade Fogaça,Cuba
+1398,Dra. Hadassa Barros,Nicarágua
+1399,Ana Cecília Gonçalves,Guiné Equatorial
+1400,Renan Dias,Domínica
+1401,Srta. Luana Gomes,Camarões
+1402,Esther Barbosa,Guiana
+1403,Joana Vasconcelos,Guernsey
+1404,Evelyn Nunes,Nova Zelândia
+1405,Ana Liz da Luz,Egito
+1406,Davi Miguel Cassiano,Tanzânia
+1407,Bianca Duarte,Ilhas Heard e McDonald
+1408,Luan Melo,África do Sul
+1409,Srta. Marina Souza,Quiribáti
+1410,Vinicius Pacheco,Lesoto
+1411,Srta. Mariana Câmara,Territórios Austrais Franceses
+1412,Sara Rodrigues,Samoa Americana
+1413,Anna Liz Siqueira,Quiribáti
+1414,Isabelly Pereira,Tajiquistão
+1415,Melissa da Rocha,Dinamarca
+1416,Srta. Mariah Fogaça,Colômbia
+1417,João Pacheco,Reino Unido
+1418,Rhavi Albuquerque,Mauritânia
+1419,Catarina Montenegro,Nigéria
+1420,Henry Gabriel Câmara,Domínica
+1421,Gustavo Barros,Domínica
+1422,Dr. Lucas Gabriel Silveira,Venezuela
+1423,Ana Liz Novaes,Macau
+1424,Fernando Sá,China
+1425,Dr. Thales Nunes,Bangladesh
+1426,Juan Fogaça,Costa do Marfim
+1427,Maria Clara Vargas,Rússia
+1428,Davi Ramos,Somália
+1429,Sr. João Guilherme Campos,Maurícia
+1430,Olivia Ferreira,Equador
+1431,Felipe Nunes,Paracel Islands
+1432,Cauã Sá,Alemanha
+1433,Bella Cavalcante,Albânia
+1434,Rael Moraes,Haiti
+1435,Lavínia Castro,Guiné
+1436,Rhavi Ramos,Dhekelia
+1437,Alexia Pacheco,Sudão
+1438,Lavínia Brito,Egito
+1439,Rael Sampaio,China
+1440,Benicio Nascimento,Namíbia
+1441,Dr. Davi Gonçalves,África do Sul
+1442,Leonardo Porto,Bélgica
+1443,Vinícius Andrade,Ilha Wake
+1444,Matheus Pires,Afeganistão
+1445,Milena Caldeira,Ilha de Man
+1446,Pedro Camargo,Coreia do Sul
+1447,Pietra Moraes,Ilha Wake
+1448,Ana Cecília Fonseca,Noruega
+1449,Dr. Mathias da Rosa,Guiana
+1450,Calebe Teixeira,Barbados
+1451,Gabriela Costa,Estados Unidos
+1452,Otávio Marques,Cuba
+1453,Theo Garcia,Liechtenstein
+1454,Otto Peixoto,Bélgica
+1455,Ayla Ramos,Eslovênia
+1456,Isaac Novais,Ilhas Marshall
+1457,Benjamin Pacheco,Timor Leste
+1458,Leandro Machado,Paquistão
+1459,Vinícius Cardoso,Trindade e Tobago
+1460,Pietro Nascimento,Mônaco
+1461,Alana Abreu,Uganda
+1462,Dra. Zoe Ribeiro,Ilha Wake
+1463,Alice Freitas,Montenegro
+1464,Valentim Nunes,Antígua e Barbuda
+1465,Josué Borges,Haiti
+1466,Nathan Rocha,Tuvalu
+1467,Dra. Anna Liz Moraes,Macau
+1468,Luigi Mendonça,Navassa Island
+1469,Isadora Aragão,Coral Sea Islands
+1470,Sra. Ayla Barbosa,Mongólia
+1471,Gabriela Moreira,Marrocos
+1472,Vicente Peixoto,Luxemburgo
+1473,Henry Gabriel Peixoto,Ucrânia
+1474,Luan Rocha,Egito
+1475,Luiz Otávio Caldeira,Panamá
+1476,Raquel Ramos,Lituânia
+1477,Benjamin Macedo,Domínica
+1478,Gabriela Cardoso,Usbequistão
+1479,Bruna da Mota,Antilhas Holandesas
+1480,Manuela Casa Grande,Níger
+1481,Cecilia Marques,Ucrânia
+1482,Davi Luiz Carvalho,Botsuana
+1483,Ana Clara Casa Grande,Territórios Austrais Franceses
+1484,Nathan Pires,Síria
+1485,Guilherme Guerra,Cabo Verde
+1486,Francisco da Rocha,Vaticano
+1487,Heloísa Azevedo,Eritreia
+1488,Dr. Vicente Macedo,Guatemala
+1489,Sr. Nathan Garcia,Estados Unidos
+1490,Caio Cavalcante,Ilhas Salomão
+1491,Otávio da Mata,Moldávia
+1492,Manuella Porto,Svalbard e Jan Mayen
+1493,Isis Moraes,São Tomé e Príncipe
+1494,Dr. Vitor Sales,Somália
+1495,André Sampaio,Noruega
+1496,Dra. Marcela Pereira,Tailândia
+1497,Maria Julia Castro,Malta
+1498,Manuela Sousa,Níger
+1499,Isabela Freitas,Ilhas Salomão
+1500,Milena Pereira,Emirados Árabes Unidos
+1501,Giovanna Mendonça,Guernsey
+1502,Sophia Guerra,Chade
+1503,João Gabriel Fernandes,São Tomé e Príncipe
+1504,Eloah Barbosa,Somália
+1505,Vinicius Viana,Maldivas
+1506,Maysa da Cunha,Filipinas
+1507,Mariana Fonseca,Svalbard e Jan Mayen
+1508,Ana Beatriz Duarte,Singapura
+1509,Ana Aparecida,Colômbia
+1510,Lucas Siqueira,São Vicente e Granadinas
+1511,Júlia Pacheco,Camboja
+1512,Srta. Clarice Araújo,Eslovênia
+1513,Liz Rodrigues,Argélia
+1514,Maria Vitória Farias,Iraque
+1515,Sra. Lavínia Novaes,Egito
+1516,Luna Pacheco,Ucrânia
+1517,Paulo Vargas,Líbano
+1518,Pedro Miguel Siqueira,Angola
+1519,Eloah Moura,Mauritânia
+1520,Marina Mendes,Brunei
+1521,Luísa Moraes,Vaticano
+1522,Josué Almeida,Brunei
+1523,Benicio Vieira,Trindade e Tobago
+1524,Anna Liz Vargas,Vanuatu
+1525,Pedro Lucas Nunes,Santa Helena
+1526,Maria Luísa Albuquerque,Tonga
+1527,Joaquim Cassiano,Hong Kong
+1528,Sr. Ryan Azevedo,Polinésia Francesa
+1529,Nathan da Luz,França
+1530,Heloisa Aragão,Ilha Wake
+1531,Maysa Aragão,Irlanda
+1532,Bernardo Nogueira,São Marinho
+1533,Manuela Novaes,Egito
+1534,Lorenzo Ramos,Paquistão
+1535,Luiz Otávio Machado,Suíça
+1536,Ana Sá,Quirguizistão
+1537,Igor Marques,Coreia do Norte
+1538,Maria Costa,Comores
+1539,Ana da Cunha,Itália
+1540,Esther Fogaça,Suécia
+1541,Sophie Gomes,Territórios Austrais Franceses
+1542,Daniela da Cruz,Estados Unidos
+1543,Srta. Ana Carolina Novais,Território Britânico do Oceano Índico
+1544,Diego Garcia,Austrália
+1545,Dr. Arthur Miguel Nunes,Tunísia
+1546,Henrique Oliveira,Cazaquistão
+1547,Breno Souza,Nicarágua
+1548,Mariane Cirino,Brunei
+1549,Sra. Valentina Nascimento,Ilha do Natal
+1550,Pedro Miguel Gonçalves,Aruba
+1551,Thomas Costela,Ashmore and Cartier Islands
+1552,Rafael Lima,Marrocos
+1553,Laís Alves,Roménia
+1554,Agatha Marques,Aruba
+1555,Daniel Pacheco,Dinamarca
+1556,Sr. Raul Albuquerque,Butão
+1557,Manuella Fernandes,Belize
+1558,Luísa Rocha,Ilhas Virgens Americanas
+1559,Maria Sophia Duarte,Omã
+1560,Hellena Mendes,Ilha Bouvet
+1561,Arthur Gabriel das Neves,Jersey
+1562,Bryan Souza,Argentina
+1563,André da Conceição,Somália
+1564,Asafe Albuquerque,Bahamas
+1565,Raquel Azevedo,Guiana
+1566,Milena Abreu,Ilhas dos Cocos
+1567,Diego da Rosa,Finlândia
+1568,Luiz Otávio Rios,Costa do Marfim
+1569,Rebeca Vieira,Itália
+1570,Dr. Heitor Carvalho,Haiti
+1571,Francisco Novaes,Togo
+1572,Dr. Luiz Felipe Cavalcanti,Bulgária
+1573,Pedro Henrique Leão,São Tomé e Príncipe
+1574,Clara Viana,Cazaquistão
+1575,Yago Brito,Honduras
+1576,Vitória Pimenta,Argentina
+1577,Melissa da Conceição,Camarões
+1578,Dr. Brayan Dias,Pitcairn
+1579,Sr. Rodrigo Pacheco,Luxemburgo
+1580,Sra. Luara Camargo,Vanuatu
+1581,Luiz Miguel Cunha,Marrocos
+1582,Dra. Liz Mendes,Gibraltar
+1583,Dr. Miguel Sales,Bósnia e Herzegovina
+1584,Nina Souza,Ruanda
+1585,Maria Eduarda Leão,Suíça
+1586,Larissa Novais,Lituânia
+1587,Isis Silva,Sri Lanka
+1588,Murilo Rios,Gabão
+1589,Alice Freitas,Indonésia
+1590,João Gabriel Correia,Estônia
+1591,Sr. Anthony Montenegro,Colômbia
+1592,Theodoro Vieira,Ilha Bouvet
+1593,Mathias Campos,Filipinas
+1594,Dr. Pedro Henrique da Cunha,Tonga
+1595,Theo Nogueira,Guiné
+1596,Josué Câmara,Barbados
+1597,Yasmin Sampaio,Antártica
+1598,Srta. Sara Ramos,Rússia
+1599,Jade Brito,Samoa Americana
+1600,Matteo Costa,França
+1601,Yuri Peixoto,Brunei
+1602,Liam Silva,Costa do Marfim
+1603,Benjamin Rios,Quirguizistão
+1604,Sr. Daniel Costela,Ilha de Man
+1605,Dr. João Guilherme da Cunha,Antilhas Holandesas
+1606,Antonella Siqueira,Turquemenistão
+1607,Ester Mendonça,Congo-Kinshasa
+1608,Paulo Cavalcante,Zâmbia
+1609,Sr. Gael da Cruz,Ruanda
+1610,Hellena Cirino,Costa Rica
+1611,Vitor Câmara,Suriname
+1612,José Miguel da Costa,Costa do Marfim
+1613,Mathias Farias,Faroé
+1614,Luana Porto,São Vicente e Granadinas
+1615,João Lucas Gomes,Montenegro
+1616,Lívia Cunha,Cabo Verde
+1617,Apollo da Rosa,México
+1618,Manuella Garcia,Trindade e Tobago
+1619,Laís Câmara,Mayotte
+1620,Thales Costela,Ilhas Cook
+1621,Davi Lucas Gonçalves,Cuba
+1622,Hadassa Fogaça,Austrália
+1623,Gustavo Dias,União Europeia
+1624,Rael Almeida,Ilha Bouvet
+1625,Luara Cirino,Bangladesh
+1626,Bella Costa,México
+1627,Maria Cecília Duarte,Dinamarca
+1628,Maria Laura Nunes,Territórios Austrais Franceses
+1629,Diogo Marques,Honduras
+1630,Rafaela da Cruz,Paquistão
+1631,Vitória Garcia,Coral Sea Islands
+1632,Ísis Rodrigues,Tuvalu
+1633,Gabriela Fernandes,Luxemburgo
+1634,Yan Vasconcelos,Tokelau
+1635,Enrico Borges,Usbequistão
+1636,Anthony Gabriel Fernandes,União Europeia
+1637,Ian Castro,Vanuatu
+1638,Dante Moreira,Ilha Wake
+1639,Maria Alice Pires,Marrocos
+1640,Dr. José Miguel Vargas,Índia
+1641,Brayan Costa,Palau
+1642,Noah Costela,Reino Unido
+1643,Pedro Silva,Sérvia
+1644,Ana Vitória Mendonça,Usbequistão
+1645,Pedro Lucas Aragão,Ilha Bouvet
+1646,Rafael Macedo,Hungria
+1647,Otto Moraes,Camboja
+1648,Gael Henrique Viana,Omã
+1649,Thiago Nascimento,Geórgia do Sul e Sandwich do Sul
+1650,Henry Gabriel Cunha,Libéria
+1651,Anthony Gabriel Pires,Montenegro
+1652,Davi Lucas Vasconcelos,Mônaco
+1653,Lavínia Freitas,Rússia
+1654,Nathan Moreira,República Dominicana
+1655,Luna Machado,Croácia
+1656,Alice da Paz,Japão
+1657,Alice Porto,Azerbaijão
+1658,Milena Silva,São Tomé e Príncipe
+1659,Maysa Azevedo,Dhekelia
+1660,Sr. João Vitor da Paz,Seicheles
+1661,Diego da Mota,Armênia
+1662,Dr. Raul Nogueira,Fiji
+1663,Raul Correia,Honduras
+1664,João Guilherme Cassiano,Granada
+1665,Luara Nunes,Ilhas Virgens Britânicas
+1666,Marcos Vinicius Rocha,Botsuana
+1667,Leandro Cavalcanti,Cazaquistão
+1668,Sra. Isabelly da Paz,Kuwait
+1669,Marina Leão,Suíça
+1670,Maria Costa,Emirados Árabes Unidos
+1671,Nicole Marques,Belize
+1672,Leonardo Borges,Coreia do Norte
+1673,Oliver Castro,Trindade e Tobago
+1674,Sophie da Rocha,Iraque
+1675,Otávio Martins,Macedônia do Norte
+1676,Gabriel Moura,Geórgia do Sul e Sandwich do Sul
+1677,Alice Sá,Aruba
+1678,Kevin Pimenta,Ilhas Virgens Americanas
+1679,Maria Isis Campos,União Europeia
+1680,Nicolas Cardoso,Luxemburgo
+1681,Ayla Silveira,Polônia
+1682,Augusto Nogueira,Ilhas Virgens Americanas
+1683,Caio da Cruz,Quiribáti
+1684,Davi Lucas Mendes,Botsuana
+1685,Kamilly da Costa,Polônia
+1686,Valentim Rezende,Jordânia
+1687,Sr. Yago Vasconcelos,Andorra
+1688,Yuri Borges,China
+1689,Ana Vitória Aparecida,Bósnia e Herzegovina
+1690,Dra. Sophia Lima,Ruanda
+1691,Davi Lucca Pinto,Costa Rica
+1692,Ana Sophia Melo,Costa Rica
+1693,Kamilly Sales,Santa Helena
+1694,Hadassa da Costa,Ilhas Salomão
+1695,Luana Cassiano,Aruba
+1696,Gustavo Henrique Borges,Pitcairn
+1697,Gabriela Farias,Trindade e Tobago
+1698,Alexia Porto,Turquia
+1699,Ana Vitória Fonseca,Trindade e Tobago
+1700,Júlia Almeida,Quênia
+1701,Asafe Cunha,Antártica
+1702,Mariane Camargo,Faroé
+1703,Maria Cecília Lima,Chile
+1704,Dr. Marcos Vinicius Rezende,Fiji
+1705,Luan Garcia,Dhekelia
+1706,Carolina Abreu,Belize
+1707,Pedro Lucas Moreira,Somália
+1708,Natália Guerra,Coral Sea Islands
+1709,Catarina Pastor,Maldivas
+1710,Mariane Nascimento,Suécia
+1711,Benjamim Silveira,Iran
+1712,João Guilherme Sales,Emirados Árabes Unidos
+1713,Ian Almeida,Groenlândia
+1714,Larissa Vargas,Usbequistão
+1715,Theodoro Silva,Guatemala
+1716,Caio da Mata,Timor Leste
+1717,João Lucas Jesus,Barbados
+1718,Rodrigo Cavalcante,Coreia do Norte
+1719,Dr. Pedro Miguel Pires,Chade
+1720,Camila Pereira,República Centro-Africana
+1721,Mariah Borges,Andorra
+1722,Joana Monteiro,Nepal
+1723,Isabel Correia,Samoa Americana
+1724,Catarina Pimenta,Antilhas Holandesas
+1725,Lorena da Rosa,Taiwan
+1726,Isaque Fernandes,Hungria
+1727,Vinicius Siqueira,Costa Rica
+1728,Amanda Castro,Salvador
+1729,Dra. Bella Teixeira,Bósnia e Herzegovina
+1730,Marcelo Cirino,Antilhas Holandesas
+1731,Theodoro Fernandes,Croácia
+1732,Arthur Sales,Ilhas Heard e McDonald
+1733,Sr. Erick Gonçalves,Benim
+1734,Vitor Hugo Rocha,Mauritânia
+1735,Otto Cirino,Ucrânia
+1736,Eduardo Jesus,Áustria
+1737,Julia Silva,Benim
+1738,Esther Novaes,Irlanda
+1739,Kevin Moreira,Seicheles
+1740,Diogo Carvalho,Ashmore and Cartier Islands
+1741,Sophia Pastor,Territórios Austrais Franceses
+1742,Lucas Gabriel Sales,Território Britânico do Oceano Índico
+1743,Isabelly Carvalho,Jordânia
+1744,Davi Miguel Montenegro,Congo-Kinshasa
+1745,Luiz Fernando Machado,Suíça
+1746,Théo Jesus,Dinamarca
+1747,Marcos Vinicius Cunha,Namíbia
+1748,Enzo Barbosa,Trindade e Tobago
+1749,Srta. Maria Liz Costela,Cuba
+1750,Eloá Guerra,Tonga
+1751,Hadassa Castro,Eslovênia
+1752,Aylla Moraes,Sudão
+1753,Agatha Silva,Paquistão
+1754,Dra. Ana Carolina Monteiro,Akrotiri
+1755,Daniel das Neves,Benim
+1756,Antony Vargas,Togo
+1757,Maria Cecília da Costa,Cuba
+1758,Arthur Miguel Duarte,Ashmore and Cartier Islands
+1759,Bryan Vasconcelos,Egito
+1760,Bella Carvalho,Bulgária
+1761,Srta. Sophia Novais,Cuba
+1762,Isabela da Costa,México
+1763,Pedro Henrique Jesus,Honduras
+1764,Dr. Benjamim Fonseca,Moldávia
+1765,Maria Flor Sampaio,Cuba
+1766,Ana Júlia Lopes,Coreia do Norte
+1767,João Lucas Correia,Santa Lúcia
+1768,João Pedro Porto,Bangladesh
+1769,Thomas Cunha,Austrália
+1770,Rael Abreu,Ilha de Man
+1771,Marcos Vinicius Nunes,Quirguizistão
+1772,Dra. Ana Cecília Araújo,Egito
+1773,Emanuelly Costela,Tokelau
+1774,Gustavo Henrique das Neves,Ilhas Cook
+1775,Josué Vasconcelos,Brasil
+1776,Antônio da Cruz,Eslováquia
+1777,Eloah Alves,Iran
+1778,Yasmin Jesus,União Europeia
+1779,Davi Luiz Vargas,São Vicente e Granadinas
+1780,Lívia Correia,Seicheles
+1781,Gabrielly Oliveira,São Tomé e Príncipe
+1782,Davi Luiz Leão,Estônia
+1783,Sofia Santos,Marrocos
+1784,Alice Peixoto,Jan Mayen
+1785,Emanuelly Aparecida,Austrália
+1786,Giovanna Pereira,Dinamarca
+1787,Isabel Cassiano,Singapura
+1788,Maria Cecília Abreu,Madagascar
+1789,Mariane Almeida,Peru
+1790,Luara Aragão,Argélia
+1791,Nicole Barros,Sérvia
+1792,Gabrielly Costa,Nova Caledónia
+1793,Leandro Alves,Líbia
+1794,Giovanna das Neves,Madagascar
+1795,Gabrielly Cavalcanti,Egito
+1796,Vitor Machado,África do Sul
+1797,Théo Gomes,Países Baixos
+1798,Sr. Diogo Gonçalves,Bahamas
+1799,Alícia Costa,Eritreia
+1800,Isabel Jesus,Austrália
+1801,Brayan da Cunha,Quirguizistão
+1802,Marcela Oliveira,Andorra
+1803,Theo da Conceição,Territórios Austrais Franceses
+1804,Igor Pimenta,Índia
+1805,Dr. João Felipe Vasconcelos,Ashmore and Cartier Islands
+1806,Matteo Melo,Palau
+1807,Maria Júlia Gomes,Israel
+1808,Maria Laura Martins,Quiribáti
+1809,Clara da Cunha,Ilhas Marshall
+1810,Antonella da Luz,Camboja
+1811,Sr. Enzo Gabriel Castro,Uganda
+1812,Luara Castro,Omã
+1813,Daniel Sousa,Arábia Saudita
+1814,Maysa Gomes,Uruguai
+1815,Lorena Duarte,Turquia
+1816,Bento Albuquerque,Panamá
+1817,Ana Beatriz Moura,Hungria
+1818,Isabelly Cassiano,Tailândia
+1819,Dr. Cauê Macedo,Clipperton Island
+1820,Mateus Albuquerque,Birmânia
+1821,Asafe Carvalho,Itália
+1822,Allana Peixoto,Argentina
+1823,Rafaela Mendonça,Tailândia
+1824,Maria Cirino,Costa Rica
+1825,Luiz Felipe Montenegro,Estônia
+1826,Maria Laura Vasconcelos,Vanuatu
+1827,Camila Camargo,Coreia do Sul
+1828,Caroline Aparecida,Luxemburgo
+1829,Heloísa Sampaio,Ucrânia
+1830,Igor da Costa,Nauru
+1831,Dante da Mata,Reino Unido
+1832,Srta. Isabel Albuquerque,Domínica
+1833,Isabelly Barbosa,Tanzânia
+1834,Arthur Cavalcanti,China
+1835,Srta. Ana Lívia Peixoto,Suazilândia
+1836,Dr. Oliver Vieira,Malta
+1837,Esther Monteiro,Iran
+1838,Sophie da Rocha,Nauru
+1839,Joaquim Rocha,Turquia
+1840,Benjamim Aragão,Domínica
+1841,Fernando Porto,Sudão
+1842,Benício Andrade,Sérvia
+1843,Cauê Almeida,Belize
+1844,Pedro Miguel Pastor,Samoa Americana
+1845,Ian Mendes,Mauritânia
+1846,Vitor Hugo Castro,Brasil
+1847,Sophie Sá,Ilhas Falkland
+1848,Sra. Giovanna Dias,São Cristóvão e Neves
+1849,Laís Pereira,Cabo Verde
+1850,Sra. Lavínia Garcia,Israel
+1851,Francisco Almeida,Países Baixos
+1852,Noah Pastor,Bermudas
+1853,Vinicius Novaes,Comores
+1854,Eloá Garcia,Nauru
+1855,Sra. Bella das Neves,Dhekelia
+1856,Dr. Henrique Viana,Austrália
+1857,Ravi Teixeira,Burundi
+1858,Ayla Oliveira,Nauru
+1859,Maria Laura Pinto,Ruanda
+1860,Maria Luísa Ramos,Estados Unidos
+1861,Nicolas Porto,Chipre
+1862,Samuel Silva,Jan Mayen
+1863,Maria Clara Sales,Etiópia
+1864,Marcos Vinicius Vieira,Bélgica
+1865,Dra. Hadassa Novais,República Checa
+1866,Davi Lucca da Mota,Honduras
+1867,Cecília Rocha,Camarões
+1868,Luiz Otávio Jesus,Armênia
+1869,Alícia Vieira,Catar
+1870,Renan Caldeira,Peru
+1871,Eduarda Aparecida,Camarões
+1872,Léo Fonseca,Filipinas
+1873,Sr. Heitor Sampaio,Tokelau
+1874,Maria Sophia Fernandes,Congo-Kinshasa
+1875,Bianca Novais,Roménia
+1876,Caio Rocha,Espanha
+1877,Carlos Eduardo Nascimento,Moçambique
+1878,Heloisa da Mata,Omã
+1879,Brayan Pimenta,Nigéria
+1880,Luiza Jesus,Nova Zelândia
+1881,Miguel Fonseca,Equador
+1882,Davi Miguel Araújo,Granada
+1883,Juan Aragão,Síria
+1884,Luan Nunes,Cuba
+1885,Zoe Fernandes,Dinamarca
+1886,Lucas Cardoso,Monserrate
+1887,Sra. Ana Liz Barbosa,Territórios Austrais Franceses
+1888,Thomas da Paz,Nepal
+1889,Srta. Emanuelly Fonseca,Iraque
+1890,Yago Peixoto,Argélia
+1891,Natália da Rocha,Ilhas Caiman
+1892,João Miguel Brito,São Marinho
+1893,Luiz Felipe Mendes,Polinésia Francesa
+1894,Rhavi Sales,Eslováquia
+1895,Eloá Oliveira,Espanha
+1896,Otto Sampaio,Guiné
+1897,Maya Brito,Mayotte
+1898,Sr. Benjamin Caldeira,Ilha do Natal
+1899,Henry Gabriel da Conceição,Gibraltar
+1900,Bruna Pereira,Irlanda
+1901,Srta. Eduarda Casa Grande,Ilhas Cook
+1902,Renan Cassiano,Fiji
+1903,Alexia Araújo,Eslováquia
+1904,Cauã Rocha,Marianas do Norte
+1905,Rafael Rodrigues,República Dominicana
+1906,Vinicius Garcia,Serra Leoa
+1907,Aylla Oliveira,Chipre
+1908,Joana Machado,Maurícia
+1909,Isabela Abreu,Akrotiri
+1910,Lara Brito,Mali
+1911,Henry Gabriel da Mata,Bósnia e Herzegovina
+1912,Ryan Freitas,Niue
+1913,Eloah Siqueira,Belize
+1914,Sra. Mariana Rios,Irlanda
+1915,Luiz Gustavo Viana,França
+1916,Lucca Cardoso,Wallis e Futuna
+1917,Diogo Pereira,Santa Lúcia
+1918,Carlos Eduardo das Neves,Ilhas dos Cocos
+1919,Raul Nogueira,Anguila
+1920,Davi Miguel Silveira,República Dominicana
+1921,Sra. Beatriz Sá,Barbados
+1922,Zoe Costa,Roménia
+1923,Srta. Hellena Oliveira,Turquia
+1924,Cecilia Cunha,Noruega
+1925,Heloísa Novais,Ilha do Natal
+1926,Maysa Araújo,Senegal
+1927,Sr. Cauã Porto,Tajiquistão
+1928,Pedro Lucas Freitas,Iêmen
+1929,Dra. Ágatha Lima,Polônia
+1930,Kaique Melo,Moldávia
+1931,Ravi Azevedo,Ilhas Virgens Britânicas
+1932,Augusto Almeida,Navassa Island
+1933,Melina Cirino,Estados Unidos
+1934,Pietra Leão,Vanuatu
+1935,Augusto Correia,Maurícia
+1936,Sr. Gabriel Nunes,Santa Lúcia
+1937,Eduarda Vasconcelos,Indonésia
+1938,Gustavo Dias,Akrotiri
+1939,Maria Cecília Oliveira,Tonga
+1940,Pedro Miguel Santos,Ruanda
+1941,Emanuelly da Cunha,Nicarágua
+1942,Benicio Farias,Belize
+1943,Maria Fernanda da Cruz,Bósnia e Herzegovina
+1944,Pedro Pereira,Tanzânia
+1945,Leandro Pinto,Ashmore and Cartier Islands
+1946,Dr. Anthony Gabriel da Cunha,Ilhas Falkland
+1947,Clara Gomes,Ilha de Man
+1948,Guilherme Sá,Namíbia
+1949,Sr. Bryan da Mota,Paraguai
+1950,Maria Clara Oliveira,Iêmen
+1951,Clarice Carvalho,Bangladesh
+1952,Luara Araújo,Irlanda
+1953,Caio Silva,Trindade e Tobago
+1954,Esther Araújo,Bélgica
+1955,Isadora Santos,Turquemenistão
+1956,Lucca Farias,Bermudas
+1957,Enzo Casa Grande,Anguila
+1958,Srta. Maria Júlia Sousa,Bulgária
+1959,Sr. Marcos Vinicius da Cunha,Índia
+1960,Dra. Maria Sophia Machado,Indonésia
+1961,Murilo Aragão,Zâmbia
+1962,Olivia Borges,Filipinas
+1963,Maya Pimenta,Ruanda
+1964,Henry Gabriel Novais,Marianas do Norte
+1965,Paulo Fernandes,Akrotiri
+1966,Caroline Siqueira,Pitcairn
+1967,Srta. Marcela Viana,Gibraltar
+1968,Maria Luísa Castro,Finlândia
+1969,Anna Liz Ramos,Jan Mayen
+1970,Caleb das Neves,Maurícia
+1971,Bruno Sales,Cuba
+1972,Maria Luísa Barros,Iran
+1973,Luísa Nogueira,Tonga
+1974,Heitor Cavalcanti,Jibuti
+1975,Vitor Moura,Letônia
+1976,Melina Almeida,Líbia
+1977,Lara da Paz,Japão
+1978,Oliver Oliveira,Ilha Bouvet
+1979,Sr. Cauê Brito,Azerbaijão
+1980,Bianca Cavalcanti,Mauritânia
+1981,Dr. Vinícius Ferreira,Quirguizistão
+1982,Thiago Andrade,Costa Rica
+1983,Sra. Heloísa Pereira,Guiné
+1984,Luísa Camargo,Tonga
+1985,Ana Clara Carvalho,China
+1986,Mariana da Rocha,Roménia
+1987,Clarice Rios,Guiné-Bissau
+1988,Juliana Jesus,Suazilândia
+1989,Srta. Clarice Oliveira,Trindade e Tobago
+1990,Luiz Felipe Campos,Belize
+1991,Renan Novais,Japão
+1992,Giovanna da Paz,Maldivas
+1993,Srta. Maria Farias,Países Baixos
+1994,Ravi da Mota,Iêmen
+1995,Matteo Camargo,Sri Lanka
+1996,Yuri Araújo,Islândia
+1997,Dr. Luiz Henrique Fonseca,Angola
+1998,Davi Lucas Monteiro,Uganda
+1999,Sr. Lucas Gabriel Marques,Mayotte
+2000,Srta. Olivia Correia,Tonga
+2001,Bento Jesus,Kuwait
+2002,Henry Gabriel Silva,Usbequistão
+2003,Laura Aparecida,Gana
+2004,Olívia Novais,Gabão
+2005,Enzo Gabriel da Luz,Guiné Equatorial
+2006,Nicolas Barros,Eritreia
+2007,Maitê Mendonça,Mayotte
+2008,Vitor Gabriel Carvalho,Chile
+2009,Sra. Sophia Jesus,Mongólia
+2010,Francisco Aparecida,Chipre
+2011,Joaquim Fernandes,Alemanha
+2012,Ana Julia Lopes,Burquina Faso
+2013,Daniel Pimenta,Wallis e Futuna
+2014,Maria Julia Vargas,Uruguai
+2015,Maitê Duarte,Dhekelia
+2016,Evelyn Montenegro,Ilhas Heard e McDonald
+2017,Hadassa Teixeira,Ilhas Marshall
+2018,Eloá Ramos,Jordânia
+2019,Davi Melo,Azerbaijão
+2020,Clarice da Rosa,Tajiquistão
+2021,Liam Correia,Comores
+2022,Maya Ramos,Suécia
+2023,Brenda Costa,Kuwait
+2024,Luna Lima,Ashmore and Cartier Islands
+2025,Joaquim Albuquerque,Afeganistão
+2026,Srta. Marina Farias,Burquina Faso
+2027,Pedro Miguel da Mata,Bahamas
+2028,Ana Lívia Duarte,Malávi
+2029,Sra. Ana Sophia Almeida,Svalbard e Jan Mayen
+2030,Theodoro Souza,Bangladesh
+2031,Lara Pastor,Bangladesh
+2032,Pedro Miguel Cunha,Canadá
+2033,Dra. Lavínia Cavalcante,Paraguai
+2034,Srta. Ana Luiza Teixeira,Ilhas Cook
+2035,Elisa Moraes,São Marinho
+2036,Isis Freitas,Santa Helena
+2037,Ana Julia Martins,Guiana
+2038,Thales da Costa,Bermudas
+2039,Leonardo Cavalcante,Bahamas
+2040,Dr. Luiz Otávio Vargas,Bélgica
+2041,Melissa Sousa,Libéria
+2042,Vinicius Pereira,Haiti
+2043,Luiza Pimenta,Nigéria
+2044,Igor Nascimento,Liechtenstein
+2045,Benjamim da Costa,Camarões
+2046,Mariane Rios,Eslovênia
+2047,Alexandre Lima,Iraque
+2048,Luiz Otávio Macedo,Comores
+2049,Davi Lucas da Cunha,Trindade e Tobago
+2050,Ana Lívia das Neves,União Europeia
+2051,Amanda Azevedo,Itália
+2052,Luiz Fernando Sá,Burquina Faso
+2053,Sra. Bárbara da Mota,Vietnam
+2054,Caio Duarte,Países Baixos
+2055,Miguel Camargo,Bósnia e Herzegovina
+2056,Sr. Levi Pereira,Bielorrússia
+2057,Ana Laura da Rosa,Congo-Kinshasa
+2058,Maitê Pereira,Bolívia
+2059,Davi Miguel da Rosa,Serra Leoa
+2060,Lucca da Conceição,Afeganistão
+2061,Thomas Oliveira,Porto Rico
+2062,Pietra Sales,Territórios Austrais Franceses
+2063,Sr. Arthur Miguel da Cunha,África do Sul
+2064,Jade Brito,Pitcairn
+2065,Melissa Brito,Ilhas Turcas e Caicos
+2066,João Guilherme Correia,Guiné
+2067,Ana Cecília Peixoto,Vietnam
+2068,Sra. Eloá Pacheco,Antilhas Holandesas
+2069,Maria Sophia Macedo,Dinamarca
+2070,Henrique Vieira,França
+2071,Pietra Porto,Clipperton Island
+2072,Thiago Freitas,Benim
+2073,Raquel Ferreira,Niue
+2074,Eduardo Novais,Ilhas Falkland
+2075,Luiz Gustavo Pereira,Ashmore and Cartier Islands
+2076,Nathan Câmara,Jersey
+2077,Lorenzo Moura,Bósnia e Herzegovina
+2078,Sra. Luara Lopes,Burundi
+2079,Dra. Ana Julia Gonçalves,Haiti
+2080,Dra. Luara da Cunha,Belize
+2081,Lívia Moraes,Zimbábue
+2082,Breno Mendes,Eslováquia
+2083,Dra. Giovanna Rezende,Malásia
+2084,Eduarda Viana,Dhekelia
+2085,Calebe Vargas,Congo-Brazzaville
+2086,Davi Fernandes,Sérvia
+2087,Sra. Valentina Dias,Mali
+2088,Ana Cecília Montenegro,Mayotte
+2089,Luiza Mendes,Líbano
+2090,Rebeca da Cruz,Cabo Verde
+2091,Calebe Mendonça,Uganda
+2092,Mirella Cavalcanti,União Europeia
+2093,Apollo Castro,Cazaquistão
+2094,Valentina Nunes,Turquemenistão
+2095,Ágatha Andrade,Ilha de Man
+2096,Valentim Fernandes,Haiti
+2097,Isabelly Freitas,Ilhas Turcas e Caicos
+2098,Luísa Casa Grande,Maldivas
+2099,Marcos Vinicius Cirino,Hong Kong
+2100,Cecília Rezende,Antilhas Holandesas
+2101,Hellena da Rocha,Bangladesh
+2102,Heloísa Peixoto,Bélgica
+2103,Gael Farias,Jibuti
+2104,Srta. Ana Vitória Caldeira,Jordânia
+2105,Gustavo Henrique Macedo,Paraguai
+2106,Dr. Luiz Felipe Machado,Azerbaijão
+2107,Vinícius das Neves,Croácia
+2108,Mariah Souza,Domínica
+2109,Davi Miguel Viana,Andorra
+2110,Sr. João Pedro da Cunha,Portugal
+2111,Clarice Rezende,Togo
+2112,Pedro Miguel Ferreira,Panamá
+2113,Ryan Jesus,Suíça
+2114,Sabrina Vieira,Guiné-Bissau
+2115,Antony da Paz,Ilhas Heard e McDonald
+2116,Guilherme Ribeiro,Tonga
+2117,Leonardo Sampaio,Congo-Kinshasa
+2118,Isaque Cirino,Vanuatu
+2119,Ryan Guerra,Argentina
+2120,Pedro Miguel da Luz,Ilhas Marshall
+2121,Ana Sophia Nunes,Ilhas Falkland
+2122,Maria Laura Martins,Timor Leste
+2123,Maria Helena Guerra,Filipinas
+2124,Raquel Novaes,Salvador
+2125,Ester Leão,Macau
+2126,Vitor Nunes,Angola
+2127,Matheus Cassiano,Guiana
+2128,Thiago Costa,Ilhas Falkland
+2129,Sra. Maria Liz Aragão,Uruguai
+2130,Amanda Ribeiro,Iraque
+2131,Isaque Barbosa,Birmânia
+2132,Emilly Fonseca,Cuba
+2133,Ana Lívia da Mota,Guam
+2134,Allana Macedo,Nigéria
+2135,José Pedro Guerra,Chade
+2136,Maya Campos,República Checa
+2137,Bento Andrade,União Europeia
+2138,José Miguel Barros,Belize
+2139,Dra. Bruna Andrade,Malta
+2140,Antônio Silveira,Uganda
+2141,Guilherme Cassiano,Anguila
+2142,Maria Isis Andrade,Guiana
+2143,Cecilia Melo,Ilhas Heard e McDonald
+2144,Ana Lívia das Neves,Costa Rica
+2145,Sr. Brayan Moraes,Quirguizistão
+2146,Lara Almeida,Ashmore and Cartier Islands
+2147,Bernardo Moreira,Marianas do Norte
+2148,Dr. Danilo Ferreira,Índia
+2149,Luiz Fernando Ribeiro,Guiana
+2150,Dr. Nathan Cirino,Macedônia do Norte
+2151,Beatriz da Rocha,Ilhas Salomão
+2152,Sr. Ian da Cunha,Guiné-Bissau
+2153,Srta. Clara Andrade,Jibuti
+2154,Pietro Dias,Índia
+2155,Rodrigo Moreira,Antártica
+2156,Levi Silva,Dhekelia
+2157,Joaquim Ramos,Albânia
+2158,Dra. Emanuelly Peixoto,Bermudas
+2159,Nina Brito,França
+2160,Vitor Gabriel Mendonça,Líbia
+2161,Lavínia Fernandes,Armênia
+2162,Dra. Emanuella Castro,Quiribáti
+2163,Ryan Sampaio,Tunísia
+2164,Srta. Maria Fernanda Dias,Wallis e Futuna
+2165,Dr. Enzo Gabriel Albuquerque,Grécia
+2166,Theo Farias,Suécia
+2167,Giovanna Sales,Salvador
+2168,Carlos Eduardo da Paz,Montenegro
+2169,Vicente Duarte,Congo-Brazzaville
+2170,Maria Alice Melo,República Dominicana
+2171,Caroline Correia,Itália
+2172,Sophie Albuquerque,Jersey
+2173,Bernardo Jesus,Tokelau
+2174,Isadora Novais,Uganda
+2175,Dr. Matheus Lima,Ashmore and Cartier Islands
+2176,Dra. Sabrina Câmara,Ilhas Marshall
+2177,Sara Montenegro,Coreia do Norte
+2178,Thales Leão,Suriname
+2179,Davi Luiz Fernandes,Santa Helena
+2180,Léo Monteiro,Portugal
+2181,Luna Machado,Ilha do Natal
+2182,Bernardo Nascimento,Andorra
+2183,Lara Nogueira,Fiji
+2184,Luísa Nascimento,Costa do Marfim
+2185,Antony Monteiro,Letônia
+2186,Carlos Eduardo da Costa,Espanha
+2187,Rafael Viana,Indonésia
+2188,Isis Pinto,Argélia
+2189,Dra. Kamilly Pinto,Costa Rica
+2190,Lara Macedo,Somália
+2191,Maria Helena Mendes,Guiné Equatorial
+2192,Antonella da Mota,Tailândia
+2193,Sr. Yan Azevedo,Grécia
+2194,André Machado,Paquistão
+2195,Dr. Vitor Gabriel Campos,Territórios Austrais Franceses
+2196,José Pedro Costela,Chipre
+2197,Lucas Gabriel Gonçalves,Nigéria
+2198,Srta. Manuela Melo,Navassa Island
+2199,Thomas Barbosa,Albânia
+2200,Pedro Miguel Sampaio,Armênia
+2201,Srta. Gabriela Cavalcante,Samoa Americana
+2202,Arthur Miguel Rocha,Iraque
+2203,Giovanna da Luz,Gana
+2204,Josué Oliveira,Butão
+2205,Evelyn Carvalho,Birmânia
+2206,Dra. Marcela Aragão,Montenegro
+2207,Lívia Abreu,Índia
+2208,Theodoro Nogueira,Iraque
+2209,Dr. Dom Gonçalves,Tailândia
+2210,Sra. Maria Liz Dias,Guam
+2211,Helena Vasconcelos,Gabão
+2212,Maria Cecília Fernandes,Costa do Marfim
+2213,Dr. Cauê Rios,Lituânia
+2214,Yago Brito,Guatemala
+2215,Sara Aparecida,Emirados Árabes Unidos
+2216,Rhavi Costela,Suíça
+2217,Amanda Nogueira,Fiji
+2218,Aylla Duarte,Singapura
+2219,Thiago Cassiano,Camarões
+2220,Isis da Mata,Burquina Faso
+2221,Gabriel Dias,Cuba
+2222,Dra. Eduarda Freitas,Mongólia
+2223,Rafael Rodrigues,Gabão
+2224,Dr. Caleb Dias,Suíça
+2225,João Lucas Cardoso,Alemanha
+2226,Sra. Lunna Fernandes,Lesoto
+2227,Alexia Nogueira,Território Britânico do Oceano Índico
+2228,Dr. Ravi Lucca Siqueira,Dhekelia
+2229,Lara Ribeiro,Finlândia
+2230,Pedro Henrique Pimenta,Aruba
+2231,Dr. João Felipe Nunes,Tokelau
+2232,Gustavo Henrique Fernandes,Chade
+2233,Otto Albuquerque,Coreia do Norte
+2234,Dr. Pedro Lucas Marques,Chipre
+2235,Maria Eduarda Azevedo,Libéria
+2236,Caio Rodrigues,Croácia
+2237,Gael Siqueira,Guiné Equatorial
+2238,João Marques,Papua-Nova Guiné
+2239,Leonardo Rezende,Domínica
+2240,Theo Fernandes,Arábia Saudita
+2241,Murilo Almeida,Dinamarca
+2242,Dr. Henry Pacheco,Costa do Marfim
+2243,Bryan Mendes,Costa Rica
+2244,Dra. Isis Costela,Cabo Verde
+2245,Gustavo Mendes,Geórgia do Sul e Sandwich do Sul
+2246,Ravi Lucca Araújo,Paquistão
+2247,Antônio Monteiro,Honduras
+2248,Dr. Guilherme da Luz,Nova Caledónia
+2249,Enzo Santos,Nigéria
+2250,Davi Lucas Pereira,Ilhas Falkland
+2251,Maysa Cardoso,Andorra
+2252,Sra. Maria Júlia Machado,Malávi
+2253,Brenda Pinto,Líbano
+2254,João Vitor Camargo,Paquistão
+2255,Sr. Vicente da Mota,Ilhas Falkland
+2256,Dr. Dom da Rosa,Maurícia
+2257,Manuela Rodrigues,Omã
+2258,Caio Fonseca,Ilhas dos Cocos
+2259,João Felipe Pires,Jan Mayen
+2260,Thales Nascimento,Antígua e Barbuda
+2261,Dr. Renan Montenegro,Marianas do Norte
+2262,Lunna Gonçalves,Nicarágua
+2263,Melissa Cassiano,Polinésia Francesa
+2264,Lavínia Duarte,Zâmbia
+2265,Carlos Eduardo Pereira,Monserrate
+2266,Asafe Araújo,Bolívia
+2267,Pietro Fernandes,Wallis e Futuna
+2268,Dr. Raul Pimenta,Costa Rica
+2269,Asafe Aragão,Granada
+2270,Ana Júlia Casa Grande,Uruguai
+2271,Gustavo Albuquerque,Colômbia
+2272,Luiz Fernando Câmara,Macedônia do Norte
+2273,Matteo Rezende,Noruega
+2274,Luiza Castro,Ilhas Cook
+2275,Vitória Montenegro,Argentina
+2276,Eloá Nascimento,Nepal
+2277,Davi Luiz das Neves,Vanuatu
+2278,Dra. Ana Cecília Rezende,Suriname
+2279,Letícia Nascimento,Omã
+2280,Valentim Duarte,França
+2281,Eduardo das Neves,Singapura
+2282,Brenda Caldeira,Nigéria
+2283,Diego Câmara,Portugal
+2284,Leonardo Lopes,Guiné-Bissau
+2285,Vitor Hugo Cavalcante,Camarões
+2286,Paulo da Cunha,Lesoto
+2287,André Caldeira,Antártica
+2288,Melissa Peixoto,São Vicente e Granadinas
+2289,João Pedro Rios,Quênia
+2290,Maria Isis Silva,Lesoto
+2291,Maria Clara Moraes,Dhekelia
+2292,Srta. Maria Sophia Nascimento,Maurícia
+2293,Bernardo Casa Grande,Marrocos
+2294,Antony Marques,Uganda
+2295,Cauê Albuquerque,Coreia do Sul
+2296,Anna Liz Aparecida,Antilhas Holandesas
+2297,Srta. Nicole Costela,Eritreia
+2298,Maria Eduarda da Conceição,Catar
+2299,Arthur Gabriel Porto,Guam
+2300,Sr. João Vitor Siqueira,Luxemburgo
+2301,Isabelly Borges,Catar
+2302,Jade Fonseca,Tokelau
+2303,Gustavo Henrique Azevedo,Montenegro
+2304,Maria Liz Fogaça,Costa Rica
+2305,Maria Isis da Luz,Hong Kong
+2306,Daniela Pereira,Tuvalu
+2307,Maria Cecília Sá,Azerbaijão
+2308,Sr. Heitor Duarte,Roménia
+2309,Julia Araújo,Mali
+2310,Ian Sousa,Honduras
+2311,Heitor Sá,Zâmbia
+2312,Kaique Cavalcanti,Zâmbia
+2313,Gael Henrique da Luz,Bahamas
+2314,Srta. Ayla Cunha,Madagascar
+2315,Dr. Vitor Pires,Afeganistão
+2316,Gustavo Henrique Cunha,Faroé
+2317,Srta. Bianca Duarte,Moldávia
+2318,Luiza Sousa,Armênia
+2319,Davi Luiz Albuquerque,Nova Zelândia
+2320,Gael Henrique Cavalcanti,Ruanda
+2321,Srta. Larissa Ferreira,Finlândia
+2322,Luna Cunha,Sara Ocidental
+2323,Luna da Rocha,Bulgária
+2324,Sra. Stella Aragão,Chile
+2325,Antônio da Cunha,Países Baixos
+2326,Davi Miguel Moreira,Camarões
+2327,Thomas Aparecida,Iran
+2328,Sr. Noah da Rosa,Territórios Austrais Franceses
+2329,Leonardo Jesus,Namíbia
+2330,Igor Mendes,Lesoto
+2331,Luiz Henrique Costela,Gana
+2332,Amanda Fonseca,Antilhas Holandesas
+2333,Alana Castro,Arábia Saudita
+2334,Maya Almeida,França
+2335,Rael da Cruz,Luxemburgo
+2336,Yan Pinto,Guatemala
+2337,Danilo Casa Grande,Ilhas Virgens Britânicas
+2338,Lavínia Sales,Catar
+2339,Sra. Alana Rezende,Santa Helena
+2340,Lívia Sá,Angola
+2341,Natália Fernandes,Ilhas Salomão
+2342,Mariah Pacheco,Niue
+2343,Alana Nogueira,Malásia
+2344,Clarice Fonseca,Guiné-Bissau
+2345,Levi da Paz,Brasil
+2346,Luiz Henrique Castro,Hong Kong
+2347,Yasmin Moreira,Costa Rica
+2348,Pietro Gonçalves,Rússia
+2349,Sra. Maria Eduarda Fogaça,Ilhas Salomão
+2350,Sara Caldeira,Turquemenistão
+2351,Dr. Kaique Cunha,Congo-Brazzaville
+2352,Maysa Vieira,Coral Sea Islands
+2353,Antônio Sá,Nicarágua
+2354,Ana Sophia Santos,Nicarágua
+2355,Maria Flor Nogueira,Guernsey
+2356,Daniel Vasconcelos,Malta
+2357,Zoe da Mota,Macau
+2358,Ana Laura Vasconcelos,Jamaica
+2359,Benício Carvalho,Níger
+2360,Heloisa Montenegro,Seicheles
+2361,Léo Pereira,Irlanda
+2362,Mariane Vieira,Nicarágua
+2363,Cecilia Ferreira,Croácia
+2364,Isaac da Conceição,Singapura
+2365,Nicolas Siqueira,Papua-Nova Guiné
+2366,Camila Peixoto,Jordânia
+2367,Luiz Otávio Cardoso,Comores
+2368,Davi Luiz Pastor,Wallis e Futuna
+2369,Kevin Andrade,Tanzânia
+2370,Gabriel Pereira,Usbequistão
+2371,Alice Silveira,Honduras
+2372,Manuella Araújo,Congo-Brazzaville
+2373,Sr. Isaac Castro,Irlanda
+2374,Isabelly Siqueira,Benim
+2375,Lunna Moraes,República Dominicana
+2376,Maria Cecília Monteiro,Micronésia
+2377,Sr. Dante Vieira,Antilhas Holandesas
+2378,Sr. Davi Lucas Costa,Ashmore and Cartier Islands
+2379,Nina Viana,Brunei
+2380,Jade Monteiro,Roménia
+2381,Enzo da Mata,Itália
+2382,Luiza Oliveira,Nepal
+2383,Dra. Isabel Ribeiro,Eslovênia
+2384,João Ramos,Sudão
+2385,Benjamin Rodrigues,Quiribáti
+2386,Eduarda Câmara,Chile
+2387,Vitor Vieira,Antilhas Holandesas
+2388,Maria Moura,Guernsey
+2389,Laís Nogueira,Guiné Equatorial
+2390,Leonardo Castro,Sara Ocidental
+2391,Pietra Vieira,Liechtenstein
+2392,Isaac Porto,Iran
+2393,Ravi Moraes,Suriname
+2394,Breno Barros,Botsuana
+2395,Maria Flor Cavalcante,Camboja
+2396,Davi Lopes,Salvador
+2397,Melina Rocha,Ashmore and Cartier Islands
+2398,José Pedro Casa Grande,Salvador
+2399,Otto Fernandes,Senegal
+2400,Henry Camargo,Zâmbia
+2401,Sr. Luan da Cruz,Mônaco
+2402,Ana Sophia Ribeiro,Suíça
+2403,Maria Luiza Duarte,Guatemala
+2404,Luigi Pires,Níger
+2405,Leandro Ribeiro,Espanha
+2406,Mariana Almeida,Macau
+2407,Letícia Garcia,Polônia
+2408,Juliana da Paz,Burundi
+2409,Enzo Ramos,Timor Leste
+2410,Maria Isis Vasconcelos,Egito
+2411,Catarina Peixoto,Ilhas Turcas e Caicos
+2412,Srta. Daniela Leão,Arábia Saudita
+2413,Josué das Neves,Butão
+2414,Luiz Fernando da Cunha,Ucrânia
+2415,André Freitas,Belize
+2416,Lucas Abreu,Ilhas Marshall
+2417,Isaac Cunha,Vaticano
+2418,Amanda Viana,Grécia
+2419,Rafael Novais,Áustria
+2420,Stephany Novaes,Akrotiri
+2421,Sra. Vitória Oliveira,Liechtenstein
+2422,Eloah Aragão,Paquistão
+2423,Dr. Pietro Cirino,Líbia
+2424,Gabriela Rodrigues,Panamá
+2425,Rafael da Paz,Antígua e Barbuda
+2426,Bárbara Martins,São Tomé e Príncipe
+2427,Thomas Siqueira,Dhekelia
+2428,Lorenzo Nunes,Macedônia do Norte
+2429,Amanda Sousa,Uruguai
+2430,Ravy Silveira,Índia
+2431,Maria Vitória Aparecida,Iran
+2432,Alana Pimenta,Nigéria
+2433,Srta. Ester Novais,Camarões
+2434,Sr. Pedro Henrique da Mota,Níger
+2435,Mariana Rios,Arábia Saudita
+2436,Daniela Mendonça,Nova Caledónia
+2437,Milena Brito,África do Sul
+2438,Zoe Rocha,Ilhas Marshall
+2439,Dante Castro,Quiribáti
+2440,Enzo Ramos,Canadá
+2441,Dra. Ana Sophia Sá,Líbia
+2442,Caio Mendes,Granada
+2443,Gael Moraes,Cuba
+2444,Emilly Vargas,Vaticano
+2445,Caroline Peixoto,Argentina
+2446,Ana Laura Nunes,Jersey
+2447,Rebeca Rocha,Costa Rica
+2448,Sr. Isaac das Neves,Guiné Equatorial
+2449,Kamilly Rodrigues,Rússia
+2450,Srta. Ana Júlia Porto,Ilhas Caiman
+2451,Eduarda Farias,Níger
+2452,Murilo Rios,Camboja
+2453,Hellena Ramos,Bósnia e Herzegovina
+2454,Henry Cavalcante,Anguila
+2455,Mathias Carvalho,Guiné Equatorial
+2456,Josué Costa,Líbano
+2457,Maria Júlia Cavalcanti,Benim
+2458,Ana Vitória Vargas,Santa Helena
+2459,Heloísa das Neves,Vietnam
+2460,Renan Correia,Nova Zelândia
+2461,Emanuelly Campos,Panamá
+2462,Maysa Garcia,Cabo Verde
+2463,Júlia Silva,Países Baixos
+2464,Juan Melo,Pitcairn
+2465,Isadora Duarte,Botsuana
+2466,Antônio Siqueira,Turquemenistão
+2467,Pedro Mendonça,Nauru
+2468,Ana Laura Câmara,Vaticano
+2469,Dr. Vicente Campos,Cuba
+2470,Nicolas Vasconcelos,Polônia
+2471,Daniela Cavalcanti,Líbano
+2472,Ravi Lucca Sá,Tanzânia
+2473,Thales Borges,Paquistão
+2474,Dra. Catarina Lopes,Omã
+2475,Sra. Stephany Machado,Butão
+2476,Sr. Pedro Henrique Mendes,Butão
+2477,Pedro Henrique Duarte,Suriname
+2478,Srta. Emilly Caldeira,Antártica
+2479,Gabrielly da Cunha,Honduras
+2480,Esther Costela,Salvador
+2481,Maria Vitória Lopes,Vietnam
+2482,Joana da Rocha,Costa Rica
+2483,Maria Luísa Garcia,Guam
+2484,Luiz Miguel Moraes,Somália
+2485,Daniel Dias,Micronésia
+2486,Luiz Henrique Cunha,Coreia do Sul
+2487,Maria Sophia Correia,Hungria
+2488,Thales Casa Grande,Ilhas Marshall
+2489,Aurora Fonseca,Somália
+2490,Antony Rios,Omã
+2491,Bárbara Carvalho,Singapura
+2492,Ísis Moura,Burquina Faso
+2493,Alice Fogaça,Egito
+2494,Ana Beatriz Vargas,Botsuana
+2495,Enzo Gabriel Aragão,Marianas do Norte
+2496,Mariana Marques,África do Sul
+2497,Rebeca Sales,Barein
+2498,Luiz Fernando Peixoto,Líbano
+2499,Dr. Matteo Guerra,Argélia
+2500,Dante Camargo,Guiné
+2501,Dante da Conceição,Jamaica
+2502,Vitória Pereira,Gâmbia
+2503,Srta. Antonella Câmara,Ilhas Caiman
+2504,Heloisa da Conceição,Barein
+2505,Benício Dias,Guernsey
+2506,Dra. Ester Dias,Santa Helena
+2507,Matteo Sá,Navassa Island
+2508,Rafael Pires,Níger
+2509,Rodrigo Caldeira,Paraguai
+2510,Arthur Gabriel Garcia,São Vicente e Granadinas
+2511,Dr. Paulo Aragão,Palau
+2512,Sr. Davi Lucca Fonseca,Ilhas Turcas e Caicos
+2513,Srta. Cecilia Porto,Quênia
+2514,Liz Oliveira,Argentina
+2515,Ester Borges,Egito
+2516,Melina Jesus,Chile
+2517,Bruno Jesus,Bangladesh
+2518,Ísis Oliveira,Quiribáti
+2519,Isabel Aragão,Haiti
+2520,Sra. Maria Vitória Mendes,Turquia
+2521,Caroline da Mata,Montenegro
+2522,Lunna Gomes,Eslovênia
+2523,João Fernandes,Azerbaijão
+2524,Dr. Cauã da Cruz,Reino Unido
+2525,Renan da Rosa,Chile
+2526,Vitória Fonseca,Somália
+2527,Benjamin Santos,Mali
+2528,Caio das Neves,Suriname
+2529,Clara Vasconcelos,Papua-Nova Guiné
+2530,Agatha Nogueira,Jordânia
+2531,Dr. Luiz Fernando Cunha,Malta
+2532,Guilherme Peixoto,Eslováquia
+2533,Mathias Mendes,Luxemburgo
+2534,Dom Almeida,Groenlândia
+2535,Fernando Silveira,Guiné
+2536,Esther Pinto,Wallis e Futuna
+2537,Ana Carolina Teixeira,Domínica
+2538,Vinicius Cassiano,Gabão
+2539,Isabel Casa Grande,Portugal
+2540,Luiz Felipe das Neves,Porto Rico
+2541,Cauê Lima,Vanuatu
+2542,Dr. Bento Cassiano,Iran
+2543,Léo Aragão,Ilhas Falkland
+2544,Srta. Zoe Vasconcelos,Grécia
+2545,Melissa Ferreira,Paracel Islands
+2546,Theo da Cruz,Tonga
+2547,Ana Clara Pimenta,Espanha
+2548,Olívia Araújo,Áustria
+2549,Maitê Nascimento,Kuwait
+2550,Stephany Leão,França
+2551,João Felipe Pereira,Vietnam
+2552,Olívia Mendes,Mayotte
+2553,Laís Araújo,Letônia
+2554,Sr. Felipe Jesus,Portugal
+2555,Manuela da Rosa,Akrotiri
+2556,Henry Gabriel Lima,Tokelau
+2557,Pietra da Rosa,República Dominicana
+2558,Srta. Mariane Aragão,Catar
+2559,Sr. Davi Luiz Andrade,Alemanha
+2560,Arthur Miguel Pires,Noruega
+2561,Luigi Vasconcelos,Nigéria
+2562,Ester Carvalho,França
+2563,Pietro Machado,União Europeia
+2564,Yasmin Abreu,Maldivas
+2565,Mirella Melo,Chile
+2566,Jade Alves,Ilhas Salomão
+2567,Sarah Rodrigues,Namíbia
+2568,Amanda Peixoto,Egito
+2569,Henry Rocha,Quênia
+2570,Yago Garcia,Sérvia
+2571,Benjamim Ribeiro,Vanuatu
+2572,Joaquim Sousa,Marianas do Norte
+2573,Mariah Cavalcanti,Hungria
+2574,Brenda da Luz,Dhekelia
+2575,Gabriel da Paz,República Checa
+2576,Sr. Henry Gabriel Ramos,Japão
+2577,Dra. Lavínia da Rosa,Ucrânia
+2578,Enzo Aparecida,Barbados
+2579,Davi Lucca Borges,Senegal
+2580,Marcelo Casa Grande,Santa Helena
+2581,Liam Gonçalves,São Cristóvão e Neves
+2582,João Pastor,Mauritânia
+2583,Sr. João Miguel Gomes,Ilhas Marshall
+2584,Raquel Albuquerque,Emirados Árabes Unidos
+2585,Maria Clara Monteiro,Belize
+2586,Luísa Correia,Bangladesh
+2587,Juliana Pinto,Namíbia
+2588,Dra. Joana Araújo,Bélgica
+2589,Ana Sophia Vargas,Botsuana
+2590,Luiz Felipe Pereira,Tuvalu
+2591,Alexandre Pastor,Dhekelia
+2592,Dr. Igor Gomes,Gibraltar
+2593,Sr. Caio Camargo,República Checa
+2594,Otto Silva,Vaticano
+2595,Luiz Otávio Novaes,Argentina
+2596,Juan Peixoto,Moldávia
+2597,Pedro Lucas Azevedo,Congo-Kinshasa
+2598,Luiz Fernando das Neves,Hong Kong
+2599,Sofia Lima,Gâmbia
+2600,Levi Costa,Sri Lanka
+2601,Sr. Kevin Souza,Sara Ocidental
+2602,Melina Martins,Domínica
+2603,Lara Souza,Ucrânia
+2604,Rafael Aparecida,Niue
+2605,Rael Guerra,Portugal
+2606,Dra. Joana Sousa,Vanuatu
+2607,Isadora Nunes,Sri Lanka
+2608,José Aparecida,Costa do Marfim
+2609,Daniel da Paz,Salvador
+2610,Anthony Gabriel Sales,Congo-Kinshasa
+2611,Bruna Carvalho,Guam
+2612,Letícia Fonseca,São Tomé e Príncipe
+2613,Maria Júlia Mendes,Botsuana
+2614,Antonella Moura,Azerbaijão
+2615,Emanuel Lopes,Suazilândia
+2616,Theo da Cunha,Kuwait
+2617,Isabel Castro,Dinamarca
+2618,Pedro Lucas Mendonça,Malásia
+2619,Rhavi Teixeira,Ilhas Salomão
+2620,Gabriel Santos,Vaticano
+2621,Davi Lucca das Neves,Seicheles
+2622,Gustavo Henrique Montenegro,São Cristóvão e Neves
+2623,Dr. João Machado,Sara Ocidental
+2624,Dr. Josué Pimenta,Polinésia Francesa
+2625,Agatha Moreira,Gâmbia
+2626,Agatha Moura,Togo
+2627,Maria Julia Nogueira,México
+2628,Igor Montenegro,Granada
+2629,Maria Isis Cassiano,Maurícia
+2630,Enzo Gabriel Souza,Belize
+2631,Srta. Maria Liz Sampaio,Cazaquistão
+2632,Maria Alice Ribeiro,Tanzânia
+2633,Ana Beatriz Duarte,Costa Rica
+2634,Enzo Pastor,Samoa
+2635,Lara Câmara,Egito
+2636,Dra. Juliana Correia,São Marinho
+2637,Noah Ferreira,Tanzânia
+2638,Matheus Correia,Territórios Austrais Franceses
+2639,Laís Pastor,Geórgia
+2640,Benjamim Ramos,Turquia
+2641,Ryan Macedo,Iraque
+2642,Bryan Teixeira,Ilha Bouvet
+2643,Sra. Maria Eduarda Peixoto,Maurícia
+2644,Gustavo Henrique Vargas,Domínica
+2645,João Lucas Cassiano,Nigéria
+2646,Ravi Lucca Cunha,Ilhas Falkland
+2647,Ana Vasconcelos,Granada
+2648,Elisa Gomes,Suécia
+2649,Srta. Beatriz Pimenta,Letônia
+2650,Alana da Cruz,Liechtenstein
+2651,Bryan Marques,Tunísia
+2652,Davi Lucca Guerra,Finlândia
+2653,Léo da Rocha,Geórgia
+2654,Lorenzo da Mata,Ilhas dos Cocos
+2655,Dr. Enrico Rezende,Moçambique
+2656,Arthur Gabriel Rocha,Montenegro
+2657,José Pedro Brito,Suriname
+2658,Luiz Miguel Cavalcanti,Ilha Norfolk
+2659,Maria Liz Brito,Antígua e Barbuda
+2660,Maria Andrade,Guiné
+2661,Ana Sophia Fernandes,Áustria
+2662,Daniela Aragão,Maldivas
+2663,Cauã Martins,Suazilândia
+2664,Maria Júlia da Paz,Camarões
+2665,Dr. Benício Pastor,Jersey
+2666,Ana Júlia Câmara,Suriname
+2667,Ana Laura Siqueira,República Dominicana
+2668,Maria Eduarda Moreira,Jibuti
+2669,Luiz Gustavo Castro,Território Britânico do Oceano Índico
+2670,Ana Lívia da Rosa,Wallis e Futuna
+2671,Bárbara Carvalho,Albânia
+2672,Luiza Correia,Guatemala
+2673,Dr. Murilo Cardoso,Angola
+2674,Sr. Theodoro Peixoto,Micronésia
+2675,Erick Monteiro,Ucrânia
+2676,Aylla Siqueira,Cuba
+2677,Davi Lucca Rios,Maurícia
+2678,Yasmin Nascimento,Iran
+2679,Larissa da Rocha,Ucrânia
+2680,Melissa Sousa,República Checa
+2681,Renan Brito,Finlândia
+2682,Raquel Nogueira,Coreia do Norte
+2683,Emanuelly Montenegro,Islândia
+2684,Rebeca Costa,Taiwan
+2685,Bruna Freitas,Azerbaijão
+2686,Ana Vitória Peixoto,Serra Leoa
+2687,José Pedro da Cruz,República Centro-Africana
+2688,Heitor Pacheco,Gâmbia
+2689,Lucca Lima,Austrália
+2690,Davi Lucca Barbosa,Kuwait
+2691,Enzo Gabriel Oliveira,Grécia
+2692,João Miguel Freitas,Líbia
+2693,Milena Fonseca,Equador
+2694,Srta. Marina Cirino,Malávi
+2695,Luara Sales,São Marinho
+2696,Pietro Monteiro,Sudão
+2697,Giovanna Farias,Costa do Marfim
+2698,Pietro Martins,São Vicente e Granadinas
+2699,Isis Cardoso,Guam
+2700,Marcelo da Rosa,Monserrate
+2701,Dra. Ana Beatriz Araújo,Paracel Islands
+2702,Sr. Antony Vargas,Vaticano
+2703,Benjamim da Rosa,Filipinas
+2704,Mateus Costela,Espanha
+2705,Pietra da Mota,Camarões
+2706,Fernanda Barros,Antígua e Barbuda
+2707,João Lucas Carvalho,Uganda
+2708,Enzo Gabriel Marques,Chade
+2709,Rafaela Ferreira,Antilhas Holandesas
+2710,José Miguel Cardoso,Paraguai
+2711,Mariana Pires,Domínica
+2712,Isadora Sá,Ilha do Natal
+2713,Brenda Costela,Zimbábue
+2714,Felipe Cavalcanti,Coral Sea Islands
+2715,Heloísa Nascimento,Geórgia
+2716,Dr. Guilherme da Mata,Palau
+2717,Ana Sophia Abreu,Belize
+2718,Rafaela Aragão,Ilha de Man
+2719,Dr. Luan Abreu,Libéria
+2720,Sr. Isaque Marques,Suazilândia
+2721,Catarina da Cruz,Comores
+2722,Luana Araújo,Territórios Austrais Franceses
+2723,Jade Azevedo,Finlândia
+2724,Vitor Rocha,Benim
+2725,Bianca Cirino,Jamaica
+2726,Vicente Jesus,Svalbard e Jan Mayen
+2727,Ravi Lucca Souza,Akrotiri
+2728,Mathias Borges,Marianas do Norte
+2729,Ágatha Pimenta,Sudão
+2730,João Gabriel Aparecida,Bolívia
+2731,Emanuelly Pires,Senegal
+2732,João Felipe Nogueira,Peru
+2733,José Miguel Vieira,Monserrate
+2734,Dr. Luiz Fernando Macedo,Canadá
+2735,Miguel Ramos,Aruba
+2736,Rebeca Araújo,Anguila
+2737,Brayan Albuquerque,Camboja
+2738,Gustavo Melo,Barbados
+2739,Sr. Felipe Pimenta,Ilha Bouvet
+2740,Mathias da Rosa,Ilhas Turcas e Caicos
+2741,Sra. Eloá Dias,Ucrânia
+2742,Heitor Novaes,Suíça
+2743,Theodoro Rezende,Antígua e Barbuda
+2744,Joana Mendes,Dhekelia
+2745,Valentina Câmara,México
+2746,Bryan Mendonça,Guam
+2747,Thomas Santos,Cuba
+2748,Srta. Emilly Barros,Granada
+2749,Vinicius da Cruz,Nicarágua
+2750,Mariane Caldeira,Suíça
+2751,Mariah Ferreira,Liechtenstein
+2752,Alana Pastor,Aruba
+2753,Dra. Stephany Cavalcanti,Mônaco
+2754,Eduarda Leão,Clipperton Island
+2755,Dr. Ravi Campos,Etiópia
+2756,Rafael Porto,Colômbia
+2757,Levi Sá,Territórios Austrais Franceses
+2758,Kevin Sousa,Ruanda
+2759,Srta. Allana Duarte,São Marinho
+2760,Isabella Campos,Jersey
+2761,Léo Mendes,Laos
+2762,Pedro Miguel Viana,Antártica
+2763,Heloísa Pires,Ilhas Caiman
+2764,Vitor Hugo Farias,Luxemburgo
+2765,Alana Monteiro,Jersey
+2766,Antony da Mota,Malávi
+2767,Diogo Montenegro,Ilhas Salomão
+2768,Dr. Raul Brito,Polônia
+2769,Srta. Emanuella Santos,Sri Lanka
+2770,Antônio da Rosa,Navassa Island
+2771,Sr. Apollo Macedo,Vaticano
+2772,Carolina Ferreira,Rússia
+2773,Mariana Câmara,Namíbia
+2774,Isabela Sampaio,Costa do Marfim
+2775,Luiz Felipe da Cunha,Ilhas Caiman
+2776,João Vitor Pastor,Zâmbia
+2777,Emanuel Alves,São Tomé e Príncipe
+2778,Nina Macedo,Birmânia
+2779,Diogo Brito,Micronésia
+2780,Clara Fonseca,Estônia
+2781,Sr. Pedro Siqueira,Etiópia
+2782,Alana Novais,Malásia
+2783,Cauê Rezende,Tokelau
+2784,Stephany Porto,Ruanda
+2785,Cauã Pires,Arábia Saudita
+2786,Ana Lívia Marques,Bielorrússia
+2787,Dr. Caleb Cavalcante,Burquina Faso
+2788,Sra. Isabella da Rosa,Jordânia
+2789,Gael Alves,Domínica
+2790,Henry Gomes,Costa Rica
+2791,Theodoro Martins,Costa Rica
+2792,Leonardo Fonseca,Sérvia
+2793,Maria Luiza Monteiro,Itália
+2794,Dr. Valentim Barbosa,República Checa
+2795,Lavínia Gomes,Líbia
+2796,Caleb Aragão,Armênia
+2797,Isadora Ribeiro,Gana
+2798,Zoe Fogaça,Bélgica
+2799,Matheus da Cunha,Papua-Nova Guiné
+2800,Ana Laura Moura,Costa do Marfim
+2801,Pedro Lucas da Rosa,Nauru
+2802,Melissa Azevedo,Paraguai
+2803,Kamilly Barbosa,Macau
+2804,Sr. Arthur Miguel Cirino,Egito
+2805,Sra. Maria Luiza Cavalcante,Polônia
+2806,Ana Beatriz Teixeira,Lesoto
+2807,Theo Costa,Andorra
+2808,Davi Farias,Jersey
+2809,Srta. Lavínia Cirino,Mali
+2810,Luiz Miguel Cardoso,Bermudas
+2811,Sara Almeida,Dhekelia
+2812,Ayla Rezende,Noruega
+2813,Srta. Ana Julia Macedo,Gâmbia
+2814,Luiz Gustavo Borges,Butão
+2815,João Felipe Cardoso,Porto Rico
+2816,Fernanda Gonçalves,Síria
+2817,Melissa Pastor,Israel
+2818,Rebeca Pastor,Líbano
+2819,Sr. Pedro Henrique Moura,Canadá
+2820,Manuela Freitas,Navassa Island
+2821,Anna Liz da Rosa,Mônaco
+2822,Dr. Calebe Moraes,Líbia
+2823,Ana Carolina Fogaça,Nova Zelândia
+2824,Ryan Monteiro,Guernsey
+2825,Noah Sá,Índia
+2826,Luiz Felipe Cirino,Angola
+2827,Lavínia Correia,Chade
+2828,Sr. Benjamin Cardoso,Geórgia
+2829,Marcelo Borges,Iraque
+2830,Dr. Kaique Dias,Malta
+2831,Davi Correia,Namíbia
+2832,Diogo Camargo,Polônia
+2833,Samuel Moura,Macau
+2834,Luiz Miguel Novais,Angola
+2835,Alexia Ferreira,Filipinas
+2836,Yasmin Pastor,Mongólia
+2837,Gael Henrique Oliveira,República Centro-Africana
+2838,Sra. Ester Monteiro,Monserrate
+2839,Helena Abreu,Guatemala
+2840,Sr. Calebe Peixoto,Austrália
+2841,Luiz Gustavo Silveira,Micronésia
+2842,Ágatha Azevedo,Croácia
+2843,Dra. Natália Castro,Ilhas Salomão
+2844,Joaquim Sousa,Gâmbia
+2845,Valentina Guerra,Líbia
+2846,Gabriela Albuquerque,Domínica
+2847,Juan Sá,Santa Lúcia
+2848,Emanuel Ramos,República Dominicana
+2849,Luiz Otávio Costela,Noruega
+2850,Ana Vitória Alves,Domínica
+2851,Erick Macedo,Congo-Kinshasa
+2852,Vitor Hugo Garcia,Angola
+2853,Nicolas Cassiano,Ilha Wake
+2854,Théo Câmara,Tuvalu
+2855,Kamilly Camargo,Andorra
+2856,Dra. Anna Liz da Mota,Santa Helena
+2857,Maria Alice Marques,Nova Zelândia
+2858,Joaquim Cassiano,Ilha Bouvet
+2859,Francisco Macedo,Grécia
+2860,Raquel Andrade,Bermudas
+2861,Maria Júlia Pastor,Ilhas Falkland
+2862,Laura Barbosa,Venezuela
+2863,Leandro Gomes,Ilhas dos Cocos
+2864,Sra. Gabrielly Moraes,Egito
+2865,Evelyn Lima,Suriname
+2866,Alexandre Barros,Brunei
+2867,José Miguel Novais,Togo
+2868,Sr. Mathias Siqueira,Granada
+2869,Rhavi Caldeira,Guiana
+2870,João Pedro Montenegro,Navassa Island
+2871,Valentina Moraes,Líbia
+2872,Diego Pinto,Níger
+2873,Cauê Campos,Monserrate
+2874,Luara Correia,Liechtenstein
+2875,Srta. Bruna Nunes,Chade
+2876,José Pedro da Cruz,Cuba
+2877,Igor Cunha,Zâmbia
+2878,Kevin da Cruz,Israel
+2879,Maria Clara Cunha,Liechtenstein
+2880,Murilo Brito,Cuba
+2881,Sr. Mathias Azevedo,Roménia
+2882,Paulo Cunha,Monserrate
+2883,Evelyn Cavalcante,Ilhas Virgens Americanas
+2884,Nicole Andrade,Libéria
+2885,Stephany Guerra,Islândia
+2886,Dra. Isabela da Cruz,Jan Mayen
+2887,Mariane Cavalcanti,Portugal
+2888,Maria Azevedo,Guiné-Bissau
+2889,Ana Lívia Jesus,Camboja
+2890,Rael Ferreira,Estados Unidos
+2891,Emilly da Conceição,Pitcairn
+2892,Bryan Pacheco,Wallis e Futuna
+2893,Raul das Neves,Nicarágua
+2894,Bruno Fernandes,Micronésia
+2895,Sra. Manuela Viana,Cabo Verde
+2896,Rebeca Teixeira,Domínica
+2897,Dra. Rebeca Mendonça,Territórios Austrais Franceses
+2898,Ryan Silva,Paraguai
+2899,Dr. Arthur Miguel Alves,Pitcairn
+2900,Sra. Bianca Correia,Haiti
+2901,Apollo Machado,Ilha Norfolk
+2902,Ana Sophia Albuquerque,Tonga
+2903,Ravy Silva,Groenlândia
+2904,Isadora Viana,Singapura
+2905,Luísa Lopes,Micronésia
+2906,Ana Laura da Cruz,Guam
+2907,Dr. Josué Teixeira,São Vicente e Granadinas
+2908,Luiz Otávio Pinto,Samoa Americana
+2909,Pedro Henrique Barbosa,Estônia
+2910,Yan Correia,Burundi
+2911,Juan Cavalcante,Congo-Kinshasa
+2912,Enzo Peixoto,Senegal
+2913,Ana Luiza Cirino,Espanha
+2914,Gabriel Melo,Ucrânia
+2915,Gabrielly Rocha,Ilha de Man
+2916,Lívia Montenegro,Malta
+2917,Pedro Henrique Caldeira,Jamaica
+2918,Ana Sophia Brito,Jamaica
+2919,Dra. Maitê Moura,Polinésia Francesa
+2920,Vicente Pires,Iran
+2921,Isaac Cassiano,Guernsey
+2922,Valentina Garcia,Cabo Verde
+2923,Natália Pinto,Camarões
+2924,Cecilia da Conceição,Tuvalu
+2925,Davi Lucca Gonçalves,Wallis e Futuna
+2926,João Vitor Nunes,Mônaco
+2927,Dr. Cauã Aparecida,Albânia
+2928,Hellena Cirino,Croácia
+2929,Yuri Gomes,Arábia Saudita
+2930,Isabelly Campos,Suazilândia
+2931,Murilo Moreira,Brunei
+2932,Fernando Carvalho,Alemanha
+2933,Srta. Stephany Sales,Andorra
+2934,Luísa Santos,República Centro-Africana
+2935,Pedro Henrique Gomes,Bermudas
+2936,Dom Guerra,Bahamas
+2937,Théo Albuquerque,África do Sul
+2938,Ravi Oliveira,Malta
+2939,Luana Almeida,Burquina Faso
+2940,Dra. Bárbara Sampaio,Ilhas Virgens Britânicas
+2941,Elisa Teixeira,Gana
+2942,Thales Cardoso,Líbano
+2943,Kaique Pimenta,Belize
+2944,Ravi Pastor,Comores
+2945,Marcelo Albuquerque,Monserrate
+2946,Apollo Camargo,Camarões
+2947,Pedro Henrique Fernandes,Sri Lanka
+2948,Srta. Liz Jesus,Benim
+2949,Aurora da Conceição,Suriname
+2950,Dr. Vitor Pinto,Costa Rica
+2951,Olívia Abreu,Geórgia do Sul e Sandwich do Sul
+2952,Arthur Gabriel Sousa,Gana
+2953,Isis da Conceição,Geórgia
+2954,Luan Sousa,Suazilândia
+2955,José Miguel Dias,Polinésia Francesa
+2956,Leonardo Almeida,Namíbia
+2957,Alexia Montenegro,Finlândia
+2958,Benjamin Fernandes,Birmânia
+2959,Sra. Ana Luiza Câmara,Polônia
+2960,Ana Julia Moura,Birmânia
+2961,Pietra Almeida,Argentina
+2962,Sara Barbosa,Timor Leste
+2963,Otávio Porto,Bangladesh
+2964,Bento Sales,Etiópia
+2965,Kamilly Caldeira,São Pedro e Miquelon
+2966,Dr. Luigi Moreira,Comores
+2967,Gabriela Dias,Singapura
+2968,Dr. Felipe Ribeiro,República Centro-Africana
+2969,Heloisa Azevedo,Mônaco
+2970,Vinicius da Mata,Santa Lúcia
+2971,Gabriel Teixeira,Ilhas Virgens Britânicas
+2972,Srta. Letícia Araújo,Guiné
+2973,Sr. Davi Luiz Teixeira,Arábia Saudita
+2974,Maria Clara da Mota,Níger
+2975,Maria da Mota,Domínica
+2976,Ana Julia Rezende,Moçambique
+2977,Luna Farias,Malásia
+2978,Lavínia Melo,Granada
+2979,Sr. Erick da Conceição,Hungria
+2980,Bernardo Oliveira,Jibuti
+2981,Maria Alice Martins,Estados Unidos
+2982,Otávio Pastor,Bangladesh
+2983,Maria Julia Rezende,Lesoto
+2984,Thales Souza,Ilhas Cook
+2985,Bryan Moreira,Tanzânia
+2986,Maria Eduarda Brito,Vietnam
+2987,Sr. Davi Luiz Cunha,Costa do Marfim
+2988,Luiz Henrique Ramos,Lesoto
+2989,Heitor Souza,Reino Unido
+2990,José Miguel Costela,França
+2991,Isaac Ferreira,Burundi
+2992,Jade Rodrigues,Wallis e Futuna
+2993,Noah Ferreira,França
+2994,Sr. Benjamim Sá,Malta
+2995,Thales Novais,Polônia
+2996,Maria Flor da Mota,Usbequistão
+2997,Sr. João Lucas Lopes,Marianas do Norte
+2998,Gabriela Mendonça,Reino Unido
+2999,Maria Cecília Azevedo,Quiribáti
+3000,Anthony Dias,Ilha de Man
+3001,Danilo das Neves,Ilha Norfolk
+3002,Antônio Vasconcelos,Santa Lúcia
+3003,Srta. Marina Camargo,Ilhas Virgens Americanas
+3004,Josué Nogueira,Chipre
+3005,Cecília Lima,Argentina
+3006,Emanuel Rocha,Eslovênia
+3007,Bernardo Gomes,Somália
+3008,Sr. Vicente da Cunha,Vanuatu
+3009,Sr. Calebe Machado,França
+3010,Srta. Cecilia Lima,Suazilândia
+3011,Stephany da Conceição,Áustria
+3012,Mateus Pinto,China
+3013,Elisa Aparecida,Serra Leoa
+3014,Sarah Peixoto,Trindade e Tobago
+3015,Ana Liz Mendes,Dhekelia
+3016,Arthur Gabriel Dias,Antilhas Holandesas
+3017,Mirella Pinto,Costa Rica
+3018,João Guilherme Sales,Estônia
+3019,Cecília Mendonça,Antígua e Barbuda
+3020,Sr. Luiz Otávio Castro,Vaticano
+3021,Sr. Caio Rios,Reino Unido
+3022,Mateus Sales,Peru
+3023,Manuela Alves,Eslováquia
+3024,Larissa Pires,Iêmen
+3025,Caleb Vargas,Colômbia
+3026,Letícia Ribeiro,São Marinho
+3027,João Miguel Araújo,Serra Leoa
+3028,Catarina Aragão,Eritreia
+3029,Eloah Montenegro,Albânia
+3030,Sarah Sampaio,Egito
+3031,Ryan da Cunha,Ruanda
+3032,Gael Alves,Israel
+3033,Sra. Valentina Sales,Quênia
+3034,Melina Macedo,Grécia
+3035,Sra. Ana Beatriz Barbosa,Emirados Árabes Unidos
+3036,Dr. Anthony Jesus,Kuwait
+3037,Valentim Moura,Granada
+3038,Marina Cirino,Vanuatu
+3039,Dra. Olívia Gonçalves,Ilhas Salomão
+3040,Bruna Cirino,Birmânia
+3041,Luiz Otávio Aparecida,Domínica
+3042,Luna Nascimento,Eslováquia
+3043,Dr. Ryan Aparecida,Jibuti
+3044,Lavínia Rocha,Costa Rica
+3045,Mateus Duarte,Sudão
+3046,Nicole Gonçalves,Paracel Islands
+3047,Bryan Mendes,Eritreia
+3048,Henrique Fogaça,Libéria
+3049,Francisco da Paz,Suazilândia
+3050,Gabrielly da Cruz,Antígua e Barbuda
+3051,Sr. Diego Sousa,Bermudas
+3052,Vitória Brito,Mayotte
+3053,Srta. Sabrina Aragão,República Dominicana
+3054,Liam Vargas,Samoa
+3055,Eduarda da Luz,Tanzânia
+3056,Dr. Isaac Novaes,Chade
+3057,Ana Beatriz Gomes,Barbados
+3058,Sofia Ferreira,República Dominicana
+3059,Danilo Mendonça,Marianas do Norte
+3060,Beatriz da Mota,Honduras
+3061,Isabel Sales,Ilha do Natal
+3062,Ana Beatriz Alves,Tajiquistão
+3063,Alana Andrade,Bermudas
+3064,Henry Gabriel Casa Grande,Coreia do Norte
+3065,Sr. Pedro Miguel Fogaça,França
+3066,Lavínia Guerra,Chipre
+3067,Caio Pereira,Arábia Saudita
+3068,Melina Silveira,São Tomé e Príncipe
+3069,Théo Moraes,Reino Unido
+3070,André da Costa,Monserrate
+3071,Vitor Pinto,Venezuela
+3072,Ana Jesus,Malásia
+3073,Benjamin Aparecida,Ilhas Salomão
+3074,Diogo Ramos,Polônia
+3075,Levi Araújo,Ilha Bouvet
+3076,Ana Sophia Moura,Colômbia
+3077,Benjamim Albuquerque,Cuba
+3078,Srta. Isabella Moraes,Laos
+3079,Dra. Isabela Pacheco,Andorra
+3080,Lorenzo da Rocha,Geórgia do Sul e Sandwich do Sul
+3081,Lorenzo Freitas,Tokelau
+3082,Igor Duarte,Nova Zelândia
+3083,Olívia Pereira,Quirguizistão
+3084,Lucca Garcia,Togo
+3085,Maria Novaes,Grécia
+3086,Lucca Caldeira,Dinamarca
+3087,Dr. João Guilherme Araújo,Liechtenstein
+3088,Davi Luiz Camargo,Ilhas Caiman
+3089,Sra. Sabrina Caldeira,Brasil
+3090,Maysa Rocha,União Europeia
+3091,Isis Sampaio,Navassa Island
+3092,Brayan Sales,Sudão
+3093,Nicolas Alves,Nepal
+3094,Dra. Joana Oliveira,Camboja
+3095,Melina Cassiano,Luxemburgo
+3096,Milena Vieira,Madagascar
+3097,Larissa Gonçalves,São Vicente e Granadinas
+3098,João Miguel Carvalho,Sérvia
+3099,Ana Lívia Duarte,Bolívia
+3100,Lavínia Vargas,República Centro-Africana
+3101,Luiz Otávio da Cunha,Jersey
+3102,Gael Henrique Castro,Gâmbia
+3103,Pietra Andrade,Bahamas
+3104,Ana Júlia Silva,Roménia
+3105,Dra. Luna Sampaio,Barein
+3106,Danilo Oliveira,Congo-Kinshasa
+3107,Augusto Cavalcante,Colômbia
+3108,Dr. Apollo Oliveira,Namíbia
+3109,Rafaela da Paz,Serra Leoa
+3110,Yuri Sales,Tunísia
+3111,Elisa Câmara,Pitcairn
+3112,Esther Sampaio,Tonga
+3113,Sra. Fernanda Novaes,Andorra
+3114,Davi Luiz Pacheco,Chade
+3115,Alícia Porto,Estônia
+3116,Otávio Brito,União Europeia
+3117,Maria Liz Sales,Cazaquistão
+3118,Mariana da Costa,Comores
+3119,Sarah Brito,Territórios Austrais Franceses
+3120,Laís Brito,Burquina Faso
+3121,Isabel Teixeira,Itália
+3122,Alexia Rocha,Portugal
+3123,Olívia Cirino,Líbano
+3124,Heloisa Mendonça,Domínica
+3125,Cecília da Luz,Ilhas Caiman
+3126,Samuel Brito,Camarões
+3127,Sr. Igor Mendonça,Ucrânia
+3128,Maria Eduarda Nogueira,São Vicente e Granadinas
+3129,Yago Nunes,Malta
+3130,Luiz Otávio da Paz,Nigéria
+3131,Benício Fernandes,Ilhas Salomão
+3132,Lucas Teixeira,Letônia
+3133,Gabriel Camargo,Síria
+3134,Antony Mendonça,Índia
+3135,João Miguel Rodrigues,Congo-Kinshasa
+3136,Ana Luiza Cassiano,Antígua e Barbuda
+3137,Mateus da Mota,Libéria
+3138,Lívia da Cunha,Eslovênia
+3139,Pietra Gonçalves,Ilha Wake
+3140,Ana Liz Camargo,Usbequistão
+3141,Dra. Sofia Abreu,Moçambique
+3142,Isaque Sales,Domínica
+3143,Sr. Kaique Correia,Rússia
+3144,Dr. Levi Pires,Filipinas
+3145,Maria Laura Siqueira,Noruega
+3146,Yuri Monteiro,Alemanha
+3147,Levi Ferreira,Argélia
+3148,Esther Pastor,Líbano
+3149,Srta. Luísa Martins,Andorra
+3150,Cecília Sales,Laos
+3151,João Guilherme Moraes,Cuba
+3152,Sofia Vasconcelos,Omã
+3153,Eduardo Aragão,Togo
+3154,Dr. João Gabriel da Costa,Síria
+3155,Pedro Miguel Ferreira,Ilha de Man
+3156,Ísis Gomes,Croácia
+3157,Srta. Marcela Gomes,Lesoto
+3158,Julia Mendonça,Tonga
+3159,Sr. Murilo Nunes,Samoa Americana
+3160,Gabriel Porto,Paquistão
+3161,Gael Moura,Sudão
+3162,Maysa Costela,Costa Rica
+3163,Ana Júlia Nogueira,Equador
+3164,Sra. Isabel Abreu,Marrocos
+3165,Bárbara da Rosa,China
+3166,Dr. Luiz Gustavo Brito,Serra Leoa
+3167,Bella da Rosa,Papua-Nova Guiné
+3168,Olivia Carvalho,Armênia
+3169,Mathias Cirino,Marrocos
+3170,Ana Clara Ribeiro,Colômbia
+3171,Samuel Moura,Iran
+3172,Theo Porto,Turquia
+3173,André Leão,Antilhas Holandesas
+3174,João Miguel da Mata,Ashmore and Cartier Islands
+3175,Lunna da Conceição,Colômbia
+3176,Marcela das Neves,Benim
+3177,Raul Barros,Moçambique
+3178,Dra. Antonella Nunes,Kuwait
+3179,Sr. Joaquim Viana,Monserrate
+3180,Nathan Casa Grande,Índia
+3181,Sra. Luna Novaes,Áustria
+3182,Danilo Barros,Letônia
+3183,Enzo Farias,Togo
+3184,Miguel Gonçalves,Ilhas Falkland
+3185,Sr. Henry Gabriel Fernandes,Libéria
+3186,Pietro Melo,São Tomé e Príncipe
+3187,Isadora Correia,Hong Kong
+3188,Sr. Marcelo Almeida,Birmânia
+3189,Helena Mendes,Nepal
+3190,Ana Liz Lima,Dhekelia
+3191,Guilherme Campos,Filipinas
+3192,Nicole Melo,Alemanha
+3193,Mateus Cirino,Cazaquistão
+3194,Mathias Teixeira,Antártica
+3195,Maria Vitória Vargas,Quiribáti
+3196,Rafaela Porto,Equador
+3197,Enzo Gabriel Cavalcante,Camboja
+3198,Davi Oliveira,Territórios Austrais Franceses
+3199,Benjamin da Mota,Canadá
+3200,João Miguel Silva,Fiji
+3201,Srta. Cecília Caldeira,Dhekelia
+3202,Luiz Felipe Farias,Laos
+3203,Srta. Stella Dias,Panamá
+3204,Dante das Neves,Chipre
+3205,Calebe Rocha,Egito
+3206,Gabriel Gonçalves,Egito
+3207,Rael Lima,Tanzânia
+3208,Heloisa Casa Grande,Singapura
+3209,Mathias Leão,Faroé
+3210,Vitória Borges,Dhekelia
+3211,Letícia Campos,Akrotiri
+3212,Dr. Brayan Melo,Islândia
+3213,Pedro Miguel Farias,Timor Leste
+3214,Rafaela Câmara,Sérvia
+3215,Noah Barbosa,França
+3216,Levi Rodrigues,Moldávia
+3217,Sabrina Pastor,Austrália
+3218,Ester Sales,Angola
+3219,Sr. Marcos Vinicius Souza,Ilha Norfolk
+3220,Francisco Silva,Turquemenistão
+3221,Larissa Rezende,Aruba
+3222,Sr. Luigi Cavalcanti,Sri Lanka
+3223,Julia Novais,Brasil
+3224,Ana Beatriz Cavalcanti,Honduras
+3225,Davi Luiz Vieira,Cuba
+3226,Ana Júlia Rios,Ruanda
+3227,Sra. Mariane Almeida,Belize
+3228,Sabrina Siqueira,Panamá
+3229,Laís Azevedo,Faroé
+3230,Valentim Vieira,Costa Rica
+3231,Sr. João Gabriel das Neves,Guam
+3232,Maria Machado,Ilhas Heard e McDonald
+3233,Alexandre Martins,Azerbaijão
+3234,Nina Novaes,Domínica
+3235,Gael Henrique Costa,Armênia
+3236,Sr. Rodrigo Rocha,Ilhas Marshall
+3237,Maria Júlia Sales,Austrália
+3238,João Miguel Gomes,Filipinas
+3239,Isaac Farias,Etiópia
+3240,Cauê Sampaio,Bósnia e Herzegovina
+3241,Murilo Moraes,Angola
+3242,Heitor Moreira,Gibraltar
+3243,Srta. Mariah Cassiano,Alemanha
+3244,Theodoro Martins,Suriname
+3245,Ana Cecília Castro,Tuvalu
+3246,Pietro Moreira,Tailândia
+3247,Rodrigo Araújo,Dinamarca
+3248,Srta. Lara Cavalcante,Gana
+3249,Davi Lucca Alves,Costa Rica
+3250,Luiz Fernando Jesus,Panamá
+3251,Sr. Raul Cavalcante,Argentina
+3252,Otávio Cavalcante,Brasil
+3253,Zoe da Luz,Uganda
+3254,Caroline Novais,Burquina Faso
+3255,Marcelo Viana,Usbequistão
+3256,Luna Pastor,República Dominicana
+3257,Dr. Davi Miguel das Neves,Países Baixos
+3258,Maria Laura Albuquerque,Cabo Verde
+3259,Luara Nascimento,Navassa Island
+3260,Sr. Igor Garcia,Bermudas
+3261,Dr. Pedro Henrique Borges,Espanha
+3262,Alexandre Caldeira,Níger
+3263,Vicente Mendonça,Argentina
+3264,Gael Peixoto,Ilhas Cook
+3265,Lorena Brito,Porto Rico
+3266,Luiza Fogaça,Suazilândia
+3267,Giovanna Nogueira,Papua-Nova Guiné
+3268,Ana Luiza Cardoso,Honduras
+3269,Ana Sophia Abreu,Uruguai
+3270,Dr. Joaquim Marques,Camboja
+3271,Kamilly da Paz,Birmânia
+3272,Luiz Felipe Mendonça,Granada
+3273,Ágatha da Mota,Belize
+3274,Ana Beatriz Barros,Clipperton Island
+3275,Lucas Fernandes,Azerbaijão
+3276,Olívia Novaes,Geórgia do Sul e Sandwich do Sul
+3277,Sra. Beatriz Fonseca,Serra Leoa
+3278,Ana Vitória da Rocha,Pitcairn
+3279,Marina Silva,Tonga
+3280,Ana Laura Carvalho,Ilhas Turcas e Caicos
+3281,Gabriel Viana,Nicarágua
+3282,Dante Vieira,Maldivas
+3283,Luiz Otávio Caldeira,México
+3284,Sra. Maria Luiza Castro,Dhekelia
+3285,Joana da Cruz,Clipperton Island
+3286,José Sousa,Ilha Bouvet
+3287,Maria Flor Cavalcante,Liechtenstein
+3288,Ana Luiza Sousa,Liechtenstein
+3289,Anna Liz Nascimento,Botsuana
+3290,Ágatha Moreira,Geórgia do Sul e Sandwich do Sul
+3291,Juliana Guerra,Salvador
+3292,Maria Helena Cavalcanti,França
+3293,Dr. Thiago Fogaça,Moldávia
+3294,Kamilly Casa Grande,Salvador
+3295,Enrico Castro,Chile
+3296,Zoe Barros,Niue
+3297,Cauê Pereira,Suazilândia
+3298,Heloisa Moraes,Azerbaijão
+3299,Dr. Kaique Macedo,Moldávia
+3300,Sofia da Rosa,Antígua e Barbuda
+3301,Sophie da Conceição,Taiwan
+3302,Marcos Vinicius Fonseca,Tonga
+3303,Dr. Isaque das Neves,Finlândia
+3304,Vicente Viana,Chade
+3305,Sra. Joana Souza,França
+3306,João Lucas Martins,Jersey
+3307,Maria Luiza da Cunha,Paquistão
+3308,Joana Farias,Mayotte
+3309,Dr. Benicio Vasconcelos,Haiti
+3310,Lucas Rocha,Ilha do Natal
+3311,Maria Alice Cavalcanti,Ilhas dos Cocos
+3312,Dr. Ravy Albuquerque,Coreia do Sul
+3313,Sra. Sabrina Borges,Egito
+3314,Samuel Novais,São Pedro e Miquelon
+3315,Ryan Nascimento,Libéria
+3316,Yuri Almeida,Argentina
+3317,Francisco Martins,Ilha de Man
+3318,Luana Lima,Nigéria
+3319,Brayan Silva,Indonésia
+3320,Dr. Eduardo Jesus,Ilhas Turcas e Caicos
+3321,Dra. Lívia Pinto,Ilha do Natal
+3322,Dr. Ryan Pinto,Hungria
+3323,Ana Sophia Rocha,Arábia Saudita
+3324,Bianca Castro,Catar
+3325,Hellena Andrade,Kuwait
+3326,Maria Alice Monteiro,Geórgia do Sul e Sandwich do Sul
+3327,Lucas da Conceição,Mali
+3328,Melissa Gonçalves,Chile
+3329,Ana Júlia Nogueira,Bélgica
+3330,Maria Laura Peixoto,Uruguai
+3331,Paulo Moreira,Azerbaijão
+3332,Sr. Antony Pacheco,Nigéria
+3333,Rafaela Dias,Cabo Verde
+3334,Dr. João Marques,Jibuti
+3335,Nicolas Martins,Madagascar
+3336,Olivia Pacheco,Ruanda
+3337,Maria Laura Mendonça,Antártica
+3338,Isabelly Silva,Níger
+3339,Arthur Miguel Araújo,Chade
+3340,Liz Garcia,Reino Unido
+3341,Isis Castro,Nova Caledónia
+3342,Dante Souza,Polinésia Francesa
+3343,Bella Gomes,Ucrânia
+3344,Pedro Mendonça,Paracel Islands
+3345,Vinicius Cavalcanti,Domínica
+3346,Noah Vasconcelos,Sudão
+3347,Eduardo Macedo,Ilha Bouvet
+3348,Ana Cecília Moraes,Sérvia
+3349,Aylla Montenegro,Groenlândia
+3350,Pedro Miguel Garcia,Comores
+3351,Luan da Costa,Burundi
+3352,Ana Lívia Souza,Coreia do Sul
+3353,Vinícius Barros,Domínica
+3354,Carlos Eduardo Lopes,Jamaica
+3355,João Guilherme Andrade,Palau
+3356,Melissa Oliveira,Butão
+3357,Dr. João Gabriel Peixoto,Libéria
+3358,Hellena Sampaio,Taiwan
+3359,Pietra Costa,Usbequistão
+3360,Clara Araújo,Letônia
+3361,Leonardo da Rocha,Quirguizistão
+3362,Yasmin da Cunha,Zâmbia
+3363,Hellena Viana,Angola
+3364,Felipe Cardoso,Dhekelia
+3365,Luiz Gustavo Alves,Noruega
+3366,Valentina das Neves,Ilhas Turcas e Caicos
+3367,Fernando Cavalcanti,Vanuatu
+3368,Giovanna Sá,Argentina
+3369,Sabrina Abreu,Países Baixos
+3370,Rebeca Jesus,Sara Ocidental
+3371,Dra. Bella Caldeira,Santa Lúcia
+3372,Dr. Rafael Brito,Estônia
+3373,Apollo Lopes,Omã
+3374,Isaac Teixeira,Espanha
+3375,Maria Liz Andrade,Finlândia
+3376,Levi da Mota,Seicheles
+3377,Julia Martins,Noruega
+3378,Maria Júlia Costela,Islândia
+3379,Amanda Moreira,Ilhas Marshall
+3380,André Marques,Zimbábue
+3381,Vinícius das Neves,Serra Leoa
+3382,Samuel Souza,Indonésia
+3383,Hadassa Andrade,Luxemburgo
+3384,Vinícius Araújo,Faroé
+3385,Hadassa Cavalcante,União Europeia
+3386,Brenda Gonçalves,Anguila
+3387,Sophia Mendonça,Polônia
+3388,Theo Cavalcanti,Comores
+3389,Srta. Laura Souza,Omã
+3390,Srta. Olívia Camargo,São Cristóvão e Neves
+3391,Agatha Pinto,Jamaica
+3392,Milena Camargo,Mayotte
+3393,Augusto Pastor,Congo-Brazzaville
+3394,Carlos Eduardo Fonseca,África do Sul
+3395,Ana Beatriz Rocha,Bolívia
+3396,Miguel Sá,Omã
+3397,Laís Gomes,Samoa Americana
+3398,Lorenzo Marques,Moçambique
+3399,Dra. Pietra Andrade,Birmânia
+3400,Antônio Barros,Guiné-Bissau
+3401,Maria Helena Lima,Somália
+3402,Bella Novais,Salvador
+3403,Cauê Sampaio,São Cristóvão e Neves
+3404,Sarah Cunha,Camarões
+3405,Nathan da Conceição,Ashmore and Cartier Islands
+3406,Otávio Cirino,Lesoto
+3407,Luiz Miguel Nunes,Guam
+3408,Clarice Freitas,Tunísia
+3409,Heitor da Paz,Coral Sea Islands
+3410,Sr. Ravy Costa,Filipinas
+3411,Bianca Monteiro,Faroé
+3412,Bernardo Rocha,República Centro-Africana
+3413,Anthony Dias,Camboja
+3414,Maysa Mendonça,Belize
+3415,Samuel Sá,Andorra
+3416,Isaque Cavalcante,Bósnia e Herzegovina
+3417,Mateus da Conceição,Costa Rica
+3418,Sr. Vinicius Martins,Dhekelia
+3419,Vinícius Carvalho,Venezuela
+3420,Vitor Marques,Arábia Saudita
+3421,João Vitor Araújo,Birmânia
+3422,José Pedro Cardoso,Dhekelia
+3423,Maria Flor Mendonça,Domínica
+3424,Paulo Leão,Togo
+3425,Luigi da Paz,Líbia
+3426,Breno da Paz,Guam
+3427,Sr. Théo Vasconcelos,Maldivas
+3428,Luan Machado,Angola
+3429,Luiz Otávio Aragão,São Tomé e Príncipe
+3430,Dr. Alexandre Rezende,Bermudas
+3431,Mariah Andrade,Guiana
+3432,Maria Sophia Novais,Costa do Marfim
+3433,Jade Pereira,México
+3434,Srta. Alícia Marques,Costa do Marfim
+3435,Mirella da Paz,Bangladesh
+3436,Thomas Viana,Tonga
+3437,Davi Miguel Albuquerque,Finlândia
+3438,Ana Beatriz da Mota,Lesoto
+3439,Dra. Clarice Ramos,Samoa Americana
+3440,Maria Alice Ribeiro,Territórios Austrais Franceses
+3441,João Felipe Cassiano,Coreia do Sul
+3442,Luiz Felipe Ferreira,Costa Rica
+3443,Dra. Camila Gonçalves,Moldávia
+3444,Maria Cecília Nogueira,Dinamarca
+3445,Sra. Beatriz Nunes,Lituânia
+3446,Yago Vargas,Quiribáti
+3447,Breno Almeida,Nicarágua
+3448,Ana Julia Aragão,Itália
+3449,Dra. Catarina Gomes,Tuvalu
+3450,Maria Alice Duarte,Venezuela
+3451,Rafaela Pacheco,Ilhas Caiman
+3452,Levi Oliveira,Chipre
+3453,Sra. Isabelly Azevedo,Argentina
+3454,Joaquim Machado,Território Britânico do Oceano Índico
+3455,Dr. Benício da Rosa,Comores
+3456,Lucca Pimenta,Honduras
+3457,Maria Vitória Cardoso,Monserrate
+3458,Ana Cecília Sá,Maurícia
+3459,Dr. Isaque Moura,Moçambique
+3460,Benjamim da Paz,Dinamarca
+3461,Arthur Miguel Almeida,Suazilândia
+3462,Paulo Marques,Guatemala
+3463,Luísa Campos,Santa Helena
+3464,Davi Lucas Moura,Timor Leste
+3465,Felipe Vasconcelos,Dhekelia
+3466,Caroline Costela,Mayotte
+3467,Dante Abreu,Kuwait
+3468,Ana Lívia da Cunha,Equador
+3469,Gabrielly Azevedo,Liechtenstein
+3470,Danilo Nunes,China
+3471,João Pedro Dias,Chile
+3472,Apollo Caldeira,Tailândia
+3473,Kaique da Paz,Quênia
+3474,Letícia Vasconcelos,Santa Helena
+3475,Antonella Andrade,Eslovênia
+3476,Davi Luiz Garcia,Eritreia
+3477,Dra. Maria Luiza Costa,Lituânia
+3478,Yan Farias,Antígua e Barbuda
+3479,Danilo Silveira,Porto Rico
+3480,Luigi da Costa,Burquina Faso
+3481,Sr. Vitor Hugo Silveira,Camarões
+3482,Sra. Heloisa Lima,Tanzânia
+3483,Vitória da Rocha,México
+3484,Maria Sophia Guerra,Mauritânia
+3485,Bella Moreira,Gabão
+3486,Stephany da Rocha,Filipinas
+3487,Sra. Clara Martins,Ilha Wake
+3488,Vitor Montenegro,Taiwan
+3489,Dr. Anthony Barros,China
+3490,Srta. Olivia Vargas,Tajiquistão
+3491,Dr. Antônio Vasconcelos,Moldávia
+3492,Dr. Arthur Miguel Souza,Indonésia
+3493,Lívia Santos,Geórgia
+3494,Allana Monteiro,Líbia
+3495,Lorenzo Pereira,Congo-Brazzaville
+3496,Maria Cecília Mendes,Espanha
+3497,Maria Liz Cardoso,Armênia
+3498,Evelyn Alves,Jan Mayen
+3499,Yasmin Sampaio,Eritreia
+3500,Olivia Costa,Azerbaijão
+3501,Arthur Vasconcelos,Ilha Norfolk
+3502,Sara Lima,Seicheles
+3503,Valentina Campos,Hungria
+3504,Maria Flor Moreira,Iêmen
+3505,Murilo Fogaça,Andorra
+3506,Dom Fogaça,Papua-Nova Guiné
+3507,Yago da Cruz,Arábia Saudita
+3508,Ana Cecília Fernandes,Nepal
+3509,Dra. Ana Liz da Luz,Dinamarca
+3510,Sr. Pietro Souza,Faroé
+3511,Sra. Juliana Marques,Luxemburgo
+3512,Calebe Sá,Vanuatu
+3513,Leonardo Rocha,São Cristóvão e Neves
+3514,Dra. Bianca da Cunha,Zimbábue
+3515,Sr. Nicolas Nogueira,Guam
+3516,Matheus Cavalcanti,Costa do Marfim
+3517,Ana Carolina Gonçalves,Dhekelia
+3518,Davi Lucas Peixoto,Ilhas dos Cocos
+3519,Srta. Bárbara Sá,Síria
+3520,Alice Castro,Suazilândia
+3521,Maria Sophia Porto,Domínica
+3522,Thiago Moura,São Pedro e Miquelon
+3523,Bento Sales,Maurícia
+3524,Natália Pinto,São Marinho
+3525,Rhavi Cunha,Andorra
+3526,Rafael Cavalcanti,Cazaquistão
+3527,Maria Luísa Câmara,Tailândia
+3528,José Miguel Alves,Montenegro
+3529,Sr. Lucas Martins,Afeganistão
+3530,Mathias da Rosa,Países Baixos
+3531,Dr. Antony Pimenta,Gabão
+3532,Cecilia Cunha,Libéria
+3533,João Peixoto,Croácia
+3534,Esther Almeida,Islândia
+3535,Juliana Moreira,Catar
+3536,Sr. Ryan Rodrigues,Timor Leste
+3537,Esther Dias,Quiribáti
+3538,Mariana Guerra,Birmânia
+3539,Davi Luiz Cavalcanti,Cabo Verde
+3540,Caleb Camargo,Faroé
+3541,Ana Sophia Oliveira,Sérvia
+3542,Dr. Davi Luiz Garcia,Catar
+3543,Ayla Sá,Malásia
+3544,Hadassa Pastor,Jamaica
+3545,Amanda Melo,Ilhas Virgens Britânicas
+3546,Srta. Alana Cirino,África do Sul
+3547,Enrico Duarte,Brunei
+3548,Kevin Fernandes,Hungria
+3549,Ana Julia da Rosa,Ilha Wake
+3550,Asafe Costela,Reino Unido
+3551,Yago da Paz,Tokelau
+3552,Dr. Benício Duarte,Birmânia
+3553,Maria Julia Moreira,Gana
+3554,José Miguel Macedo,Antilhas Holandesas
+3555,Laura Rezende,Groenlândia
+3556,Fernando Rios,Nova Caledónia
+3557,Bernardo Fonseca,Azerbaijão
+3558,Matheus Montenegro,Bélgica
+3559,Caroline Vasconcelos,Trindade e Tobago
+3560,Srta. Natália Costa,Bangladesh
+3561,Joaquim Castro,Ilha Bouvet
+3562,Danilo da Cruz,Togo
+3563,Valentina Aparecida,Angola
+3564,Marcelo Rios,Ilhas Heard e McDonald
+3565,Vitor Hugo Porto,Chade
+3566,Carlos Eduardo das Neves,Geórgia do Sul e Sandwich do Sul
+3567,Nicole Carvalho,Polônia
+3568,Jade Freitas,Marianas do Norte
+3569,Davi Miguel Teixeira,Chipre
+3570,Dr. Otto Lopes,Domínica
+3571,Ana Cecília Macedo,Macau
+3572,Igor Fernandes,Suriname
+3573,Laís Siqueira,Camboja
+3574,Dante da Cruz,Guiné Equatorial
+3575,Dra. Bella da Mota,Gabão
+3576,Alexandre Aragão,Ruanda
+3577,Maitê Oliveira,Albânia
+3578,Luna da Mata,Áustria
+3579,Vitor Gabriel Correia,Nauru
+3580,Heloisa Cirino,Austrália
+3581,José Pedro Teixeira,Seicheles
+3582,Vitor Gabriel Lopes,Grécia
+3583,Luara Cardoso,Islândia
+3584,Sr. João Pedro Fonseca,Marianas do Norte
+3585,Valentina Costela,Togo
+3586,Luna Melo,Uruguai
+3587,Eduarda da Mota,Omã
+3588,Maria Isis Souza,Samoa
+3589,Mariana Guerra,Eslováquia
+3590,Emanuel Cunha,Ilhas Turcas e Caicos
+3591,Luiz Gustavo Dias,Lituânia
+3592,Gael Teixeira,Armênia
+3593,Olívia Sales,Montenegro
+3594,Clarice Cavalcanti,Hong Kong
+3595,Sarah da Cruz,Ilhas Caiman
+3596,Davi Garcia,Ilha Norfolk
+3597,Emilly Moraes,Benim
+3598,Srta. Maria Luísa Ferreira,Niue
+3599,Rhavi da Mata,México
+3600,Alexandre Ramos,Equador
+3601,Théo Siqueira,Wallis e Futuna
+3602,Agatha Montenegro,Camboja
+3603,Leonardo Mendonça,Suriname
+3604,Srta. Maria Laura Machado,Jan Mayen
+3605,Sra. Raquel Mendonça,Haiti
+3606,Hellena Sousa,Ilhas Virgens Britânicas
+3607,Ana Laura Pastor,Ilhas Cook
+3608,Nicolas Nascimento,Brasil
+3609,Fernanda Porto,Áustria
+3610,Rafael Fogaça,Palau
+3611,Maria Cecília Sales,Usbequistão
+3612,Carolina Moura,Libéria
+3613,Rodrigo Fernandes,Catar
+3614,Luna Albuquerque,Iêmen
+3615,Catarina Brito,Quirguizistão
+3616,Sr. Gael Moura,Santa Lúcia
+3617,Mariana Castro,Áustria
+3618,Sr. Luiz Miguel Leão,Vaticano
+3619,Heitor Casa Grande,Etiópia
+3620,Rhavi da Luz,Noruega
+3621,Dr. Samuel Mendonça,Suíça
+3622,Amanda Sampaio,Uruguai
+3623,Sr. Calebe Melo,Sri Lanka
+3624,Sr. Apollo da Conceição,Bermudas
+3625,Matheus Guerra,Liechtenstein
+3626,Sofia Abreu,Congo-Brazzaville
+3627,Aylla Duarte,Itália
+3628,Rafael Correia,Papua-Nova Guiné
+3629,Srta. Júlia Sales,Mayotte
+3630,Dra. Luiza Viana,Haiti
+3631,Ana Vitória Fogaça,Butão
+3632,Maria Eduarda Sampaio,Bósnia e Herzegovina
+3633,Ana Vitória Casa Grande,Nepal
+3634,Isabel Silva,Ilha Wake
+3635,Ana Liz da Rosa,Ilhas Caiman
+3636,Sra. Isabel Novaes,Faroé
+3637,Helena Viana,Moldávia
+3638,Cecilia Araújo,Guiné
+3639,Carolina Montenegro,Botsuana
+3640,Lucas Gabriel Rezende,Akrotiri
+3641,Cauê Rodrigues,Indonésia
+3642,Sabrina Ribeiro,Haiti
+3643,Hellena Leão,Croácia
+3644,Marcelo Ferreira,São Vicente e Granadinas
+3645,Davi Lucca Pimenta,Guam
+3646,Valentim Oliveira,Santa Helena
+3647,Théo da Luz,Ilhas Caiman
+3648,Otto Azevedo,Etiópia
+3649,Dr. Diego Gonçalves,Trindade e Tobago
+3650,Sarah Freitas,Congo-Kinshasa
+3651,Davi Lucas Dias,Geórgia do Sul e Sandwich do Sul
+3652,Anna Liz Fogaça,Granada
+3653,Alice Pinto,Cabo Verde
+3654,Arthur Gabriel Pires,Marianas do Norte
+3655,Lucas Pinto,Wallis e Futuna
+3656,Marcela Rocha,Azerbaijão
+3657,Pietro Martins,Ilha de Man
+3658,Juliana Macedo,Santa Lúcia
+3659,Maria Eduarda Silveira,Birmânia
+3660,Dra. Maya Pastor,Ilhas dos Cocos
+3661,Dr. Calebe Nogueira,República Centro-Africana
+3662,Jade Caldeira,Ilhas Caiman
+3663,Fernanda Ramos,Austrália
+3664,Enzo Guerra,Emirados Árabes Unidos
+3665,Ryan Sousa,Costa do Marfim
+3666,Arthur Miguel Vieira,Costa do Marfim
+3667,Caleb Pires,Haiti
+3668,Ísis Rodrigues,Etiópia
+3669,Sr. Benjamin Sales,França
+3670,Luiz Gustavo Dias,Antártica
+3671,Raquel Ferreira,Faroé
+3672,Ana Liz Leão,Islândia
+3673,Luiz Gustavo Cavalcante,Guiné Equatorial
+3674,Mirella Rios,Bangladesh
+3675,Clarice Barbosa,Croácia
+3676,Felipe Fogaça,Nigéria
+3677,Otto Cirino,África do Sul
+3678,Mariah Melo,Guiné
+3679,Otto Duarte,Argélia
+3680,Dr. Arthur Miguel Leão,Mayotte
+3681,Mathias Carvalho,Paracel Islands
+3682,Dra. Eloá Pacheco,Lesoto
+3683,Cecília Pires,Maldivas
+3684,Emanuella Peixoto,Suazilândia
+3685,Otto Vargas,Território Britânico do Oceano Índico
+3686,Luana Sá,Lesoto
+3687,Emanuella Montenegro,Haiti
+3688,Fernando Vieira,Croácia
+3689,Ayla Barbosa,Angola
+3690,Mirella Novais,Cuba
+3691,Heloisa Mendonça,Palau
+3692,Ana Julia da Cruz,Islândia
+3693,Stephany Câmara,Dinamarca
+3694,Ana Carolina Cirino,Quiribáti
+3695,Dom Camargo,Togo
+3696,Dra. Ana Vitória Albuquerque,Bangladesh
+3697,Lorena Leão,Níger
+3698,Pietra Mendonça,Faroé
+3699,Pedro Miguel Farias,Paracel Islands
+3700,Vitor Gabriel Fogaça,Zâmbia
+3701,Fernanda da Rocha,Irlanda
+3702,Carolina Pimenta,Egito
+3703,Isis Caldeira,Faroé
+3704,Gustavo Pires,Ilha Wake
+3705,Luiz Miguel Cirino,Dinamarca
+3706,Srta. Antonella Novais,Coreia do Sul
+3707,Gael Santos,Canadá
+3708,Dra. Luiza Siqueira,Malta
+3709,Sra. Emanuelly Freitas,Polinésia Francesa
+3710,Dra. Mariah Macedo,Gabão
+3711,Melissa Rocha,Vanuatu
+3712,Alana da Conceição,Montenegro
+3713,Diogo Lopes,Timor Leste
+3714,Lavínia Sousa,Domínica
+3715,Arthur Miguel Vieira,Eritreia
+3716,Isabela Freitas,Islândia
+3717,Liam Mendes,Espanha
+3718,Eloá Pires,Congo-Kinshasa
+3719,Calebe Costa,Mongólia
+3720,Benício Melo,Tailândia
+3721,Mariane Pereira,Dinamarca
+3722,Léo Cassiano,Paracel Islands
+3723,Caio Costa,Egito
+3724,Marcela Ramos,Tunísia
+3725,Sr. Lucas Dias,Turquia
+3726,Davi Lucca da Conceição,Uganda
+3727,Joana Marques,Japão
+3728,Marcos Vinicius Alves,Venezuela
+3729,Sr. Renan Nascimento,Tonga
+3730,Olivia Alves,Luxemburgo
+3731,Sra. Stephany Andrade,Liechtenstein
+3732,Cauê Almeida,Ilha Norfolk
+3733,Sra. Lorena Rocha,Bermudas
+3734,Miguel da Mota,São Tomé e Príncipe
+3735,Antônio Sá,Burquina Faso
+3736,Jade Leão,Níger
+3737,Maria Fernanda Ribeiro,Suécia
+3738,Renan Gonçalves,Ilhas Virgens Americanas
+3739,Clarice Sá,Paquistão
+3740,Enzo Gabriel Almeida,Panamá
+3741,Matheus Lopes,Grécia
+3742,Oliver da Rosa,Wallis e Futuna
+3743,Bárbara Mendes,Niue
+3744,Sra. Mariah Leão,Zimbábue
+3745,Luara Fonseca,Omã
+3746,Maria Fogaça,Nepal
+3747,Ana Liz Cassiano,Mauritânia
+3748,Dr. Calebe Lima,Wallis e Futuna
+3749,Zoe Mendes,Paquistão
+3750,Dr. Benicio Pinto,México
+3751,Dr. Miguel Moura,Brasil
+3752,Maria Liz Fonseca,Usbequistão
+3753,Sr. Henry Barros,Dinamarca
+3754,Maria Clara Costela,Iran
+3755,Otávio Cassiano,Arábia Saudita
+3756,Dra. Sara Sá,Ilhas Virgens Americanas
+3757,Maria Laura Martins,Uganda
+3758,Ian da Paz,Malta
+3759,Diogo Aragão,Aruba
+3760,Maria Clara Guerra,Tonga
+3761,Pedro Monteiro,Tonga
+3762,Alice Cunha,Suriname
+3763,José Pedro Silveira,Equador
+3764,Bryan Marques,Níger
+3765,Esther da Costa,Ilhas Virgens Britânicas
+3766,Zoe Nunes,Santa Helena
+3767,Luísa Cunha,Moçambique
+3768,Sr. Rael da Conceição,Zimbábue
+3769,Isabella Peixoto,Sri Lanka
+3770,Dr. Luiz Fernando da Cruz,Equador
+3771,Benicio Viana,Pitcairn
+3772,Pedro Henrique Pereira,São Marinho
+3773,Laura Ramos,Colômbia
+3774,Stella Porto,Singapura
+3775,Sra. Natália Rodrigues,Guiné
+3776,Dr. Isaac Nascimento,Anguila
+3777,Sra. Elisa Aragão,Costa Rica
+3778,Antonella Pires,Jamaica
+3779,Luísa Gonçalves,Antilhas Holandesas
+3780,Felipe Correia,Haiti
+3781,Ana Luiza Nascimento,Croácia
+3782,Leonardo Moraes,Ilha de Man
+3783,Sr. Antônio da Conceição,Reino Unido
+3784,Nathan Siqueira,Croácia
+3785,Olivia Pinto,Ilhas Cook
+3786,Enzo da Luz,Camboja
+3787,Thomas Macedo,Niue
+3788,Dr. Valentim da Costa,Palau
+3789,Ravi Lucca Castro,República Checa
+3790,Luana Cunha,Chipre
+3791,Théo Silva,Nova Caledónia
+3792,Dom Farias,Líbia
+3793,Sr. Oliver Vasconcelos,Etiópia
+3794,Miguel Abreu,Moçambique
+3795,Arthur Moreira,Paracel Islands
+3796,Milena da Mota,Ilha de Man
+3797,Kaique Araújo,Ilhas Turcas e Caicos
+3798,Sra. Maria Julia da Mata,Territórios Austrais Franceses
+3799,Diego Jesus,Coreia do Norte
+3800,Zoe Cassiano,Ilhas Virgens Britânicas
+3801,Alexandre Moreira,República Centro-Africana
+3802,Nathan Sousa,Andorra
+3803,Lunna Pacheco,República Dominicana
+3804,Alícia Costela,São Pedro e Miquelon
+3805,Dra. Raquel Borges,Ilha Bouvet
+3806,Lucca Sá,Camboja
+3807,Dom Farias,Mauritânia
+3808,Fernanda Sampaio,Botsuana
+3809,Thales Vasconcelos,Bielorrússia
+3810,Luiz Henrique Nogueira,Tonga
+3811,Daniela Moreira,Niue
+3812,Mariana Viana,Belize
+3813,Liam Sales,Bulgária
+3814,Letícia Alves,Gibraltar
+3815,Sra. Heloísa da Cruz,Estônia
+3816,Rael Macedo,Mayotte
+3817,Benjamim Montenegro,Somália
+3818,Otto Pereira,Maurícia
+3819,Vitória Pastor,Israel
+3820,Arthur Miguel Barbosa,Somália
+3821,Esther Viana,Vanuatu
+3822,Dra. Sarah Pastor,Brunei
+3823,Daniel Lopes,Macedônia do Norte
+3824,Alícia Rodrigues,Quiribáti
+3825,Sarah Gonçalves,Aruba
+3826,Pietro Andrade,Ilha Bouvet
+3827,Murilo Ramos,Camboja
+3828,Josué Teixeira,Cuba
+3829,Arthur Miguel Costa,Birmânia
+3830,Juan Andrade,Libéria
+3831,Dr. Juan Camargo,Malásia
+3832,Liz Novaes,Somália
+3833,Lavínia Moraes,Tunísia
+3834,Marcela da Cunha,Ilhas Marshall
+3835,Luan da Cruz,Ilha do Natal
+3836,Rafael Brito,Antilhas Holandesas
+3837,Gustavo Nunes,São Vicente e Granadinas
+3838,Henrique Melo,Micronésia
+3839,Ana Beatriz Cavalcante,Haiti
+3840,Dante Albuquerque,Sara Ocidental
+3841,Mirella Camargo,Emirados Árabes Unidos
+3842,Dr. Henry Carvalho,Tunísia
+3843,Mirella Vargas,Ilhas Heard e McDonald
+3844,Zoe da Cruz,Camboja
+3845,Davi Lucca Abreu,Islândia
+3846,Bernardo Camargo,República Dominicana
+3847,José Miguel Cavalcanti,Dhekelia
+3848,Dra. Eloah Monteiro,Mônaco
+3849,Caio Moura,Arábia Saudita
+3850,Davi Miguel Vieira,Togo
+3851,Allana Rios,México
+3852,Felipe Moraes,Somália
+3853,Enzo Cunha,Sara Ocidental
+3854,Eloá Guerra,Palau
+3855,Sr. Ravi Lucca Garcia,Áustria
+3856,Stella Cavalcanti,Andorra
+3857,Ryan da Cruz,Jersey
+3858,Helena Araújo,Serra Leoa
+3859,Lucca Santos,Honduras
+3860,Matheus Fonseca,Senegal
+3861,Julia Sales,Macau
+3862,Luiz Henrique Cardoso,Bélgica
+3863,Bruna Vargas,Bahamas
+3864,Leandro Teixeira,Serra Leoa
+3865,Ana Vitória Garcia,Jersey
+3866,Carolina Brito,Afeganistão
+3867,Clarice Freitas,Nepal
+3868,Bruno da Cunha,Guernsey
+3869,Dra. Sara Nogueira,União Europeia
+3870,Mateus Vasconcelos,Dhekelia
+3871,Dom Viana,Vietnam
+3872,Daniel Caldeira,Panamá
+3873,Dom Vargas,Eritreia
+3874,Vitor Gabriel Teixeira,Luxemburgo
+3875,Emanuel Martins,Tonga
+3876,Hellena Rezende,Tajiquistão
+3877,Dra. Cecília Novais,Itália
+3878,Srta. Sofia Lopes,Tuvalu
+3879,Luiz Henrique Silva,Moçambique
+3880,Eloá Monteiro,Singapura
+3881,Larissa Sales,Mayotte
+3882,Luna Cardoso,Estados Unidos
+3883,Nicolas Rezende,Hong Kong
+3884,Caio Gonçalves,Ilhas Falkland
+3885,Manuela Guerra,Clipperton Island
+3886,Otto Gomes,Anguila
+3887,Pedro das Neves,Gibraltar
+3888,Nicole Sampaio,Geórgia do Sul e Sandwich do Sul
+3889,Allana Sales,Ilha Wake
+3890,Gustavo Henrique Farias,Chile
+3891,Rafael Novais,Turquia
+3892,Sofia Garcia,Samoa Americana
+3893,Srta. Melina Jesus,Roménia
+3894,Srta. Luara Nascimento,Brunei
+3895,Agatha Fonseca,Afeganistão
+3896,Arthur Miguel Novais,Jibuti
+3897,Dante Marques,Singapura
+3898,Emanuelly Cavalcante,Cuba
+3899,Heloísa Nunes,Paracel Islands
+3900,Isis Caldeira,Espanha
+3901,Erick Cavalcante,Guernsey
+3902,Lucas Gabriel Sampaio,Brasil
+3903,Mariana Melo,Fiji
+3904,Bruna Ferreira,Togo
+3905,Theodoro da Rocha,Nepal
+3906,Arthur Miguel Alves,Catar
+3907,Henrique Ribeiro,Mauritânia
+3908,Igor da Mota,Domínica
+3909,Sr. Vitor Hugo da Cruz,Seicheles
+3910,Bárbara Fonseca,Somália
+3911,Renan Garcia,Dhekelia
+3912,Gael Pinto,Zâmbia
+3913,Dra. Isadora Souza,República Centro-Africana
+3914,José Miguel Guerra,Nauru
+3915,Melina Cardoso,África do Sul
+3916,Pedro Henrique da Costa,Hungria
+3917,Luana Aparecida,Paracel Islands
+3918,Ana Luiza Nascimento,Islândia
+3919,Benicio Novaes,Japão
+3920,Luiz Felipe Pimenta,Hungria
+3921,Pedro Miguel Ferreira,Mali
+3922,Dr. Vicente Araújo,Gibraltar
+3923,Yuri Barbosa,Quiribáti
+3924,Yuri Pereira,Quiribáti
+3925,Nina Alves,Macedônia do Norte
+3926,Beatriz Novais,Emirados Árabes Unidos
+3927,Mariane Silveira,Croácia
+3928,Sr. Fernando da Luz,Cuba
+3929,Maria Helena Pereira,Chile
+3930,Sophie Nascimento,Ilhas Caiman
+3931,Hadassa Siqueira,Botsuana
+3932,Yago Lima,Birmânia
+3933,Agatha Pires,Armênia
+3934,Zoe Barros,Granada
+3935,Laura da Cruz,Ucrânia
+3936,Alícia Pimenta,República Dominicana
+3937,Srta. Laura Carvalho,Namíbia
+3938,Vitor Costela,Mayotte
+3939,Dra. Mirella Marques,Eslovênia
+3940,Heloísa Novaes,Dinamarca
+3941,Felipe Rocha,Cuba
+3942,Julia Gonçalves,Ilhas Caiman
+3943,Maria Laura Cunha,Quênia
+3944,Ana Sophia Fogaça,Jamaica
+3945,Sr. Luiz Miguel Caldeira,São Pedro e Miquelon
+3946,Liam Garcia,Akrotiri
+3947,Cauê Cirino,Uganda
+3948,Luiz Otávio Farias,Benim
+3949,Anthony Abreu,Cuba
+3950,Dr. Felipe Souza,Guiana
+3951,Cauê Sousa,Coreia do Norte
+3952,Maria Júlia Cavalcante,Madagascar
+3953,Yan Gonçalves,Bahamas
+3954,Pedro Lucas Cassiano,Bermudas
+3955,Ana Rios,Equador
+3956,Bella Ferreira,Monserrate
+3957,Joaquim Azevedo,Croácia
+3958,Kevin Barros,Anguila
+3959,Ryan Cavalcanti,Ilha Wake
+3960,Alexandre da Mota,Papua-Nova Guiné
+3961,Nina Viana,Birmânia
+3962,Guilherme Abreu,Guernsey
+3963,Sara Macedo,Singapura
+3964,Aurora Nunes,Ilha Norfolk
+3965,Zoe da Paz,Sri Lanka
+3966,Maria Luísa Leão,Guam
+3967,Leandro da Rocha,Papua-Nova Guiné
+3968,Sr. Mathias Sales,Ilhas dos Cocos
+3969,Júlia Guerra,Congo-Kinshasa
+3970,Leandro Cassiano,Paquistão
+3971,Gustavo Abreu,Lituânia
+3972,Sr. Gustavo Costa,Vanuatu
+3973,Gabriel Rodrigues,Camarões
+3974,Isaac da Cunha,Tunísia
+3975,Lívia Albuquerque,Suazilândia
+3976,Alice Nunes,Costa do Marfim
+3977,Ryan da Mota,Filipinas
+3978,João Vitor da Cunha,Benim
+3979,Luiza Cirino,Ilhas Virgens Britânicas
+3980,Pedro Lucas Macedo,Bahamas
+3981,Maria Marques,Rússia
+3982,Luiz Gustavo Alves,Bolívia
+3983,Cecilia Barbosa,Coreia do Norte
+3984,Dra. Ana Cecília Rocha,Faroé
+3985,Amanda Fonseca,São Vicente e Granadinas
+3986,Lavínia Aparecida,Nova Caledónia
+3987,Lara da Cunha,Uruguai
+3988,Heloisa Aragão,Paracel Islands
+3989,André Moreira,Tunísia
+3990,Heloisa Alves,Canadá
+3991,Otávio Sá,Monserrate
+3992,Dr. Augusto Rodrigues,Jibuti
+3993,Sr. Marcelo Pimenta,Portugal
+3994,Luiz Miguel Viana,Monserrate
+3995,Dante da Rocha,Belize
+3996,André Leão,Hong Kong
+3997,Srta. Gabrielly da Cunha,Cuba
+3998,Sofia Pires,Armênia
+3999,Gael Henrique Oliveira,Indonésia
+4000,Rael Silva,Itália
+4001,Anthony Gabriel Souza,Albânia
+4002,Bento Gomes,Tokelau
+4003,Dra. Luiza Cardoso,Ilhas Virgens Americanas
+4004,Letícia Brito,Líbano
+4005,Manuella Martins,Taiwan
+4006,Camila Cavalcanti,Malta
+4007,Alícia Sousa,Liechtenstein
+4008,Noah Gonçalves,Guiné
+4009,Asafe Cunha,Benim
+4010,Arthur Gabriel Pires,São Pedro e Miquelon
+4011,Ayla Pereira,Afeganistão
+4012,Marcelo Peixoto,Reino Unido
+4013,Matteo Pacheco,Emirados Árabes Unidos
+4014,Caleb da Rosa,Iraque
+4015,Sarah Nunes,Áustria
+4016,Isabela Cavalcanti,Roménia
+4017,Maria Laura Novaes,Andorra
+4018,Felipe da Rosa,Cazaquistão
+4019,Maria Alice Carvalho,Islândia
+4020,Aurora Barbosa,Reino Unido
+4021,Juan Freitas,Tailândia
+4022,Mateus Pires,Costa do Marfim
+4023,Helena da Mata,Ruanda
+4024,Ana Vitória Araújo,Andorra
+4025,Dra. Camila da Mota,Jibuti
+4026,Mathias Nogueira,Bielorrússia
+4027,Melina Moraes,Bolívia
+4028,Samuel Cardoso,Antártica
+4029,João Miguel Almeida,Chipre
+4030,Giovanna da Mata,Jersey
+4031,Dra. Aylla Cavalcanti,Namíbia
+4032,Sr. Davi Miguel Duarte,Chade
+4033,Alana Barros,Cuba
+4034,Carolina Abreu,Guam
+4035,Pietro Martins,Afeganistão
+4036,José Pedro Vargas,Bósnia e Herzegovina
+4037,Zoe Nunes,Paraguai
+4038,Caio Costa,Angola
+4039,João Vitor Vasconcelos,Suécia
+4040,Levi Ramos,Geórgia do Sul e Sandwich do Sul
+4041,Sra. Rebeca Moreira,Estônia
+4042,Luigi Campos,Colômbia
+4043,Bárbara Carvalho,Taiwan
+4044,Maria Clara Vasconcelos,Letônia
+4045,Brayan Brito,Taiwan
+4046,Luiza Freitas,Filipinas
+4047,Manuela Caldeira,Macau
+4048,Gabrielly Vasconcelos,República Checa
+4049,Dra. Stella Teixeira,Bulgária
+4050,Otávio Aparecida,República Checa
+4051,Kamilly Siqueira,Espanha
+4052,Emanuel da Luz,Porto Rico
+4053,Rebeca Sales,Groenlândia
+4054,Sara Sampaio,Tonga
+4055,Ana Beatriz Vieira,Quiribáti
+4056,Caroline Siqueira,Irlanda
+4057,Bryan Fogaça,Timor Leste
+4058,Yasmin Caldeira,Nicarágua
+4059,Srta. Júlia Guerra,Guernsey
+4060,Sophia Fonseca,Nicarágua
+4061,Milena da Rocha,Nigéria
+4062,Vitor Gabriel Mendonça,Macau
+4063,Nicole da Mota,África do Sul
+4064,Valentim Borges,Wallis e Futuna
+4065,Vitor Hugo Sousa,Marianas do Norte
+4066,Isabela Marques,Filipinas
+4067,Maya Moraes,França
+4068,Amanda Cirino,Angola
+4069,Dra. Maria Liz Cavalcante,Bermudas
+4070,Nicole da Paz,Jan Mayen
+4071,Maitê Sampaio,Jamaica
+4072,Breno Porto,Estônia
+4073,Yago Monteiro,Filipinas
+4074,Lara da Mata,Geórgia
+4075,Enzo Gabriel Nogueira,Mayotte
+4076,Alexia Pastor,Grécia
+4077,Alexia Dias,Tonga
+4078,Olivia Castro,Benim
+4079,Sra. Júlia Cunha,Mali
+4080,Isabel Azevedo,Tonga
+4081,Luiz Miguel Nascimento,República Dominicana
+4082,Rafael Correia,União Europeia
+4083,Heloísa Nogueira,Somália
+4084,Dr. Davi Oliveira,Suécia
+4085,Thomas Ramos,Malta
+4086,Manuela das Neves,Ilha Norfolk
+4087,Larissa Caldeira,Tuvalu
+4088,João Felipe Pastor,África do Sul
+4089,Ágatha Vasconcelos,Clipperton Island
+4090,Heloísa Alves,Islândia
+4091,João Pedro Rios,Taiwan
+4092,Breno da Cruz,Honduras
+4093,Davi Lucca Sales,Iêmen
+4094,Benício Leão,Zimbábue
+4095,Esther Moura,Azerbaijão
+4096,Raul Ferreira,Líbia
+4097,Alexandre Mendes,Timor Leste
+4098,Sra. Maria Luísa Siqueira,Portugal
+4099,Natália da Luz,Chade
+4100,Gustavo Henrique Lima,Emirados Árabes Unidos
+4101,Enzo Nunes,Togo
+4102,Raul Oliveira,Tokelau
+4103,Fernando Albuquerque,Líbano
+4104,Liam Pinto,Israel
+4105,Marcelo Barros,São Pedro e Miquelon
+4106,Thomas Cirino,Navassa Island
+4107,Pedro Miguel Nogueira,Reino Unido
+4108,Lara da Mota,Grécia
+4109,Sr. Juan Marques,Liechtenstein
+4110,Dom Cassiano,Níger
+4111,André Cunha,África do Sul
+4112,Arthur Gabriel Lopes,Guatemala
+4113,Vinícius Azevedo,Emirados Árabes Unidos
+4114,Dra. Maria Jesus,Bósnia e Herzegovina
+4115,Isis da Cruz,Congo-Brazzaville
+4116,Sabrina da Conceição,Malta
+4117,Zoe Aragão,Ilhas Heard e McDonald
+4118,Emanuel Brito,Bangladesh
+4119,Davi Luiz Ribeiro,São Pedro e Miquelon
+4120,Heitor Albuquerque,Navassa Island
+4121,Sr. Luan da Mota,Itália
+4122,Jade Monteiro,Turquia
+4123,Sophie Cavalcanti,Moldávia
+4124,Otávio Rodrigues,Cuba
+4125,João Lucas Sales,Jersey
+4126,Enzo Gabriel Rocha,Filipinas
+4127,Yan Gonçalves,Japão
+4128,Ravy Porto,Comores
+4129,Stella Novaes,Paracel Islands
+4130,Pietro Pacheco,Chade
+4131,Augusto Alves,Panamá
+4132,Fernanda Peixoto,Cabo Verde
+4133,Guilherme Abreu,Guiné Equatorial
+4134,Hellena Novaes,Maldivas
+4135,Ana Vitória Costa,Croácia
+4136,Júlia Cavalcante,Laos
+4137,Zoe Pastor,Palau
+4138,Srta. Hellena Câmara,Mauritânia
+4139,Srta. Isabella Martins,Montenegro
+4140,Josué Dias,Coral Sea Islands
+4141,Valentina Correia,Omã
+4142,Dr. Juan Lima,Geórgia
+4143,Cecilia Oliveira,Bolívia
+4144,Yasmin Nogueira,Tonga
+4145,Amanda Brito,Venezuela
+4146,Anna Liz da Costa,Ilhas Salomão
+4147,Breno Araújo,Chipre
+4148,Anthony Peixoto,Filipinas
+4149,Marcelo Lopes,Gâmbia
+4150,Matteo Ribeiro,Egito
+4151,Otávio Barbosa,Uruguai
+4152,José Cassiano,Líbia
+4153,Ana Júlia da Cruz,Congo-Kinshasa
+4154,Zoe Freitas,Vietnam
+4155,Valentim Moura,Mauritânia
+4156,Camila Alves,Eslovênia
+4157,Maria Cecília Santos,Arábia Saudita
+4158,Davi Lucas Nunes,Dhekelia
+4159,Sofia Gonçalves,São Marinho
+4160,Dr. Yuri Borges,Liechtenstein
+4161,Dr. Rodrigo Vasconcelos,Coreia do Sul
+4162,Ester Mendonça,Uganda
+4163,Esther Gomes,Letônia
+4164,Eloá da Mota,Tokelau
+4165,Melissa Araújo,Barein
+4166,Noah da Cunha,Roménia
+4167,Enrico Cardoso,Barein
+4168,Sra. Emanuella Pinto,Quiribáti
+4169,Isis da Rosa,Moçambique
+4170,Dra. Esther Fernandes,Estônia
+4171,Rebeca Mendes,Butão
+4172,Isaac Lima,Cuba
+4173,André Vargas,Jibuti
+4174,Maria Júlia Farias,Jan Mayen
+4175,Sra. Liz Sá,Mauritânia
+4176,Dante Cunha,Honduras
+4177,Davi Luiz Gonçalves,Turquemenistão
+4178,Sophia Carvalho,Bulgária
+4179,Guilherme da Conceição,Croácia
+4180,Luiz Fernando Casa Grande,Guiné
+4181,Olívia Correia,Seicheles
+4182,Joaquim Sá,Belize
+4183,Sra. Maya Alves,Samoa Americana
+4184,Daniel Rocha,Ilhas Cook
+4185,Manuela das Neves,Tuvalu
+4186,Sara Vasconcelos,Dhekelia
+4187,Letícia Rocha,Egito
+4188,Mirella da Mota,Tonga
+4189,Srta. Eduarda Pimenta,Iran
+4190,Dra. Sabrina Nogueira,Vanuatu
+4191,Luara Gonçalves,Porto Rico
+4192,Ana Luiza Garcia,Maurícia
+4193,Lucas Costela,Angola
+4194,Davi Miguel Cavalcanti,Somália
+4195,Dra. Hellena Oliveira,Akrotiri
+4196,Ana Vitória Sousa,Brunei
+4197,Nicole Sousa,Austrália
+4198,Josué Alves,Suíça
+4199,Sr. Caio Machado,Madagascar
+4200,Maria Liz Sousa,Micronésia
+4201,Luigi da Luz,Granada
+4202,José Pastor,Svalbard e Jan Mayen
+4203,Júlia Aragão,Lituânia
+4204,José Cassiano,Colômbia
+4205,Isabela Rios,Tokelau
+4206,Théo da Paz,Guiné
+4207,Valentina Rezende,Guatemala
+4208,Emanuella Rios,Eslovênia
+4209,Letícia Cavalcante,Serra Leoa
+4210,Sra. Sophie Peixoto,Dhekelia
+4211,Arthur Gabriel Cavalcante,Jersey
+4212,Amanda Brito,Quirguizistão
+4213,Apollo Rodrigues,Clipperton Island
+4214,Davi Luiz Lopes,Alemanha
+4215,Alexia Souza,Botsuana
+4216,Cecilia da Conceição,Granada
+4217,Theo Farias,Itália
+4218,Renan da Paz,Argentina
+4219,Augusto Siqueira,Congo-Kinshasa
+4220,Dr. Enrico Caldeira,Benim
+4221,Bruno Carvalho,Nauru
+4222,João Lucas Sá,Ilhas Heard e McDonald
+4223,Antônio Sousa,Gana
+4224,Oliver Machado,Itália
+4225,Sra. Luana Santos,Eslovênia
+4226,Davi Miguel Barbosa,Guatemala
+4227,Isabella Guerra,Vietnam
+4228,Alícia Barbosa,Timor Leste
+4229,Ana Clara Camargo,Bulgária
+4230,Lucca Sousa,Mongólia
+4231,Daniel da Mata,Lesoto
+4232,Melina Sá,Faroé
+4233,Nicole Cunha,Paquistão
+4234,Zoe Teixeira,Argentina
+4235,Rhavi Brito,Mongólia
+4236,Caroline Andrade,Guiana
+4237,Sr. Enrico da Costa,Paquistão
+4238,Hellena Mendes,Birmânia
+4239,Fernanda Montenegro,Madagascar
+4240,Cauã Campos,Cuba
+4241,Srta. Giovanna Costela,França
+4242,Srta. Ana Clara Montenegro,Nigéria
+4243,Maria Helena Santos,Argélia
+4244,Samuel Barbosa,Santa Helena
+4245,Luiz Otávio Sá,Tonga
+4246,Amanda Monteiro,Suécia
+4247,Yuri Jesus,Ilhas Falkland
+4248,Sr. Gustavo Guerra,Macedônia do Norte
+4249,Ana Carolina da Rocha,Antártica
+4250,Sr. Ravi Teixeira,Antígua e Barbuda
+4251,Sr. Valentim da Mota,Dinamarca
+4252,João Vitor Sales,Maldivas
+4253,Arthur Gabriel Guerra,Moldávia
+4254,Julia da Mata,Malávi
+4255,Fernando Teixeira,Anguila
+4256,Antônio Correia,Santa Lúcia
+4257,Pedro Miguel Novaes,Singapura
+4258,Anna Liz Albuquerque,Timor Leste
+4259,Anna Liz da Rocha,Quirguizistão
+4260,Luísa da Costa,Bahamas
+4261,Srta. Gabriela Leão,Eslováquia
+4262,Lunna da Costa,Botsuana
+4263,Stephany Abreu,República Checa
+4264,Olivia Azevedo,Kuwait
+4265,Sra. Letícia Costela,Argentina
+4266,Maria Clara Brito,Maurícia
+4267,Gabriela da Cunha,Paraguai
+4268,Yan Pimenta,Jamaica
+4269,Eduarda Casa Grande,Bermudas
+4270,Sr. Luan Pires,Países Baixos
+4271,Emanuel das Neves,Chade
+4272,Isabel Pires,Jersey
+4273,Rhavi Sales,Burundi
+4274,Bárbara Pires,Síria
+4275,Dr. Felipe Souza,Mônaco
+4276,Théo Nunes,Brasil
+4277,Alice Guerra,México
+4278,Dante da Rocha,Egito
+4279,Srta. Lavínia Fernandes,Tuvalu
+4280,Kevin Novaes,Chipre
+4281,Dante Oliveira,Cazaquistão
+4282,Alícia Fernandes,Eritreia
+4283,Srta. Pietra Sales,Guiné-Bissau
+4284,Luiz Gustavo Novais,Costa Rica
+4285,Sra. Nicole Carvalho,Malásia
+4286,Raquel Cavalcante,Israel
+4287,Henry Gabriel Sampaio,Ilhas Caiman
+4288,Marcelo Mendes,Timor Leste
+4289,Maria Laura Jesus,Bulgária
+4290,Mariana Nunes,Fiji
+4291,Natália das Neves,Burundi
+4292,Yan Cavalcanti,Austrália
+4293,Rodrigo Moraes,Comores
+4294,Isabella Pires,Ruanda
+4295,Arthur Gabriel Aparecida,São Pedro e Miquelon
+4296,Luiz Henrique da Cruz,Nepal
+4297,Hellena Pereira,Congo-Brazzaville
+4298,Francisco Cavalcanti,Ilha Bouvet
+4299,Calebe Porto,Paracel Islands
+4300,Sr. João Vitor da Luz,Áustria
+4301,Alícia Jesus,Bahamas
+4302,Sra. Isis Pimenta,Uganda
+4303,Arthur Miguel Abreu,Venezuela
+4304,Sara Novaes,Hungria
+4305,Luigi da Luz,Porto Rico
+4306,Maria Luísa Fogaça,Ilhas Falkland
+4307,Nicole Azevedo,México
+4308,Levi Aragão,Turquemenistão
+4309,Marcos Vinicius Freitas,Somália
+4310,Pedro Miguel Aparecida,São Tomé e Príncipe
+4311,Thomas Peixoto,Maldivas
+4312,Gustavo Costela,Timor Leste
+4313,Maysa das Neves,Ilha de Man
+4314,Ana Luiza da Paz,Tonga
+4315,Théo Monteiro,Mongólia
+4316,Ana Luiza Barbosa,Salvador
+4317,Leonardo Macedo,Roménia
+4318,Yan Melo,Anguila
+4319,Isaque Pimenta,Senegal
+4320,Pietra Andrade,Venezuela
+4321,Vinícius Monteiro,Jan Mayen
+4322,Maya Vieira,Ilha do Natal
+4323,Manuela Cavalcante,França
+4324,Benjamim Peixoto,Malásia
+4325,Isabel Sá,Sérvia
+4326,Melina Câmara,Ilhas dos Cocos
+4327,Camila Leão,Burundi
+4328,Melina Aragão,Senegal
+4329,Ana Laura Casa Grande,Israel
+4330,Ravi da Luz,República Dominicana
+4331,Esther Moreira,Espanha
+4332,Augusto Cassiano,Ilhas Salomão
+4333,Enzo Gabriel Gonçalves,Afeganistão
+4334,Maysa Andrade,Bulgária
+4335,Luiz Fernando Moreira,Bangladesh
+4336,Luara Sales,Moçambique
+4337,Ana Vitória Rodrigues,Líbano
+4338,Ana Sophia Melo,Gibraltar
+4339,Daniel Novaes,São Marinho
+4340,Sra. Ana Clara Campos,Egito
+4341,Liam Lima,Hong Kong
+4342,Sra. Lívia Pereira,São Vicente e Granadinas
+4343,Laís da Cruz,Cuba
+4344,Arthur Souza,Espanha
+4345,Maria Liz Vargas,Afeganistão
+4346,Levi Montenegro,Guam
+4347,Cecília Castro,Guernsey
+4348,Davi Lucca da Luz,Noruega
+4349,Maitê Alves,Bahamas
+4350,Eloah Lima,Filipinas
+4351,Sr. Vitor Gabriel Lopes,Venezuela
+4352,Theo Peixoto,Tailândia
+4353,Emanuelly Sales,Reino Unido
+4354,Isaque Montenegro,Venezuela
+4355,Pedro Henrique da Cunha,Tailândia
+4356,Sr. Gustavo Henrique Lopes,Ilha do Natal
+4357,Davi Miguel Leão,Argentina
+4358,João Vitor Fogaça,Antártica
+4359,Bella Azevedo,Suazilândia
+4360,Alana da Cunha,Turquia
+4361,Marcela Silva,Omã
+4362,Anna Liz Lopes,Zâmbia
+4363,Nathan Moraes,Clipperton Island
+4364,Bárbara Souza,Colômbia
+4365,Enzo Gabriel Ramos,Jersey
+4366,Lorenzo Borges,Uganda
+4367,Ana Julia Vasconcelos,Samoa Americana
+4368,Breno Costa,Libéria
+4369,Ana Carolina Casa Grande,Croácia
+4370,Dr. Henry Machado,Burundi
+4371,Enrico da Cunha,Haiti
+4372,Rodrigo Sampaio,Sudão
+4373,Pietro Castro,Quiribáti
+4374,Luiz Felipe Guerra,Filipinas
+4375,Noah Santos,Fiji
+4376,Sra. Isabel Fernandes,Egito
+4377,João Felipe Sampaio,Ilha Norfolk
+4378,Letícia Almeida,Tunísia
+4379,Dr. Mateus Cavalcante,Guiné Equatorial
+4380,Arthur Moreira,Luxemburgo
+4381,Emanuel Jesus,Sara Ocidental
+4382,Arthur Moreira,Samoa Americana
+4383,Arthur Gabriel Camargo,São Cristóvão e Neves
+4384,Joaquim Monteiro,Burundi
+4385,Nathan Andrade,República Checa
+4386,Pedro Henrique Lima,Costa Rica
+4387,Arthur Gabriel Cirino,Arábia Saudita
+4388,Benício Cavalcante,Iêmen
+4389,Manuella da Mota,Bélgica
+4390,Dr. Mateus Garcia,Costa do Marfim
+4391,Guilherme Macedo,Países Baixos
+4392,Vitor Hugo da Cruz,Jamaica
+4393,Dr. Asafe Borges,Costa Rica
+4394,Apollo da Rosa,Sudão
+4395,Cecilia da Rocha,Suriname
+4396,Anthony Gabriel Rodrigues,Akrotiri
+4397,Alice da Conceição,Áustria
+4398,Rebeca Pires,Ilhas Salomão
+4399,Rebeca Santos,Santa Lúcia
+4400,João Abreu,Antártica
+4401,Murilo Correia,Papua-Nova Guiné
+4402,Miguel Andrade,Paracel Islands
+4403,Liz Macedo,Catar
+4404,Maria Liz Rios,Maldivas
+4405,Allana Carvalho,Angola
+4406,Giovanna Barros,Domínica
+4407,Sr. Breno Andrade,Afeganistão
+4408,Benjamin Novaes,Luxemburgo
+4409,Apollo Ribeiro,Tunísia
+4410,Ísis Macedo,Dhekelia
+4411,Erick da Conceição,Sudão
+4412,Sra. Lívia Brito,Lesoto
+4413,Luiz Gustavo Vargas,Malásia
+4414,Arthur Gabriel Ferreira,Itália
+4415,Davi Luiz da Cunha,Rússia
+4416,Gabrielly Cunha,Albânia
+4417,Renan da Rosa,Ilha Wake
+4418,Luiz Henrique Garcia,Afeganistão
+4419,Natália Montenegro,São Marinho
+4420,Pietra Oliveira,Laos
+4421,Maria Eduarda da Luz,Aruba
+4422,José Pinto,Ruanda
+4423,Eduardo Guerra,Timor Leste
+4424,Ana Sophia Campos,Belize
+4425,Maria Ramos,Jamaica
+4426,Heitor Novaes,Grécia
+4427,Bruna Azevedo,Eslovênia
+4428,Bianca Vieira,Tuvalu
+4429,Larissa Cavalcanti,Nigéria
+4430,Levi Garcia,Mônaco
+4431,Sr. Pedro Henrique Costela,Coreia do Sul
+4432,Eduarda Moura,Malásia
+4433,Antônio Camargo,Chile
+4434,Vitor Hugo Sá,Luxemburgo
+4435,Sr. Léo Rezende,Vietnam
+4436,João Novais,Colômbia
+4437,Dr. Luiz Felipe Camargo,Haiti
+4438,Isadora Abreu,Ilhas Falkland
+4439,Raul Vieira,Armênia
+4440,Maysa Garcia,Egito
+4441,Heloísa Santos,Quênia
+4442,Rael da Mata,Ilhas Turcas e Caicos
+4443,Ana Luiza Camargo,Marianas do Norte
+4444,Helena Albuquerque,Brasil
+4445,Liz Correia,Botsuana
+4446,Alana Novaes,Ilhas dos Cocos
+4447,Davi Brito,Maurícia
+4448,Antonella Aparecida,Ilhas Turcas e Caicos
+4449,Matteo Duarte,Zâmbia
+4450,Cauê Correia,Marrocos
+4451,Srta. Eloá da Mota,Israel
+4452,Levi Siqueira,Marianas do Norte
+4453,Ravi Lucca Silva,Senegal
+4454,Bianca Carvalho,Groenlândia
+4455,Fernanda Borges,Território Britânico do Oceano Índico
+4456,Maya Fonseca,Portugal
+4457,Anna Liz Farias,Mauritânia
+4458,Allana Cavalcante,Antígua e Barbuda
+4459,Srta. Nicole Cavalcante,México
+4460,Dra. Giovanna Casa Grande,Montenegro
+4461,Maria Alice Campos,Luxemburgo
+4462,Vinícius Novais,Birmânia
+4463,Mateus Nascimento,Omã
+4464,Mirella Mendonça,Eslovênia
+4465,Maitê Souza,Ilhas dos Cocos
+4466,Enrico Cavalcanti,Sudão
+4467,Aylla Andrade,Israel
+4468,Augusto Costa,Ilhas Heard e McDonald
+4469,Pedro Henrique Teixeira,Portugal
+4470,Sra. Letícia Pastor,Granada
+4471,Dra. Alexia Silva,Quênia
+4472,Arthur Peixoto,Paraguai
+4473,Benjamin Câmara,Tailândia
+4474,Augusto Ferreira,Equador
+4475,Paulo Marques,Coreia do Norte
+4476,Oliver Oliveira,Turquia
+4477,Luana Pimenta,Congo-Brazzaville
+4478,Ágatha da Rosa,Antígua e Barbuda
+4479,Ágatha Montenegro,Guiné-Bissau
+4480,Valentina Albuquerque,Chade
+4481,Sophia Campos,Letônia
+4482,Melina Fogaça,Granada
+4483,Rafaela Mendonça,Catar
+4484,Fernando Lima,Ilhas Virgens Britânicas
+4485,Maysa Duarte,Togo
+4486,Gael Henrique Cunha,Portugal
+4487,Dr. Gael Vasconcelos,Etiópia
+4488,Dra. Mariah Caldeira,Mônaco
+4489,Kamilly Barbosa,Ilha de Man
+4490,Srta. Kamilly Garcia,Bahamas
+4491,Esther Rocha,Arábia Saudita
+4492,Srta. Cecília Camargo,Benim
+4493,Sara Mendes,Domínica
+4494,João Lucas Araújo,Armênia
+4495,Alexia Cardoso,Porto Rico
+4496,Rafaela Sales,Suazilândia
+4497,Rebeca da Costa,Hungria
+4498,Luiza Farias,Svalbard e Jan Mayen
+4499,Enrico Cirino,Turquia
+4500,Vinicius Sá,Eritreia
+4501,Ana Sophia Gomes,Trindade e Tobago
+4502,Igor Moura,São Tomé e Príncipe
+4503,Henry Mendonça,Canadá
+4504,Sr. Vinicius Mendes,Ilha do Natal
+4505,Luiz Fernando Souza,Jibuti
+4506,Vitor Borges,Bulgária
+4507,Gabriel Nascimento,Honduras
+4508,Sr. João Vitor Vasconcelos,Hungria
+4509,Anthony Gabriel Souza,Domínica
+4510,Maya Alves,Honduras
+4511,Yasmin da Mota,Libéria
+4512,Maria Alice Camargo,Paraguai
+4513,Thales Cunha,Trindade e Tobago
+4514,Luna Marques,Polinésia Francesa
+4515,Joaquim Vargas,Gibraltar
+4516,Kevin da Costa,Chade
+4517,Isabela Vargas,Maurícia
+4518,Pedro Miguel da Cunha,Lesoto
+4519,Ana Liz Pereira,Uruguai
+4520,Dante Mendonça,Madagascar
+4521,Erick Pimenta,Guernsey
+4522,Maria Cecília Cardoso,Azerbaijão
+4523,Enzo Gabriel Moraes,Congo-Kinshasa
+4524,Rodrigo Santos,República Centro-Africana
+4525,Eduarda Campos,Wallis e Futuna
+4526,Alana Ferreira,Geórgia
+4527,Brayan Rezende,Burundi
+4528,Renan Souza,Azerbaijão
+4529,Jade Cavalcante,Bielorrússia
+4530,Erick Freitas,Ilhas Marshall
+4531,Sr. Murilo Abreu,Birmânia
+4532,Joana Monteiro,Cuba
+4533,Sra. Luara Casa Grande,Espanha
+4534,João Lucas Sales,Iêmen
+4535,Mariane da Rocha,Usbequistão
+4536,Ana Beatriz Fernandes,Maurícia
+4537,Nathan Dias,Ashmore and Cartier Islands
+4538,Sra. Isabel Cavalcante,Aruba
+4539,Henry Gabriel Teixeira,Argentina
+4540,Srta. Luara Brito,Akrotiri
+4541,Valentina Fernandes,República Checa
+4542,Joaquim Gonçalves,Ilhas Turcas e Caicos
+4543,Giovanna Cunha,Macau
+4544,Pedro Henrique Duarte,Ilhas Virgens Americanas
+4545,Ana Liz Freitas,Ucrânia
+4546,João Felipe Silva,Singapura
+4547,Beatriz Cunha,Nova Caledónia
+4548,Sra. Sabrina Sá,Comores
+4549,Dr. Yuri Cavalcante,Antártica
+4550,Hellena Guerra,Portugal
+4551,Théo Sousa,Guiné
+4552,Levi Cavalcante,Micronésia
+4553,Guilherme Castro,Papua-Nova Guiné
+4554,João Pedro Pacheco,Estônia
+4555,Sr. Davi Lucas da Paz,Clipperton Island
+4556,Heitor Vasconcelos,Marianas do Norte
+4557,Maria Garcia,Maldivas
+4558,Maria Flor Oliveira,Turquia
+4559,Ágatha Pimenta,Vietnam
+4560,Matheus Montenegro,Vanuatu
+4561,Isadora Castro,Bélgica
+4562,Zoe Pires,Líbia
+4563,Daniel Silveira,Comores
+4564,Léo Cassiano,Índia
+4565,Bryan Cavalcanti,Costa do Marfim
+4566,Isabela Pires,Argentina
+4567,Sofia Correia,Coreia do Sul
+4568,Eloá Teixeira,Sara Ocidental
+4569,Nathan Aparecida,Montenegro
+4570,Henrique da Cunha,Eslováquia
+4571,Rodrigo Costa,Benim
+4572,Luiz Fernando Borges,Pitcairn
+4573,Cauê Cardoso,Ilha Norfolk
+4574,Helena Dias,Burundi
+4575,Srta. Maria Eduarda Viana,Mali
+4576,Maya Nascimento,Costa do Marfim
+4577,Leonardo Cassiano,Bélgica
+4578,Sr. Pietro da Conceição,Fiji
+4579,Lucas Freitas,República Checa
+4580,João Lucas Sá,Dinamarca
+4581,Luana Câmara,Trindade e Tobago
+4582,Rafaela Pimenta,Síria
+4583,Thiago das Neves,Jordânia
+4584,Amanda das Neves,Coral Sea Islands
+4585,Daniel Rodrigues,Brunei
+4586,Emanuel Farias,Macedônia do Norte
+4587,Matteo Moura,Paracel Islands
+4588,Luiz Henrique Nascimento,Jibuti
+4589,Murilo Moreira,Congo-Brazzaville
+4590,Maria Julia Aragão,Estônia
+4591,Pietra Souza,Zâmbia
+4592,Dra. Maria Clara Rios,Bielorrússia
+4593,Kamilly da Conceição,Portugal
+4594,Maya Martins,Ilhas Virgens Americanas
+4595,Vinícius da Rosa,Rússia
+4596,Júlia Gonçalves,Nova Caledónia
+4597,Isadora Santos,Micronésia
+4598,Leonardo Pimenta,Jamaica
+4599,Sra. Stella Moraes,Bulgária
+4600,Yago Ramos,Estados Unidos
+4601,Isabela Nogueira,Micronésia
+4602,Lavínia Nunes,Suazilândia
+4603,Ana Lívia Porto,Zâmbia
+4604,Arthur Gabriel Cardoso,Omã
+4605,Dra. Alana Cavalcanti,Ilha do Natal
+4606,Breno Andrade,Ilhas Cook
+4607,Apollo Lima,Coreia do Sul
+4608,Gabrielly da Cruz,Síria
+4609,Eduardo Pimenta,Suazilândia
+4610,Raul Barbosa,Alemanha
+4611,Heitor Cirino,Guam
+4612,Luiza Cassiano,Ilhas Falkland
+4613,Laís Rios,Quiribáti
+4614,Dr. Lorenzo Almeida,Geórgia
+4615,Eloah Martins,Bermudas
+4616,Maria Helena Costa,Peru
+4617,Dr. Juan Barros,Malta
+4618,Dr. Nicolas Nogueira,Brasil
+4619,Lívia da Mota,Navassa Island
+4620,Eloah Caldeira,Bósnia e Herzegovina
+4621,Sabrina Camargo,Venezuela
+4622,Isabelly Gomes,Tailândia
+4623,Lavínia Dias,Usbequistão
+4624,Fernando Andrade,Níger
+4625,Benicio Fonseca,Papua-Nova Guiné
+4626,Caio Garcia,Moldávia
+4627,Srta. Stella Costela,Lituânia
+4628,Ísis Caldeira,Guiné-Bissau
+4629,Liz Monteiro,Serra Leoa
+4630,Fernanda da Cunha,Dhekelia
+4631,Joana Pacheco,Porto Rico
+4632,Bella da Mata,Botsuana
+4633,Levi Sales,Islândia
+4634,Srta. Lunna Montenegro,Ilhas Salomão
+4635,Isabella Rezende,Antígua e Barbuda
+4636,João Pedro Mendes,Malávi
+4637,Anthony Gabriel Farias,Navassa Island
+4638,Enrico da Mota,Ilhas Cook
+4639,Manuella Moraes,Guatemala
+4640,Sra. Juliana Barros,Líbano
+4641,Pedro Henrique Mendonça,Liechtenstein
+4642,Pedro Miguel Martins,Suazilândia
+4643,João Pedro da Rosa,Polinésia Francesa
+4644,Asafe Correia,Mauritânia
+4645,Dra. Maria Clara Nunes,Finlândia
+4646,Valentim Oliveira,Domínica
+4647,Pedro Miguel Siqueira,Wallis e Futuna
+4648,Dra. Ayla Souza,Ilhas Virgens Britânicas
+4649,Maria Sophia Costa,Lituânia
+4650,Dr. Arthur Miguel da Conceição,Ucrânia
+4651,Manuela Ribeiro,Uganda
+4652,Luara Cirino,Namíbia
+4653,João Vitor Dias,Macau
+4654,Dr. Pedro Henrique Câmara,Mongólia
+4655,Enzo Mendonça,Bulgária
+4656,Nicolas Albuquerque,Ilhas Turcas e Caicos
+4657,Murilo Gonçalves,Síria
+4658,Maria Eduarda Azevedo,Costa do Marfim
+4659,João Miguel Casa Grande,Malávi
+4660,Maysa Campos,Salvador
+4661,Luiz Gustavo Cassiano,Geórgia
+4662,Camila Rezende,Monserrate
+4663,Sra. Carolina Correia,Portugal
+4664,Maria Flor das Neves,Madagascar
+4665,Lunna Siqueira,Dinamarca
+4666,Diogo Freitas,Wallis e Futuna
+4667,Ana Clara Fonseca,Egito
+4668,Evelyn Vasconcelos,Indonésia
+4669,Sr. Davi Miguel Nunes,Guatemala
+4670,João Pedro Câmara,Wallis e Futuna
+4671,Thales Ferreira,Congo-Brazzaville
+4672,João Guilherme Brito,Ilha Norfolk
+4673,Gabriela Pereira,Porto Rico
+4674,Dra. Jade da Cruz,Etiópia
+4675,Pietro Abreu,Burundi
+4676,Luiz Henrique Pereira,Domínica
+4677,Sra. Juliana Sales,Malávi
+4678,Júlia Campos,Guiana
+4679,Dr. João Nogueira,Congo-Kinshasa
+4680,Esther Albuquerque,Coreia do Sul
+4681,Emanuel Cirino,Fiji
+4682,Dra. Marina Ramos,Samoa Americana
+4683,Heitor Moura,Lituânia
+4684,Augusto Guerra,Hong Kong
+4685,João Felipe da Luz,Bolívia
+4686,Vicente Souza,Nicarágua
+4687,Larissa Cassiano,Japão
+4688,Luiz Otávio Cunha,República Centro-Africana
+4689,Dr. Ryan Aragão,Mauritânia
+4690,Rafael Montenegro,França
+4691,Sra. Maria Eduarda Cardoso,Madagascar
+4692,Luiz Henrique Gomes,Bahamas
+4693,Julia Ferreira,Grécia
+4694,Ana Clara Montenegro,Cuba
+4695,Ravi Siqueira,Marianas do Norte
+4696,Enrico Garcia,Guiné Equatorial
+4697,Bruna Moura,Emirados Árabes Unidos
+4698,Sr. Liam da Costa,Turquemenistão
+4699,Felipe Martins,Vaticano
+4700,Srta. Julia Carvalho,Japão
+4701,Bárbara Fonseca,Ilhas Virgens Americanas
+4702,Raul Mendes,Jersey
+4703,Isaac Almeida,Bósnia e Herzegovina
+4704,Julia Jesus,Camarões
+4705,Sofia Guerra,Costa Rica
+4706,Dra. Fernanda Vargas,México
+4707,Yuri Casa Grande,Libéria
+4708,Lorena Lopes,Eritreia
+4709,Maria Flor Rodrigues,Ilha Bouvet
+4710,Carlos Eduardo Aragão,Guatemala
+4711,Maria Sophia da Cunha,Sri Lanka
+4712,Sr. Dom Garcia,Bahamas
+4713,Ana Clara Barbosa,Chade
+4714,Valentina Nunes,Marianas do Norte
+4715,Miguel Campos,Venezuela
+4716,Cecilia Caldeira,Cuba
+4717,Nina Pacheco,Bermudas
+4718,Ester Cavalcanti,Ilhas Marshall
+4719,Maya Leão,Estados Unidos
+4720,Srta. Hellena Alves,Zimbábue
+4721,Marcelo Ferreira,Áustria
+4722,Dr. Antony Duarte,Wallis e Futuna
+4723,Srta. Maria Júlia Leão,Vaticano
+4724,Emanuelly Sá,Taiwan
+4725,Dr. Enzo Sá,Tanzânia
+4726,Hadassa Barros,Ashmore and Cartier Islands
+4727,Luan da Rocha,Faroé
+4728,Dra. Ana Beatriz Dias,Reino Unido
+4729,Maria Júlia Cirino,Trindade e Tobago
+4730,Cecilia Borges,Papua-Nova Guiné
+4731,Pietra Nascimento,Ilhas dos Cocos
+4732,Leandro Lima,Ashmore and Cartier Islands
+4733,Zoe Cunha,República Dominicana
+4734,Vitor Hugo Rezende,Granada
+4735,Marcos Vinicius Cassiano,Barein
+4736,Rael Nunes,Geórgia
+4737,Elisa Azevedo,Jersey
+4738,Dra. Ana Luiza Abreu,São Vicente e Granadinas
+4739,Liam Macedo,Jersey
+4740,Arthur Miguel Novaes,Granada
+4741,Amanda Aragão,Território Britânico do Oceano Índico
+4742,Vinicius Abreu,Chipre
+4743,Heloisa Gonçalves,França
+4744,Lavínia Ribeiro,Afeganistão
+4745,Dr. Davi Lucca Campos,Ilha Wake
+4746,Srta. Ana Beatriz Andrade,Botsuana
+4747,Léo Sampaio,Somália
+4748,Bella da Paz,Bolívia
+4749,Ryan Novais,Mônaco
+4750,Calebe Fogaça,Tailândia
+4751,Fernanda Cardoso,Líbano
+4752,Jade Câmara,Geórgia
+4753,Mariana Ferreira,Singapura
+4754,Juliana Silveira,Líbano
+4755,Dra. Emanuelly Novaes,Islândia
+4756,Isabel Melo,Zâmbia
+4757,Diego Sampaio,Akrotiri
+4758,Dra. Allana Gomes,Chade
+4759,Carlos Eduardo Novais,Belize
+4760,Dr. Dante Campos,Ilhas Virgens Britânicas
+4761,Dom Barros,Albânia
+4762,Renan Cavalcante,Mayotte
+4763,Bruna Abreu,Bermudas
+4764,Dr. Vitor Gabriel Câmara,Mayotte
+4765,Sr. Ravi Gonçalves,Ashmore and Cartier Islands
+4766,Ana Laura Nunes,Quiribáti
+4767,Stella Vargas,Vietnam
+4768,Dr. Erick Costela,Sri Lanka
+4769,Dr. Francisco Freitas,Bósnia e Herzegovina
+4770,Sr. Luigi Novaes,Irlanda
+4771,Isabel Lima,Líbia
+4772,Zoe Cavalcante,Argélia
+4773,Sr. José Miguel Martins,Ashmore and Cartier Islands
+4774,Arthur Gabriel da Cruz,Quênia
+4775,Zoe da Mota,Polônia
+4776,Maria Clara Vargas,Somália
+4777,Gustavo Costa,Ilhas Cook
+4778,Srta. Maria Flor Campos,Paquistão
+4779,Pedro Nascimento,Eslováquia
+4780,Davi Miguel da Mata,Guiana
+4781,Pedro Henrique da Costa,Porto Rico
+4782,Emanuel da Rocha,Malta
+4783,Maria Isis Peixoto,Brasil
+4784,Dr. Theodoro Câmara,Iêmen
+4785,Gabrielly Nunes,Mayotte
+4786,João Gabriel Rios,Gâmbia
+4787,Maysa Porto,Kuwait
+4788,João Gabriel Siqueira,Liechtenstein
+4789,Letícia Casa Grande,Eslováquia
+4790,Oliver Borges,Navassa Island
+4791,Sra. Ana Luiza Carvalho,Reino Unido
+4792,Giovanna Mendonça,Antártica
+4793,Antony Silva,Canadá
+4794,Théo Castro,Bermudas
+4795,Kamilly Montenegro,Madagascar
+4796,Lavínia Cirino,Sara Ocidental
+4797,Ana Sophia Duarte,Finlândia
+4798,Alice da Rosa,Comores
+4799,Dr. Diego Pastor,São Vicente e Granadinas
+4800,Alana Cardoso,Navassa Island
+4801,Maria Vitória Peixoto,Tailândia
+4802,Sra. Raquel Porto,Vanuatu
+4803,Ravy da Costa,Papua-Nova Guiné
+4804,Gael Correia,Honduras
+4805,Jade Brito,Akrotiri
+4806,Antonella Marques,Granada
+4807,Valentim Cirino,Bolívia
+4808,Miguel Nascimento,Bósnia e Herzegovina
+4809,Sra. Isadora Marques,Portugal
+4810,Fernanda Castro,Macau
+4811,Mariah da Cruz,Papua-Nova Guiné
+4812,Zoe Vasconcelos,Afeganistão
+4813,Srta. Maria Fernanda Silva,Guatemala
+4814,Fernanda Ferreira,Egito
+4815,João Gabriel Costela,República Dominicana
+4816,Valentina Moura,Gabão
+4817,Beatriz Camargo,Jordânia
+4818,Liz Costela,Domínica
+4819,Guilherme Correia,Somália
+4820,Natália Andrade,Líbano
+4821,Agatha Sales,Jan Mayen
+4822,Arthur Miguel Gomes,Domínica
+4823,Yuri da Costa,Croácia
+4824,José Freitas,Ilha de Man
+4825,Vicente Borges,Venezuela
+4826,Theo Mendes,Jersey
+4827,Sabrina Souza,Brasil
+4828,Henry Gabriel Gonçalves,Brunei
+4829,Maria Vitória Nunes,Geórgia do Sul e Sandwich do Sul
+4830,Felipe Oliveira,Roménia
+4831,Lavínia Sousa,Bahamas
+4832,Luara Silva,Croácia
+4833,Kamilly da Mota,Tanzânia
+4834,Enzo Sampaio,Trindade e Tobago
+4835,Dr. Anthony Gabriel Albuquerque,Tokelau
+4836,Luiz Felipe Cavalcanti,Ucrânia
+4837,Luan Peixoto,Guiné
+4838,Miguel Pires,Dinamarca
+4839,Rebeca Sousa,Austrália
+4840,Vinicius Sampaio,Bósnia e Herzegovina
+4841,Davi Lucas Pinto,Bulgária
+4842,Diogo da Rocha,Mauritânia
+4843,Melina da Cunha,Jordânia
+4844,Amanda da Mata,Andorra
+4845,Gustavo Guerra,São Cristóvão e Neves
+4846,Jade Rezende,Quirguizistão
+4847,Stella da Paz,Islândia
+4848,Cecília Cunha,Ilha do Natal
+4849,Sr. Gustavo Henrique Siqueira,União Europeia
+4850,João Moreira,Quiribáti
+4851,Dr. Renan Moura,Sara Ocidental
+4852,Manuela da Rosa,Porto Rico
+4853,Raul Carvalho,Colômbia
+4854,Luara da Rosa,Granada
+4855,Sr. Asafe da Paz,Zâmbia
+4856,Theodoro Nascimento,Usbequistão
+4857,Yuri Andrade,Alemanha
+4858,Sr. Vinícius Machado,Cazaquistão
+4859,Davi Lucca Rocha,Coreia do Sul
+4860,Isabela Correia,Moldávia
+4861,Dante Rodrigues,Eritreia
+4862,Sra. Ana Luiza Azevedo,Níger
+4863,Hellena Ferreira,Tunísia
+4864,Sr. Davi Lucca Gomes,Equador
+4865,Bryan da Mota,Ashmore and Cartier Islands
+4866,Gabriela Aparecida,Territórios Austrais Franceses
+4867,Srta. Gabriela Oliveira,Granada
+4868,Diego Correia,Liechtenstein
+4869,Cecilia Camargo,Monserrate
+4870,Sr. Cauê Moreira,Honduras
+4871,Samuel Montenegro,Sri Lanka
+4872,Antônio Cardoso,Líbia
+4873,João Felipe Costela,Tonga
+4874,Luiz Henrique Siqueira,Estados Unidos
+4875,Sophie da Cunha,Coreia do Norte
+4876,Ana Luiza Cardoso,Suíça
+4877,Dra. Brenda Ribeiro,Taiwan
+4878,Sra. Yasmin Pacheco,Japão
+4879,Antônio Campos,Namíbia
+4880,Bella Viana,Portugal
+4881,Laís Pires,Monserrate
+4882,Sr. Antony da Rocha,Bermudas
+4883,Gabrielly Porto,Granada
+4884,Sarah Viana,Eslováquia
+4885,Valentim Garcia,Tajiquistão
+4886,Cauê da Rocha,Haiti
+4887,João Guilherme Mendonça,Tailândia
+4888,Cauê Fogaça,Singapura
+4889,Yasmin Silveira,Mongólia
+4890,Olivia Rocha,Serra Leoa
+4891,Ana Sophia Fogaça,República Dominicana
+4892,Nathan da Mata,Bermudas
+4893,Dra. Marcela Mendes,Jersey
+4894,Davi Luiz Rezende,Dinamarca
+4895,Apollo Vieira,Luxemburgo
+4896,Enzo Garcia,Iran
+4897,Sra. Heloísa Brito,Aruba
+4898,Camila Rodrigues,Etiópia
+4899,Dr. Arthur Araújo,China
+4900,Srta. Eloah Camargo,Brunei
+4901,Théo Machado,Hungria
+4902,Theodoro Vasconcelos,Fiji
+4903,Maria Vitória Campos,Quênia
+4904,Ana Laura Cunha,Quiribáti
+4905,Carolina Ribeiro,Ilhas Turcas e Caicos
+4906,Srta. Alana Dias,Birmânia
+4907,Ana Liz das Neves,Chipre
+4908,Noah Viana,Azerbaijão
+4909,Fernanda Albuquerque,Nauru
+4910,Esther Castro,República Centro-Africana
+4911,Dra. Julia Costa,Afeganistão
+4912,Dr. Théo Moreira,Domínica
+4913,Heloisa Rios,Polônia
+4914,Nicole Costela,Akrotiri
+4915,Pedro Miguel Cavalcanti,Camboja
+4916,Larissa da Mota,Andorra
+4917,Sr. Bruno Vieira,Rússia
+4918,Theo Fernandes,Islândia
+4919,Luiz Fernando Rios,Israel
+4920,Júlia Ramos,Argélia
+4921,Leandro Fogaça,Pitcairn
+4922,Benjamin Campos,Egito
+4923,Mariane Camargo,França
+4924,Srta. Raquel da Mata,Portugal
+4925,Sr. Guilherme Barbosa,Chile
+4926,Srta. Julia Farias,Ilhas Caiman
+4927,Liam da Cunha,Afeganistão
+4928,Luana Caldeira,Dhekelia
+4929,Otávio Aragão,Emirados Árabes Unidos
+4930,Rafaela Cavalcante,Lituânia
+4931,Bruna Câmara,Croácia
+4932,Luiz Miguel Cavalcante,China
+4933,Rhavi Cunha,Chade
+4934,Sofia Sales,Zâmbia
+4935,Sophie Andrade,Ilhas Heard e McDonald
+4936,Aylla Nascimento,Polinésia Francesa
+4937,Thales Marques,Mônaco
+4938,Gustavo Fogaça,Nova Zelândia
+4939,Antony Leão,China
+4940,Dr. Luiz Gustavo Cavalcanti,Usbequistão
+4941,Rafael Borges,Bélgica
+4942,Luna Macedo,Granada
+4943,Anna Liz Cardoso,Bahamas
+4944,Brenda da Costa,Clipperton Island
+4945,Gabriel da Rosa,Indonésia
+4946,Heloisa Sampaio,Egito
+4947,Sra. Maria Isis Peixoto,Togo
+4948,Felipe Cirino,Botsuana
+4949,Beatriz Cavalcante,Suriname
+4950,Apollo Nogueira,Akrotiri
+4951,Josué da Luz,Tajiquistão
+4952,Luiz Miguel Novaes,Sara Ocidental
+4953,Dra. Sophie Fogaça,Pitcairn
+4954,Gabrielly Freitas,Bolívia
+4955,Josué Novais,Gabão
+4956,Srta. Mariana Duarte,Fiji
+4957,Lucas Viana,Laos
+4958,Nicolas Carvalho,Gabão
+4959,Luiz Gustavo da Costa,Espanha
+4960,Matheus Brito,Alemanha
+4961,Pedro Moreira,Brasil
+4962,Dr. João Miguel Costa,Quênia
+4963,Caleb Cavalcante,Suíça
+4964,Leonardo Vargas,Butão
+4965,Henry Gabriel Farias,Bahamas
+4966,Mariah Barbosa,Sara Ocidental
+4967,Renan da Cruz,Ucrânia
+4968,Allana da Cruz,Reino Unido
+4969,Mariah da Cruz,Seicheles
+4970,Bento da Cunha,Ilhas Falkland
+4971,Felipe Borges,Malávi
+4972,Ana Julia Araújo,Samoa
+4973,Henry Gabriel Freitas,Geórgia do Sul e Sandwich do Sul
+4974,Ana Liz Rodrigues,Kuwait
+4975,Sr. Renan Moraes,Trindade e Tobago
+4976,João Miguel Silveira,Sudão
+4977,Sr. Juan Cassiano,Gana
+4978,Otávio Monteiro,Congo-Brazzaville
+4979,Caleb Cavalcanti,Ucrânia
+4980,Sra. Marcela Freitas,Camboja
+4981,Rael Pereira,Ilhas Cook
+4982,Theodoro Moraes,Nauru
+4983,Ana Luiza Caldeira,Ilha Wake
+4984,Sabrina Sá,Coreia do Sul
+4985,Olivia Pereira,Costa Rica
+4986,Francisco Borges,Ilha do Natal
+4987,André Cirino,México
+4988,Srta. Lavínia Farias,São Pedro e Miquelon
+4989,Ana Vitória Andrade,Somália
+4990,Sra. Bárbara Fernandes,África do Sul
+4991,Dra. Marina Macedo,Filipinas
+4992,João Guilherme Ferreira,Letônia
+4993,Maria Laura Campos,Nova Zelândia
+4994,Ravi Lucca Fonseca,Países Baixos
+4995,Matteo Nascimento,Arábia Saudita
+4996,Anthony Gabriel Marques,Congo-Kinshasa
+4997,Antônio Rios,Grécia
+4998,Arthur Gabriel Pereira,Jersey
+4999,Léo Cunha,Monserrate
+5000,Danilo da Paz,Rússia
