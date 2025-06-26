@@ -113,6 +113,12 @@ Cite aqui todas as referências utilizadas neste projeto, pode ser outros reposi
 
 ![image](https://github.com/user-attachments/assets/22d13b31-2a20-4e36-84f2-2ed39c310e07)
 
+## Referências
 
+Documentação do Faker:
+Fonte: https://faker.readthedocs.io/
 
+Documentação Oficial de Python:
+random: https://docs.python.org/3/library/random.html
+datetime: https://docs.python.org/3/library/datetime.html
 
