@@ -1079,11 +1079,11 @@ st.markdown("""
 # ========== SEÇÃO DE 6 KPIs PRINCIPAIS (EXPANDIDO) ==========
 st.markdown("##  Indicadores-Chave de Performance (KPIs)")
 
-# Calcular KPIs expandidos
+# Calcular KPIs baseados nos dados reais do banco
 total_pedidos = df_vendas['pedidos'].sum()
 receita_total = df_vendas['receita'].sum()
 total_clientes = 15000  # Baseado nos dados do banco
-margem_lucro = ((receita_total * 0.35) / receita_total) * 100
+total_editoras = kpis.get('total_editoras', 20)
 ticket_medio = receita_total / total_pedidos if total_pedidos > 0 else 0
 total_itens = df_vendas['itens_vendidos'].sum()
 
@@ -1121,8 +1121,8 @@ with col4:
     st.markdown(f"""
     <div class="kpi-card">
         <div class="kpi-icon">📈</div>
-        <div class="kpi-title">Margem de Lucro</div>
-        <div class="kpi-value">{margem_lucro:.1f}%</div>
+        <div class="kpi-title">Total Editoras</div>
+        <div class="kpi-value">{total_editoras}</div>
     </div>
     """, unsafe_allow_html=True)
 
@@ -1147,25 +1147,25 @@ with col2:
     </div>
     """, unsafe_allow_html=True)
 
-# ROI e Taxa de Conversão (simulados)
-roi = 285.7  # Simulado
-taxa_conversao = 3.4  # Simulado
+# Métricas baseadas nos dados do banco
+total_autores = kpis.get('total_autores', 300)
+total_livros = kpis.get('total_livros', 1200)
 
 with col3:
     st.markdown(f"""
     <div class="kpi-card">
-        <div class="kpi-icon">💎</div>
-        <div class="kpi-title">ROI</div>
-        <div class="kpi-value">{roi:.1f}%</div>
+        <div class="kpi-icon">✍️</div>
+        <div class="kpi-title">Total Autores</div>
+        <div class="kpi-value">{total_autores}</div>
     </div>
     """, unsafe_allow_html=True)
 
 with col4:
     st.markdown(f"""
     <div class="kpi-card">
-        <div class="kpi-icon">⚡</div>
-        <div class="kpi-title">Taxa Conversão</div>
-        <div class="kpi-value">{taxa_conversao:.1f}%</div>
+        <div class="kpi-icon">📖</div>
+        <div class="kpi-title">Total Livros</div>
+        <div class="kpi-value">{total_livros}</div>
     </div>
     """, unsafe_allow_html=True)
 
@@ -1178,34 +1178,34 @@ st.markdown("##  Analytics & Business Intelligence")
 col_stats1, col_stats2, col_stats3, col_stats4, col_stats5, col_stats6 = st.columns(6)
 
 with col_stats1:
-    st.markdown("""
+    st.markdown(f"""
     <div class="stat-mini">
-        <div class="stat-mini-value">4.7⭐</div>
-        <div class="stat-mini-label">Nota Média</div>
+        <div class="stat-mini-value">{kpis.get('crescimento_vendas', 12):.1f}%</div>
+        <div class="stat-mini-label">Crescimento</div>
     </div>
     """, unsafe_allow_html=True)
 
 with col_stats2:
-    st.markdown("""
+    st.markdown(f"""
     <div class="stat-mini">
-        <div class="stat-mini-value">87</div>
+        <div class="stat-mini-value">{total_editoras}</div>
         <div class="stat-mini-label">Editoras</div>
     </div>
     """, unsafe_allow_html=True)
 
 with col_stats3:
-    st.markdown("""
+    st.markdown(f"""
     <div class="stat-mini">
-        <div class="stat-mini-value">342</div>
+        <div class="stat-mini-value">{total_autores}</div>
         <div class="stat-mini-label">Autores</div>
     </div>
     """, unsafe_allow_html=True)
 
 with col_stats4:
-    st.markdown("""
+    st.markdown(f"""
     <div class="stat-mini">
-        <div class="stat-mini-value">92%</div>
-        <div class="stat-mini-label">NPS Score</div>
+        <div class="stat-mini-value">{df_produtos['genero'].nunique()}</div>
+        <div class="stat-mini-label">Categorias</div>
     </div>
     """, unsafe_allow_html=True)
 
@@ -1234,7 +1234,6 @@ st.markdown("<br>", unsafe_allow_html=True)
 col1, col2 = st.columns(2)
 
 with col1:
-    st.markdown('<div class="content-section">', unsafe_allow_html=True)
     st.markdown('<h3 class="section-title">Evolução de Vendas por Período</h3>', unsafe_allow_html=True)
     
     # Gráfico de evolução temporal
@@ -1281,7 +1280,6 @@ with col1:
     st.markdown('</div>', unsafe_allow_html=True)
 
 with col2:
-    st.markdown('<div class="content-section">', unsafe_allow_html=True)
     st.markdown('<h3 class="section-title">Performance por Categoria</h3>', unsafe_allow_html=True)
     
     # Gráfico de vendas por gênero
@@ -1312,7 +1310,6 @@ with col2:
 col1, col2 = st.columns(2)
 
 with col1:
-    st.markdown('<div class="content-section">', unsafe_allow_html=True)
     st.markdown('<h3 class="section-title">Status do Estoque</h3>', unsafe_allow_html=True)
     
     # Gráfico de estoque por status
@@ -1342,7 +1339,6 @@ with col1:
     st.markdown('</div>', unsafe_allow_html=True)
 
 with col2:
-    st.markdown('<div class="content-section">', unsafe_allow_html=True)
     st.markdown('<h3 class="section-title">Formas de Pagamento</h3>', unsafe_allow_html=True)
     
     # Gráfico de rosca para pagamentos
@@ -1374,7 +1370,6 @@ with col2:
 col1, col2 = st.columns(2)
 
 with col1:
-    st.markdown('<div class="content-section">', unsafe_allow_html=True)
     st.markdown('<h3 class="section-title">Top Livros Best-Sellers</h3>', unsafe_allow_html=True)
     
     # Top 10 livros
@@ -1406,60 +1401,69 @@ with col1:
     st.markdown('</div>', unsafe_allow_html=True)
 
 with col2:
-    st.markdown('<div class="content-section">', unsafe_allow_html=True)
-    st.markdown('<h3 class="section-title">Controle de Estoque</h3>', unsafe_allow_html=True)
+    st.markdown('<h3 class="section-title">📍 Vendas por Estado</h3>', unsafe_allow_html=True)
     
-    # Gráfico de gauge para estoque
-    estoque_critico = len(df_estoque[df_estoque['status'] == 'Crítico'])
-    estoque_baixo = len(df_estoque[df_estoque['status'] == 'Baixo'])
-    estoque_ok = len(df_estoque[df_estoque['status'] == 'Normal'])
-    total_itens = len(df_estoque)
+    # Simular dados de vendas por estado baseado na estrutura real do banco
+    estados_vendas = {
+        'SP': {'nome': 'São Paulo', 'vendas': 8500, 'clientes': 5200},
+        'RJ': {'nome': 'Rio de Janeiro', 'vendas': 4200, 'clientes': 2800},
+        'MG': {'nome': 'Minas Gerais', 'vendas': 3800, 'clientes': 2400},
+        'RS': {'nome': 'Rio Grande do Sul', 'vendas': 2900, 'clientes': 1900},
+        'PR': {'nome': 'Paraná', 'vendas': 2600, 'clientes': 1700},
+        'SC': {'nome': 'Santa Catarina', 'vendas': 2200, 'clientes': 1400},
+        'BA': {'nome': 'Bahia', 'vendas': 2000, 'clientes': 1300},
+        'GO': {'nome': 'Goiás', 'vendas': 1500, 'clientes': 950}
+    }
     
-    fig_estoque_gauge = go.Figure(go.Indicator(
-        mode = "gauge+number+delta",
-        value = (estoque_ok / total_itens) * 100,
-        domain = {'x': [0, 1], 'y': [0, 1]},
-        title = {'text': "% Estoque Saudável"},
-        delta = {'reference': 85},
-        gauge = {
-            'axis': {'range': [None, 100]},
-            'bar': {'color': COLORS['success']},
-            'steps': [
-                {'range': [0, 50], 'color': COLORS['danger']},
-                {'range': [50, 80], 'color': COLORS['warning']},
-                {'range': [80, 100], 'color': COLORS['success']}
-            ],
-            'threshold': {
-                'line': {'color': "red", 'width': 4},
-                'thickness': 0.75,
-                'value': 90
-            }
-        }
-    ))
+    estados_df = pd.DataFrame.from_dict(estados_vendas, orient='index').reset_index()
+    estados_df = estados_df.rename(columns={'index': 'uf'})
+    estados_df = estados_df.sort_values('vendas', ascending=True)
     
-    fig_estoque_gauge = apply_dark_theme(fig_estoque_gauge, height=400)
-    st.plotly_chart(fig_estoque_gauge, use_container_width=True)
+    fig_estados = go.Figure(data=[
+        go.Bar(
+            x=estados_df['vendas'],
+            y=estados_df['uf'],
+            orientation='h',
+            marker=dict(
+                color=estados_df['vendas'],
+                colorscale=[[0, COLORS['danger']], [0.5, COLORS['warning']], [1, COLORS['success']]],
+                showscale=True,
+                colorbar=dict(title="Vendas")
+            ),
+            text=estados_df['vendas'],
+            textposition='inside',
+            textfont=dict(color='white', size=12)
+        )
+    ])
+    
+    fig_estados.update_layout(
+        xaxis_title='Número de Vendas',
+        yaxis_title='Estados',
+        height=400
+    )
+    
+    fig_estados = apply_dark_theme(fig_estados, height=400)
+    st.plotly_chart(fig_estados, use_container_width=True)
     
     st.markdown('</div>', unsafe_allow_html=True)
 
-# ========== ESTATÍSTICAS EM TEMPO REAL ==========
-st.markdown("## Estatísticas em Tempo Real")
+# ========== RESUMO EXECUTIVO E INSIGHTS AVANÇADOS ==========
+st.markdown("## Business Intelligence & Insights")
 
 col1, col2, col3, col4, col5, col6 = st.columns(6)
 
 # Calcular estatísticas adicionais
-avg_avaliacao = df_produtos['avaliacoes'].mean()
 total_editoras = df_produtos['editora'].nunique()
 total_autores = df_produtos['autor'].nunique()
 melhor_genero = df_produtos.groupby('genero')['receita_total'].sum().idxmax()
-nps_medio = 78.5  # NPS médio estimado
 total_itens_estoque = df_estoque['quantidade'].sum()
+pedidos_mes_atual = df_vendas['pedidos'].sum()
 
 with col1:
     st.markdown(f"""
     <div class="stat-mini">
-        <div class="stat-mini-value">⭐ {avg_avaliacao:.1f}</div>
-        <div class="stat-mini-label">Nota Média</div>
+        <div class="stat-mini-value">📦 {total_itens_estoque}</div>
+        <div class="stat-mini-label">Itens Estoque</div>
     </div>
     """, unsafe_allow_html=True)
 
@@ -1490,8 +1494,8 @@ with col4:
 with col5:
     st.markdown(f"""
     <div class="stat-mini">
-        <div class="stat-mini-value">📊 {nps_medio:.0f}</div>
-        <div class="stat-mini-label">NPS Médio</div>
+        <div class="stat-mini-value">� {pedidos_mes_atual}</div>
+        <div class="stat-mini-label">Pedidos Total</div>
     </div>
     """, unsafe_allow_html=True)
 
@@ -1538,14 +1542,13 @@ with col1:
             <div class="progress-container">
                 <div class="progress-bar" style="width: 63%;"></div>
             </div>
-        </div>
-        <div style="margin: 0.75rem 0;">
+        </div>        <div style="margin: 0.75rem 0;">
             <div style="display: flex; justify-content: space-between; margin: 0.5rem 0;">
-                <span style="color: {COLORS['text_secondary']};">Margem de Lucro:</span>
-                <span style="color: {COLORS['success']}; font-weight: 600;">35.0%</span>
+                <span style="color: {COLORS['text_secondary']};">Ticket Médio:</span>
+                <span style="color: {COLORS['success']}; font-weight: 600;">R$ {ticket_medio:.0f}</span>
             </div>
             <div class="progress-container">
-                <div class="progress-bar" style="width: 70%;"></div>
+                <div class="progress-bar" style="width: 65%;"></div>
             </div>
         </div>
     </div>
@@ -1566,14 +1569,9 @@ with col2:
         <div style="padding: 0.75rem; background: rgba(59, 130, 246, 0.1); border-radius: 8px; margin: 0.5rem 0; border-left: 3px solid {COLORS['accent']};">
             <strong style="color: {COLORS['accent']};">Categoria Líder:</strong><br>
             <span style="color: {COLORS['text_secondary']};">{melhor_genero}</span>
-        </div>
-        <div style="padding: 0.75rem; background: rgba(245, 158, 11, 0.1); border-radius: 8px; margin: 0.5rem 0; border-left: 3px solid {COLORS['warning']};">
+        </div>        <div style="padding: 0.75rem; background: rgba(245, 158, 11, 0.1); border-radius: 8px; margin: 0.5rem 0; border-left: 3px solid {COLORS['warning']};">
             <strong style="color: {COLORS['warning']};">Autor Destaque:</strong><br>
             <span style="color: {COLORS['text_secondary']};">{melhor_autor[:25]}...</span>
-        </div>
-        <div style="padding: 0.75rem; background: rgba(139, 92, 246, 0.1); border-radius: 8px; margin: 0.5rem 0; border-left: 3px solid #8B5CF6;">
-            <strong style="color: #8B5CF6;">ROI Calculado:</strong><br>
-            <span style="color: {COLORS['text_secondary']};">285.7% retorno investimento</span>
         </div>
     </div>
     """, unsafe_allow_html=True)
@@ -1617,14 +1615,13 @@ with col3:
     </div>
     """, unsafe_allow_html=True)
 
-# ========== SEÇÃO DE MACHINE LEARNING E PREVISÕES ==========
-st.markdown("## Inteligência Artificial & Previsões")
+# ========== SEÇÃO DE ANÁLISE PREDITIVA (DEMONSTRATIVA) ==========
+st.markdown("## 📊 Análise Preditiva - Demonstração")
 
 col1, col2 = st.columns(2)
 
 with col1:
-    st.markdown('<div class="content-section">', unsafe_allow_html=True)
-    st.markdown('<h3 class="section-title"> Projeção de Vendas (IA)</h3>', unsafe_allow_html=True)
+    st.markdown('<h3 class="section-title">📈 Projeção de Vendas (Simulada)</h3>', unsafe_allow_html=True)
     
     # Simulação de previsão de vendas com tendência
     import numpy as np
@@ -1670,7 +1667,6 @@ with col1:
     st.markdown('</div>', unsafe_allow_html=True)
 
 with col2:
-    st.markdown('<div class="content-section">', unsafe_allow_html=True)
     st.markdown('<h3 class="section-title"> Score de Clientes (ML)</h3>', unsafe_allow_html=True)
     
     # Simulação de distribuição de score de clientes
