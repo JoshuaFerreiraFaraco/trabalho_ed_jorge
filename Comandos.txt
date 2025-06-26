@@ -1,3 +1,8 @@
+Comandos AZ:
+az login
+
+az group list -o table
+
 Comandos Terraform:
 terraform init
 
@@ -24,6 +29,3 @@ choco install terraform -y
 
 Instalar Azure Client:
 https://aka.ms/installazurecliwindows
-
-Comandos AZ:
-az group list -o table
