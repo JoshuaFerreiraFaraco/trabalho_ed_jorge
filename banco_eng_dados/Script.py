@@ -158,3 +158,17 @@ for fk in fks:
 
 print("\nFinalizado com sucesso.")
 conn.close()
+
+
+import sqlite3
+import pandas as pd
+
+conn = sqlite3.connect('livraria.db')
+
+tabelas = ['cliente', 'endereco', 'autor', 'editora', 'livro', 'pedido', 'item_pedido', 'estoque', 'pagamento', 'categoria', 'tipo_pagamento']
+
+for tabela in tabelas:
+    df = pd.read_sql_query(f"SELECT * FROM {tabela}", conn)
+    df.to_csv(f"{tabela}.csv", index=False)
+
+conn.close()
