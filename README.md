@@ -107,11 +107,8 @@ Cite aqui todas as referências utilizadas neste projeto, pode ser outros reposi
 
 ## Modelagem relacional:
 
-![image](https://github.com/user-attachments/assets/c3dcc0e9-2636-4585-9e45-8175eed89cc8)
+![Untitled](https://github.com/user-attachments/assets/7a0fe861-16c8-43f6-9389-72191e8fe879)
 
-## Modelagem dimensional:
-
-![image](https://github.com/user-attachments/assets/22d13b31-2a20-4e36-84f2-2ed39c310e07)
 
 
 
