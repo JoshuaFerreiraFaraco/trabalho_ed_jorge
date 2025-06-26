@@ -8,23 +8,12 @@
 
 Projeto desenvolvido para a disciplina de Engenharia de Dados, focado na criação de uma pipeline em nuvem para um sistema de vendas de livros. Utilizou-se Terraform para provisionamento, Azure Databricks e Data Lake para o tratamento dos dados, e Power BI para visualização dos resultados.
 
-## Desenho de Arquitetura
-
-Coloque uma imagem do seu projeto, como no exemplo abaixo:
-
-![image](https://github.com/jlsilva01/projeto-ed-satc/assets/484662/541de6ab-03fa-49b3-a29f-dec8857360c1)
-
 ## Pré-requisitos e ferramentas utilizadas
 
 - **Linguagem:** Python 3.11+  
-- **Framework web:** FastAPI   
-- **Qualidade de código:** pre-commit (ruff, black, isort, flake8, mypy)  
+- **Dashboard:** streamlit e plotly
 - **Orquestração local:** Docker Compose  
-- **Documentação:** MkDocs + mkdocstrings + mkdocs-material
-
-```
-Dar exemplos
-```
+- **Documentação:** MkDocs
 
 ## Instalação
 
