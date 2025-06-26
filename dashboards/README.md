@@ -35,14 +35,14 @@ Criar uma visualização completa e interativa dos dados de vendas de livros, si
 
 ## 🚀 Como Executar
 
-1. Certifique-se que o ambiente Poetry está ativo:
+1. Instalar Streamlit:
 ```bash
-poetry shell
+poetry streamlit
 ```
 
 2. Execute o dashboard:
 ```bash
-poetry run streamlit run dashboards/app.py
+poetry run streamlit run dashboards/app_onepage.py
 ```
 
 3. Acesse no navegador: `http://localhost:8501`
