@@ -17,10 +17,8 @@ Coloque uma imagem do seu projeto, como no exemplo abaixo:
 ## Pré-requisitos e ferramentas utilizadas
 
 - **Linguagem:** Python 3.11+  
-- **Framework web:** FastAPI  
-- **Servidor ASGI:** Uvicorn  
+- **Framework web:** FastAPI   
 - **Qualidade de código:** pre-commit (ruff, black, isort, flake8, mypy)  
-- **Container:** Docker  
 - **Orquestração local:** Docker Compose  
 - **Documentação:** MkDocs + mkdocstrings + mkdocs-material
 
@@ -75,33 +73,51 @@ Para publicar o site estático:
 uv run mkdocs gh-deploy
 ```
 
-## Colaboração
-
-1. Abra uma **issue** para discutir sua feature ou bug.  
-2. Crie um **branch**:  
-
-   ```bash
-   git checkout -b feature/nome-da-sua-feature
-   ```
-3. Faça suas alterações e **commit** seguindo o [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/).  
-4. Envie um **pull request** para `main`.  
-5. Aguarde revisão e merge.
-
-## Versão
-
-Fale sobre a versão e o controle de versões para o projeto. 
-
 ## Autores
 
-Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
-
-* **Aluno 1** - *Trabalho Inicial* - [(https://github.com/linkParaPerfil)](https://github.com/linkParaPerfil)
-* **Aluno 2** - *Documentação* - [https://github.com/linkParaPerfil](https://github.com/linkParaPerfil)
+* **Daniela Miranda Fernandez Cardoso** - *Geração do CSV - Banco de Dados* - [(https://github.com/linkParaPerfil)](https://github.com/DaniMFCardoso)
+* **Emely Pickler Fernandes** - *Geração do CSV - Banco de Dados* - [https://github.com/linkParaPerfil](https://github.com/emelypickler)
+* **João Victor Macan Fontanella** - *Azure - Bronze,Silver e Gold* - [https://github.com/linkParaPerfil](https://github.com/JoaoFontanella)
+* **Joshua Ferreira Faraco** - *Azure - Bronze,Silver e Gold* - [https://github.com/linkParaPerfil](https://github.com/JoshuaFerreiraFaraco)
+* **Miguel Rossi Fermo** - *Dashboard* - [https://github.com/linkParaPerfil](https://github.com/miguelfermo)
+* **Weslaine Santana dos Santos** - *Mkdocs - Modelo ER* - [https://github.com/linkParaPerfil](https://github.com/weslainesantana)
 
 ## Referências
 
-Cite aqui todas as referências utilizadas neste projeto, pode ser outros repositórios, livros, artigos de internet etc.
+Documentação do Faker:
+  **Faker**
+  
+      Fonte: https://faker.readthedocs.io/
 
+Documentação Oficial de Python:
+
+   **random**: 
+   
+      Fonte: https://docs.python.org/3/library/random.html
+      
+   **datetime**: 
+   
+      Fonte: https://docs.python.org/3/library/datetime.html
+   
+   **streamlit**:
+   
+      Fonte: https://docs.streamlit.io/
+      Repositório no GitHub: https://github.com/streamlit/streamlit
+
+   **Plotly (Plotly.py)**
+   
+      Fonte: https://plotly.com/python/
+      Repositório no GitHub: https://github.com/plotly/plotly.py
+   
+   **Pandas**
+   
+      Fonte: https://pandas.pydata.org/docs/
+      Repositório no GitHub: https://github.com/pandas-dev/pandas
+      
+   **NumPy**
+   
+      Fonte: https://numpy.org/doc/2.3/
+      Repositório no GitHub: https://github.com/numpy/numpy
 
 # Nossa documentação abaixo: 
 
@@ -110,12 +126,4 @@ Cite aqui todas as referências utilizadas neste projeto, pode ser outros reposi
 ![Untitled](https://github.com/user-attachments/assets/7a0fe861-16c8-43f6-9389-72191e8fe879)
 
 
-## Referências
-
-Documentação do Faker:
-Fonte: https://faker.readthedocs.io/
-
-Documentação Oficial de Python:
-random: https://docs.python.org/3/library/random.html
-datetime: https://docs.python.org/3/library/datetime.html
 
