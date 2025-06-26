@@ -1,12 +1,12 @@
-# Título do projeto
+# Pipeline de Dados para Sistema de Vendas de Livros em Nuvem
 
 [![Lint & Tests](https://img.shields.io/github/actions/workflow/status/jlsilva01/projeto-ed-satc/ci.yml?branch=main)](https://github.com/jlsilva01/projeto-ed-satc/actions)  
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen.svg)](https://github.com/jlsilva01/projeto-ed-satc)  
 [![Docker Pulls](https://img.shields.io/docker/pulls/jlsilva01/projeto-ed-satc)](https://hub.docker.com/r/jlsilva01/projeto-ed-satc)  
 [![Docs](https://img.shields.io/badge/docs-mkdocs-blue)](https://jlsilva01.github.io/projeto-ed-satc/)  
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-
-Repositorio modelo para desenvolvimento do projeto final da disciplina de Engenharia de Dados do curso de Engenharia de Software da UNISATC.
+Projeto desenvolvido para a disciplina de Engenharia de Dados, focado na criação de uma pipeline em nuvem para um sistema de vendas de livros. Utilizou-se Terraform para provisionamento, Azure Databricks e Data Lake para o tratamento dos dados, e Power BI para visualização dos resultados.
 
 ## Desenho de Arquitetura
 
@@ -33,8 +33,8 @@ Dar exemplos
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/jlsilva01/projeto-ed-satc.git
-cd projeto-ed-satc
+git clone https://github.com/JoshuaFerreiraFaraco/trabalho_ed_jorge.git
+
 ```
 
 ### 2. Instalar dependências & pre-commit
@@ -98,11 +98,6 @@ Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 * **Aluno 1** - *Trabalho Inicial* - [(https://github.com/linkParaPerfil)](https://github.com/linkParaPerfil)
 * **Aluno 2** - *Documentação* - [https://github.com/linkParaPerfil](https://github.com/linkParaPerfil)
 
-## Licença
-
-Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE](https://github.com/jlsilva01/projeto-ed-satc/blob/main/LICENSE) para detalhes.   
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-
 ## Referências
 
 Cite aqui todas as referências utilizadas neste projeto, pode ser outros repositórios, livros, artigos de internet etc.
@@ -113,6 +108,11 @@ Cite aqui todas as referências utilizadas neste projeto, pode ser outros reposi
 ## Modelagem relacional:
 
 ![image](https://github.com/user-attachments/assets/c3dcc0e9-2636-4585-9e45-8175eed89cc8)
+
+## Modelagem dimensional:
+
+![image](https://github.com/user-attachments/assets/22d13b31-2a20-4e36-84f2-2ed39c310e07)
+
 
 
 
